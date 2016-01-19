@@ -1,0 +1,34 @@
+4/12/2014 1:04:35 PM:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-11-2014.pdf
+System.Runtime.InteropServices.COMException (0x8004100F): Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {18351CD2-36E8-40A7-A87D-C2E8F2E71E61}.rpt:
+Unable to connect: incorrect log on parameters.
+   at CrystalDecisions.ReportAppServer.Controllers.DatabaseControllerClass.SetTableLocation(ISCRTable CurTable, ISCRTable NewTable)
+   at CrystalDecisions.CrystalReports.Engine.Table.set_Location(String value)
+   at WindowsApplication1.Generate.GenerateReport() in C:\Users\tarr12067047\Desktop\Latest\Updated NCR\WindowsApplication1\Generate.vb:line 152
+4/12/2014 1:04:35 PM:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-11-2014.pdf
+System.Runtime.InteropServices.COMException (0x8004100F): Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {033C975E-471A-4817-8FDA-ACBA4A6ABEA8}.rpt:
+Unable to connect: incorrect log on parameters.
+   at CrystalDecisions.ReportAppServer.Controllers.DatabaseControllerClass.SetTableLocation(ISCRTable CurTable, ISCRTable NewTable)
+   at CrystalDecisions.CrystalReports.Engine.Table.set_Location(String value)
+   at WindowsApplication1.Generate.GenerateReport() in C:\Users\tarr12067047\Desktop\Latest\Updated NCR\WindowsApplication1\Generate.vb:line 152
+4/12/2014 1:04:35 PM:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-11-2014.pdf
+System.Runtime.InteropServices.COMException (0x8004100F): Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {81EACC5A-FA2D-4CE5-B99B-730B45CFD3A6}.rpt:
+Unable to connect: incorrect log on parameters.
+   at CrystalDecisions.ReportAppServer.Controllers.DatabaseControllerClass.SetTableLocation(ISCRTable CurTable, ISCRTable NewTable)
+   at CrystalDecisions.CrystalReports.Engine.Table.set_Location(String value)
+   at WindowsApplication1.Generate.GenerateReport() in C:\Users\tarr12067047\Desktop\Latest\Updated NCR\WindowsApplication1\Generate.vb:line 152
+4/12/2014 1:06:26 PM:DELETE ERROR:DELETE tbl_UnsentReports_V3 where ReportId='25' and EmailAddress='rhon6260@gmail.com' and valueParamClass_04 ='BICOL-REGION-AREA2'

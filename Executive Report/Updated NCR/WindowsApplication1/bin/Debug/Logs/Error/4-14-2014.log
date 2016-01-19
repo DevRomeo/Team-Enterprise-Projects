@@ -1,0 +1,18 @@
+4/14/2014 9:01:36 AM:DELETE ERROR:DELETE tbl_UnsentReports_V3 where ReportId='26' and EmailAddress='rhon6260@gmail.com' and valueParamClass_04 ='BICOL-REGION-AREA2'
+4/14/2014 9:01:46 AM:DELETE ERROR:DELETE tbl_UnsentReports_V3 where ReportId='27' and EmailAddress='rhon6260@gmail.com' and valueParamClass_04 ='BICOL-REGION-AREA2'
+4/14/2014 9:02:43 AM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-9-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {FF2D91DF-EC19-4896-86AB-FBAA4089AFAD}.rpt:
+Unable to connect: incorrect log on parameters.
+4/14/2014 9:02:43 AM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-9-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {632D22BD-195A-48C8-BC6B-DEDB748C1D11}.rpt:
+Unable to connect: incorrect log on parameters.

@@ -1,0 +1,8 @@
+4/23/2014 3:42:42 PM:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 2013-08-01.pdf
+Failed to open a rowset.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: Invalid column name 'Cur'.
+SQL State: 42S22
+Native Error: Failed to open a rowset.Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {087E2A22-511B-4901-A22B-30654074397A}.rpt:
+Failed to open a rowset.

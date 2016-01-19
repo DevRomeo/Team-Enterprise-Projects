@@ -1,0 +1,2745 @@
+4/10/2014 1:04:26 PM:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-9-2014.pdf
+System.Runtime.InteropServices.COMException (0x8004100F): Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {EB730001-4D80-4892-9027-013226BDDD6E}.rpt:
+Unable to connect: incorrect log on parameters.
+   at CrystalDecisions.ReportAppServer.Controllers.DatabaseControllerClass.SetTableLocation(ISCRTable CurTable, ISCRTable NewTable)
+   at CrystalDecisions.CrystalReports.Engine.Table.set_Location(String value)
+   at WindowsApplication1.Generate.GenerateReport() in C:\Users\tarr12067047\Desktop\Latest\Updated NCR\WindowsApplication1\Generate.vb:line 152
+4/10/2014 1:04:26 PM:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-9-2014.pdf
+System.Runtime.InteropServices.COMException (0x8004100F): Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {D9244A8E-3206-409E-8C0C-1D731DC38CE5}.rpt:
+Unable to connect: incorrect log on parameters.
+   at CrystalDecisions.ReportAppServer.Controllers.DatabaseControllerClass.SetTableLocation(ISCRTable CurTable, ISCRTable NewTable)
+   at CrystalDecisions.CrystalReports.Engine.Table.set_Location(String value)
+   at WindowsApplication1.Generate.GenerateReport() in C:\Users\tarr12067047\Desktop\Latest\Updated NCR\WindowsApplication1\Generate.vb:line 152
+4/10/2014 1:04:26 PM:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-9-2014.pdf
+System.Runtime.InteropServices.COMException (0x8004100F): Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {FCCEAA87-44CB-43E5-8D69-D2DC36F238C7}.rpt:
+Unable to connect: incorrect log on parameters.
+   at CrystalDecisions.ReportAppServer.Controllers.DatabaseControllerClass.SetTableLocation(ISCRTable CurTable, ISCRTable NewTable)
+   at CrystalDecisions.CrystalReports.Engine.Table.set_Location(String value)
+   at WindowsApplication1.Generate.GenerateReport() in C:\Users\tarr12067047\Desktop\Latest\Updated NCR\WindowsApplication1\Generate.vb:line 152
+4/10/2014 1:06:00 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-9-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {EDD62BE2-7817-4B3B-8479-67497D393417}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:06:00 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-9-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {8180B851-798D-4956-A1C9-C3491EB2F005}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:06:00 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-9-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {D8789739-7AC6-4F56-98BF-D096118C3027}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:07:05 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {F741AD01-3BCF-4DA5-B4AD-073EED98FE32}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:07:05 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {0BFB4D8C-4A67-4989-ACFC-80F5E2AA2ABB}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:07:06 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {60B95C20-6890-4532-97AF-90180F14E693}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:08:10 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {59B656E3-2900-42DF-9E0A-8B7790F11706}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:08:10 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {4B3E3ECF-09EF-4D98-B135-21FAE01CFCB3}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:08:10 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {15F00606-0E59-418F-8E96-641E4B247B36}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:09:15 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {F93982E0-AD04-4608-BC0F-336931062737}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:09:15 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {FAFC0E37-F887-42A5-914C-BABADBF710CD}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:09:15 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {2E9D6CA7-E43E-4293-ACD9-4AB6D1469EFF}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:10:20 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {715F06A0-998D-47DB-8723-F263E4264AC8}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:10:20 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {143A05F6-4178-4272-A2EF-477DE48C35A4}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:10:21 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {DE94039E-09B7-4194-8CA4-FFD3D577E95C}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:11:25 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {656BD927-7629-49A2-AAE4-8564C44DEB8C}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:11:25 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {FB228FD8-6764-4390-862C-C969DA8E27A8}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:11:25 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {AE8E58ED-E7B5-4FC2-BD78-C8A5CDD9515E}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:12:30 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {F7E8E351-FA62-4CF1-A13D-6C54C19CFF73}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:12:30 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {46407FEA-0066-4A63-B84F-F6310611C0B2}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:12:30 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {A894E696-0C55-402F-A066-33AE8D74F931}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:13:35 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {FC34CDA5-C41B-46E4-924A-9F5E28277908}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:13:35 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {D0344FCC-F176-44FF-BB65-DC97159A9BB0}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:13:36 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {27DD5325-723C-4591-99E9-B3896E0C7EA6}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:14:40 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {7021BA53-F31D-4A00-B6A3-58FF7F41CCF0}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:14:40 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {25DB0072-1FCB-4271-8C42-D9022966FA2B}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:14:40 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {2561710C-A67C-4D77-829D-A35DFADC63D8}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:15:45 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {AC7B495B-351F-4B6A-A8D7-AB28DEB30E18}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:15:45 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {53BD9B3B-E13B-4259-993A-B1245664465A}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:15:46 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {FE2CB241-4FD2-45C9-96D5-D27438A041AC}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:16:50 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {0EDE0592-3339-4A19-98BB-7BD40D13FAC7}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:16:50 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {006CF89F-D760-4ADF-B30B-A928F1CA6480}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:16:50 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {95AE400C-3CD5-43CF-BF2F-30EA826E91C4}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:17:55 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {687868D4-9299-4159-9E51-16F112F80427}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:17:55 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {74928BFE-AEF7-447B-AE75-3AB501D1D4CD}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:17:56 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {BEE0B010-B64E-4EB9-B157-EF9D36AE9738}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:19:00 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {792B7F5D-5D3A-46BD-B5EE-51FD31B20DFD}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:19:00 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {A01F587E-0857-4C1C-9B82-2381D253DDEB}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:19:00 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {8D0B39DA-1354-4E3D-A341-F9FBA507BE24}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:20:05 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {40D64645-181B-4F43-BE1B-D4FF7FF84531}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:20:05 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {F08F7E4B-3DB6-494A-B1E0-74B643E04F0A}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:20:06 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {CFC5C74B-127D-4375-808D-C8DD2B1718B0}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:21:10 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {EEEDB6F4-7BD2-4D50-934D-BE116DFACB7A}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:21:10 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {795C5691-B0A5-46F9-8199-1041295C7744}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:21:11 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {5BA1E7AD-03F8-4682-A056-F8A5DAB08A8E}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:22:15 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {3BEC5AD6-2F1D-43CC-AC31-DFAB485D7C6A}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:22:15 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {49E34912-84E7-472A-992A-319CF04E5006}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:22:15 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {67AAD25C-5DB8-4DBC-9ED5-F6A22579B38A}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:23:20 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {6B8E6611-40AB-4F5A-B3C3-CD27979C2479}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:23:20 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {C8E651EA-4F6B-4C4D-9728-5251C31FA8FD}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:23:20 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {E9BE136C-69D3-4152-B8EF-40ABBFB2EA71}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:24:25 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {BA8E6987-ADF2-4F5E-A3FD-54ADF089E92A}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:24:25 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {8FD671C3-B42C-450C-96E3-4154C58E22B9}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:24:25 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {4134A71C-F9D8-4411-878F-CD602952C35F}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:25:30 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {BD95812E-524E-4875-A3C1-1B277A872EF5}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:25:30 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {D32557CD-F3DC-41CF-91E6-0E2A6CF6C4E6}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:25:30 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {4BD373E1-F6A9-4BC8-921D-E59659D067D3}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:26:35 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {E5ECD9B7-69C9-4484-9CDA-564C20A3230D}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:26:35 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {585438C7-89FC-4E1C-9D07-0A93804C6A5F}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:26:36 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {D856172F-FD3A-4EED-87D3-B835DA2059F7}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:27:40 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {B8010179-E724-4B7B-B616-85757B0B17FA}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:27:40 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {1B850A71-8CDB-4364-AB6F-4E2454533F23}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:27:41 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {9C938994-31E6-4105-AB2A-C285862C0B29}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:28:45 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {31702DCA-0FCA-4D86-AA17-E641FBE13123}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:28:45 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {5D5FBF5C-B7BC-44F2-9B9E-9116BCD6BE09}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:28:46 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {789FAD51-731B-4FAB-BBBA-2BE0EB6184B0}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:29:50 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {B3FF070A-98B1-49ED-89C7-42AEFF702D02}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:29:50 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {E08FF969-61C9-4C99-AD3A-05B197BDC069}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:29:50 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {66EBF907-7156-45F9-BEFA-9E20B0BBC6AA}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:30:55 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {4A79E9DC-8AAA-423C-B10F-DF54D392DBBD}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:30:55 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {BFEF7A4E-0C45-4222-85AD-F06EE6B9B070}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:30:55 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {270F4D30-F828-4C8C-9A1A-63BE171AF093}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:32:00 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {5D04C3A2-96F8-4621-9B99-81D6DB959EE7}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:32:00 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {092C5862-B60D-478A-B988-B2E1D88618F5}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:32:01 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {F941FFCD-CC18-4034-B8EE-6C8064D81963}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:33:05 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {CB22FF38-9A3D-46FF-803D-B0F52BFB4591}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:33:05 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {94A4A8BC-B840-4812-9045-99DA88FCA0CB}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:33:06 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {4C9C9EFA-A817-44A1-AB4D-058C2F8EEB39}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:34:10 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {50FF84B7-EBC7-408D-96A2-ED7C5580C1E9}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:34:10 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {0E5B1197-1596-4BF7-B53E-9F11526C2056}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:34:11 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {86D3843E-A771-41C9-AC84-0BBFF77C256F}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:35:15 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {726E0891-FD71-467A-91EF-FD5AEE7B1F54}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:35:15 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {81981C52-9AD8-4A7C-AD40-F94F6A501D17}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:35:16 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {E511E03B-EFEC-41D2-ACF2-714F525B6D9A}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:36:21 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {2C78FD62-9DBA-4BFD-8745-4831785C76F9}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:36:21 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {9F6311DC-CFF2-4F98-AA44-E3D3A9823B23}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:36:21 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {48A76D2C-7685-4FC1-8259-A009C176EECC}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:37:26 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {DF52D689-7EE8-4D81-98C1-380A87B606D9}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:37:26 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {0BDEC8D4-7F17-42BF-84B2-B8D8781A704F}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:37:26 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {C3E71688-7A05-4735-8AC5-50F70977DB0C}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:38:31 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {3E0B9820-2221-4BA6-B88A-3342EAD6483E}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:38:31 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {9B5A3C28-B52D-4189-8B8C-9EFAB088ED61}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:38:31 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {72945DCC-14FA-472D-BA9F-F170E2F66752}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:39:36 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {584932FD-58CA-41D2-91A1-CE71AE780F69}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:39:36 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {65C41676-93E7-4450-94B4-EBB3A4E1EF1A}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:39:36 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {3378B537-FDEA-497F-92DB-CAE7130D257B}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:40:41 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {2F5EBDCA-AA82-400B-9D7F-CF63DEDBD543}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:40:41 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {F8177875-A528-40FB-88D1-C2A42E8410EE}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:40:41 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {43534270-C67A-4A9B-B50C-7901DB336F67}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:41:46 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {6B814DE7-01C7-4758-AF16-770257C77873}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:41:46 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {2AB6A743-578C-4042-BF0F-900AC485E6DC}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:41:46 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {7164D36E-1C15-470B-89C4-9EC00C237F4A}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:42:51 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {2F6E634C-7F93-4CFE-BCE8-7E1516E961B4}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:42:51 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {F8E3FA1D-C232-4C12-9461-3D98CB6CE2A2}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:42:51 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {CEB06C5E-36D7-4AB7-A0C7-10D8FA485A4A}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:43:56 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {1CB2FA24-E919-4357-9AE6-E633278489D1}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:43:56 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {8C05FF9A-AE50-427D-BFBB-A6E8CBFFD987}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:43:56 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {E3404BEB-D29E-486C-885D-81A11DCAF6F0}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:45:01 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {1F2A5019-8BFF-484A-874F-470F0C72E0E7}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:45:01 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {A3896328-7DA1-4795-AF7B-8D5F06BF9E16}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:45:01 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {E56D107A-AFB1-437A-97D5-33D7C657A9B7}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:46:06 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {45241716-C7D9-447C-923A-F09CDD5CE9D4}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:46:06 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {84C94680-DBD4-46A9-92FB-90D2B0FE2C48}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:46:06 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {DD459529-D994-4AB2-ABE0-237854765BB8}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:47:11 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {2AA669E5-0032-4C0E-A887-2C3D883D8857}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:47:11 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {165D965F-4FA7-44CE-9829-82FC27E52D74}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:47:11 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {841149F2-AA79-4E75-9C71-8306779B7DF0}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:48:16 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {75B90572-8498-4F00-8963-22BFA7FE90AB}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:48:16 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {03053189-D561-4EAD-B8CE-A6764F319E28}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:48:16 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {3231EFE7-CF66-4125-91DE-27E92967108A}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:49:21 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {FC2DA212-1768-4D45-90F1-BAC15FE050D4}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:49:21 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {9D6D5428-DE2E-40D7-8652-AD89A2F26B68}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:49:21 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {C7CF516B-0E9B-48B6-9D11-550BBAD3F2F8}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:50:26 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {8B6B196C-FB89-4718-A179-74CC4CE15E2F}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:50:26 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {B1068B73-4B6F-454F-A0F2-C097825DC0DD}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:50:26 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {47486001-CDF3-4891-BA4D-159C7E774F82}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:51:31 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {331BD2D3-233A-4977-AC1C-9A70C4790EBA}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:51:31 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {196F85B0-190C-4FAF-852E-FCD42CADB943}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:51:31 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {0C23F93D-4F78-4BA8-914F-BAD70E9635FF}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:52:36 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {6EDA5C5A-76D6-4C84-AE55-E36021C09759}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:52:36 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {4055A343-37E0-4E9A-ABEB-F8017C399F67}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:52:36 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {F48DCE6F-379E-4722-9EF1-3A79FE723C23}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:53:41 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {6DA3F09D-01F6-4005-8CA7-956B7B9964BA}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:53:41 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {0DF36E36-9E28-4039-858A-71DACCF0B106}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:53:41 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {A99AE50A-C65F-43D5-849A-DD19E7631FB9}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:54:46 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {EA30925A-2326-4A7F-9DCB-58B9C0CAFD17}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:54:46 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {6EDED6BF-5166-4B4D-962E-CDECEE188933}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:54:46 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {B36AD3ED-A5D0-409B-9C05-C4F44640EC0F}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:55:51 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {DD99BEEE-BCC0-4F23-8F0F-B4D6C6BD4127}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:55:51 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {A582336E-E761-42DA-B92B-F08ED094ACC8}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:55:51 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {21B0FE19-EF82-4011-8F00-85B0C4311DD9}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:56:56 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {9B4414FA-02E7-41D9-B01D-B995A0F32E55}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:56:56 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {19728E0C-D767-4805-9E8B-75ECD5539187}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:56:56 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {24DCA6F4-CD5A-4012-A046-8026056E93BD}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:58:01 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {2218DFFC-71DE-4AE9-85DC-190CFA2BC481}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:58:01 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {4DDBB230-6F16-4D9E-95FC-39C15F2D1BE1}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:58:01 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {B7A97E44-DBEE-4783-AE4B-DC839549F147}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:59:06 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {538A5A23-639F-4877-9A36-F981DBB84951}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:59:06 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {935E0FF3-1551-4358-8226-645449AEE050}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 1:59:06 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {5BE4BB0F-C625-44CC-8FB9-922DF19F6217}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:00:11 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {6F9E653A-F28E-4D28-9B97-329358D08B98}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:00:11 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {D1AB4E9E-CE23-4939-92F9-709E01025490}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:00:11 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {0F2FEF98-C66A-4C1A-86DD-214653D17741}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:01:16 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {ED359E8A-50FB-434B-89B6-0CFD2382CA9E}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:01:16 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {1968C91C-5584-4404-BBC5-6C092C7E5546}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:01:16 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {ED188419-0289-4EA6-BC90-1DB636A430A5}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:02:21 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {896E33FC-9C43-46CF-95B3-027B5BEA892F}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:02:21 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {D62ADC8A-CEB0-413C-9944-1648B1FDC205}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:02:21 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {2318BE70-E8CC-4361-8861-017877A0A182}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:03:26 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {2A4A1B93-DD1E-489C-B86E-AA8D8F04EFB9}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:03:26 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {2EBB1CDA-AC8F-47ED-B41A-5C9D000F8F29}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:03:26 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {86572A83-1696-4069-9D50-B5370261D567}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:04:31 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {6F68F629-EED1-4CB3-814F-54259AB4E1BC}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:04:31 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {F9E6795E-44D8-4604-A0F2-E916610CB982}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:04:31 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {95988CBC-B19D-46BF-84AC-11D6FDD13038}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:05:36 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {02548855-C409-4DBB-94CC-BA3486F15D0C}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:05:36 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {9B6B7187-2C6D-420A-8EF2-19CD943B57AA}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:05:36 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {793B75F8-20FB-4FF9-A68E-EE82433E4658}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:06:41 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {EE1DDAAC-CE5C-4D69-965D-BBC755871B9D}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:06:41 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {518473D1-210C-4E04-9351-07F9F46941B3}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:06:41 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {0B258021-8C16-4D60-910E-6797B6C35D11}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:07:46 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {F4FE7029-DA7D-421A-A601-62DD5752ACFF}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:07:46 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {473BE616-1820-4FB9-B56C-00877FDD1D40}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:07:46 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {CC294B64-CFA5-421D-9A5A-1F889A4BE678}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:08:51 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {9AE5BEC4-10C3-4890-B1CD-7FC054FD8345}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:08:51 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {A99290BB-A052-48A2-92B1-6B4F8524F8B5}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:08:51 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {7DFED70E-28A8-48CD-B0C8-D59015A26B21}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:09:56 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {E1C2363D-10E7-48E3-B57D-76915D2E1CCC}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:09:56 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {B92CAEDA-A47B-44FB-9FB7-B4E38F281597}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:09:56 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {F0ADA9E2-456E-45C3-ADCC-96DF274894A9}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:11:01 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {68086A04-48DA-4A7A-B2F7-96566E43C948}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:11:01 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {7479454B-01E0-413C-83C2-4237DF1A18D1}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:11:01 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {4EF77FDD-16E9-46C4-8E08-B767E7511E91}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:12:06 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {17F62C63-0783-44C6-8BC8-FE715826A222}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:12:06 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {DF53A83E-F127-444C-9B93-2CE126BDA945}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:12:06 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {1DFE35E6-BC12-469F-8BDE-7EEBC2214124}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:13:11 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {9042FF1A-29D3-46A9-AA8C-58952DC6538B}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:13:11 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {DAE4E292-A0AF-467B-9B1D-DA72BB3B5919}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:13:11 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {68C7D4F7-48B5-4DDA-9A9A-CD0308FD1619}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:14:16 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {D5FF5570-D650-4BFE-AF7E-277DC1DB66B9}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:14:16 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {190D37C4-928C-45BF-897F-EDCD2E345447}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:14:16 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {BC6F4DA7-19A3-4117-B580-4CB1AC43695C}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:15:21 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {66426D41-1044-4E3B-B882-86B5876D9D75}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:15:21 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {16752B2E-A41E-4235-A6C0-C7FBD2154F7E}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:15:21 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {7582D924-56C9-4BB0-A5A9-BE89E4D04CC6}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:16:26 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {792FC4BF-4F04-4A08-AC77-60026FED3101}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:16:26 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {7B8DB618-949C-4F53-BCE7-116FB679FFE8}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:16:26 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {2F2C7A9A-DA74-4100-ABFA-1F6C8C226A99}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:17:31 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {80855FBD-ADB8-4D84-8694-31EA4C7A6C8E}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:17:31 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {995BA179-D7D6-43EF-9F83-6C6856F5D7E7}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:17:31 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {0CE3158B-BBA8-44A5-B5EF-E8443BBB8EA9}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:18:36 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {CF7893BA-7C50-4CFE-92BF-55B13718D983}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:18:36 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {76F7C25D-7D28-4764-98B1-A4AF0B4D2C19}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:18:36 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {4819D6C1-D51E-4F48-B696-23C858E560A9}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:19:41 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {A3C62131-9853-477E-A6CA-9F0EAA1B9DAA}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:19:41 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {85C26B02-9001-4229-91C0-EF16362A7C21}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:19:41 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {F73B6031-7DC3-41EB-9E6F-EC3565E31E1D}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:20:46 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {3EFF5C45-2B9C-44D5-92AE-CF3E674F668E}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:20:46 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {F22BAE15-1464-4972-BA01-F69B7AC6A9D1}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:20:46 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {C5083DF9-BF2C-4CF5-9B24-7FCB7034B11B}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:21:51 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {BB662D9A-12BD-4798-9EB8-B822E0CC361D}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:21:51 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {F377B249-80A9-40A9-8493-9F367A68BF95}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:21:51 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {5ECAE2D0-95E2-4765-A74F-4E497E3FC8AF}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:22:56 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {7CDE5874-23A2-41C1-9416-2ACAF3A9464F}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:22:56 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {7234DDAD-39D2-44EF-9083-D75D59F3C1A7}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:22:56 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {0738B5CA-28DD-4A06-A3A0-07D75778F5F2}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:24:01 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {99238D78-47C4-4FB4-A7CB-370531BBB235}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:24:01 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {1B9CA8D1-3F4E-46CE-9979-777D4BC5E7C4}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:24:01 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {1E1F1A9C-D21D-44DE-A055-78C6BB23CC62}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:25:06 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {29D4109E-CEA3-4418-B365-582ADB305C10}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:25:06 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {6CBB08DB-3308-4F22-AF4F-D22EED63E3F1}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:25:06 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {EC67C816-3694-408D-B914-FBE684754460}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:26:11 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {B8DF2DD4-07A8-4B9E-B8A0-D5C375186D14}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:26:11 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {B19328CB-7B97-4958-B77B-92F9EBB09D50}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:26:11 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {037D6095-42EE-4366-9096-8366CB52EC88}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:27:16 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {D4A6D720-848C-4ADD-8B85-9B0AB76ABFD8}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:27:16 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {4A9D18F6-FF4F-4C76-B402-FE885E150AFE}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:27:16 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {CA2C282A-36B2-4F98-A939-5EF5098C9F21}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:28:21 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {00F6B9D6-B3C9-43D1-A15B-1FC8DDA3865E}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:28:21 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {569334F4-C73F-42F4-BCF4-477750DC1B63}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:28:21 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {C653751D-E1D7-4538-869D-1AEFAE723F21}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:29:26 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {70EFA64F-2386-4224-971E-841963A17DDC}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:29:26 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {6603F7B0-56AC-4E26-867B-71D63F7C21A1}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:29:26 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {BE567C90-082F-4584-90BC-FF0F47EAE905}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:30:31 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {CF4F0D62-B97C-409B-8A21-D66025538BF4}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:30:31 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {6D1F1840-0537-4B3C-8899-5182E66E8B22}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:30:31 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {ADB44394-7B5D-488E-9756-E4B94CDA2926}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:31:36 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {A1BA3925-2EA7-48E5-B994-254EB6A0E2A8}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:31:36 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {8FF9B929-3ABD-474E-AF9B-68C04623698B}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:31:36 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {91EFFEDE-B062-457F-8710-058A15E51251}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:32:41 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {7A699071-AF63-4847-8198-638555EDFA29}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:32:41 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {2AA4EBA6-FA02-417D-8C40-4913522E7783}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:32:41 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {956B2D61-13C7-4945-AABC-E52276D166ED}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:33:46 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {5B06136A-0C16-4225-BBD6-75F40E669E0C}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:33:46 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {D6C17A4E-235B-4449-82AF-0B4E66015414}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:33:46 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {C750CAE4-3E70-405D-9E45-44224540D538}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:34:51 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {FC416B44-35B7-469F-86DD-CA8A2827D126}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:34:51 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {942A0724-F8F4-435B-AB9C-36999978DD76}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:34:51 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {2ECF1ED1-4808-4EA0-AC9E-2F4993DA8F18}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:35:56 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {ED7EA993-43C4-436E-AFF4-68CDB2872A90}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:35:56 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {C8AB33CE-AD12-4164-9BDC-C78B4BE36F31}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:35:56 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {93318A1E-3B53-4CB1-8FDA-3017317A2465}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:37:01 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {72B3CCC4-B1AF-40DA-A4F6-3ADDE42A477A}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:37:01 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {1BD9C497-D1A1-4AE0-88D9-5A3B7AA93E32}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:37:01 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {2B076001-32F6-40B0-848A-186683E1162A}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:38:06 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {D0C0E6AC-5A62-48BB-8918-7C227E3715A5}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:38:06 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {9F857AAB-638A-4304-83FB-6A65178EDE6E}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:38:06 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {F4A36DC7-B726-4902-9FF1-F8AE3DEA6372}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:39:11 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {A1913206-2DEA-4548-BB25-B645D2DA683B}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:39:11 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {C3D2A59B-5DEF-4BC1-AD6B-4EBC4E3AF7F4}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:39:11 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {77F6CCE0-178E-413A-B135-A3DAFDD2AFA2}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:40:16 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {D399A922-DC1A-4179-A8EF-770FE79DFDBD}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:40:16 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {F86E6039-4C00-4888-8B25-A2831DCE4290}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:40:16 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {0CA01EC7-2BFC-4A55-890D-587C1C49F5C0}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:41:21 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {1FB443B5-213A-4F65-BE40-7B4CED079F08}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:41:21 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {01461A1B-7D9F-41DC-A5A4-0DC52C34856E}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:41:21 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {DE405EA9-D94D-46A5-AD04-F4C47C8D526F}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:42:26 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {03A27573-D09F-45E8-B305-61CE5640B794}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:42:26 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {FC8BAEE2-C403-404F-82C5-00BF750065E5}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:42:26 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {F7DE14E5-81C3-4F56-ACD4-745C33571299}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:43:31 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {04A0F0BC-AEE6-4FCB-91CE-9AF7F59BA3CA}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:43:31 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {284DF094-D543-4A1A-A66F-812078851FDE}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:43:31 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {E4BA6916-6B95-499A-BB33-E2CEFE32A816}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:44:36 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {E27F5693-9843-40E8-A170-D4BE8BDE7FE1}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:44:36 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {E6EF1287-0FE9-4D15-AE30-AFC81E4DC29A}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:44:36 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {D47917E5-F7D0-422E-B09B-DB30365AC1CC}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:45:41 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {2EB57846-CA0C-4BA7-912E-668F134C1450}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:45:41 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {733BC0FD-A2D8-48F7-B050-A2AF08BA7F00}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:45:41 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {3E16FB29-896F-4185-9DB5-6D5A5B6841E1}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:46:46 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {AF328AA3-462D-484F-80C3-559E8AF9C75E}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:46:46 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {2AE1335C-AEE8-4F82-ACE5-EB9566446245}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:46:46 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {A7654572-7F03-4B2B-95BB-15A4EEA87451}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:47:51 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {9F201978-3ABC-4200-A897-30B2A2CFE3DF}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:47:51 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {95242D07-64AA-46F7-B896-8389576DC2F8}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:47:51 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {3162528E-C0A2-4C0B-8C41-CE289D657FA3}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:48:56 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {A7F43C75-4C4B-45ED-8C59-212DF82F5746}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:48:56 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {831A6488-962E-42CB-A7E6-C5E9EA295824}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:48:56 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {8A2C7089-ACE7-4C40-90BC-AAD82B532E61}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:50:01 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {958CEC9F-F8B5-40F4-ADC0-AD66B00C3367}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:50:01 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {E312E55F-E612-4C0C-B4DD-68C1310244EB}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:50:01 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {1DB202D3-18FB-4A0C-A947-44C77C2AA7A9}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:51:06 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {54CA7EE1-5B64-41B4-AEEE-DF99BCF0059E}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:51:06 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {E9A19BE3-C201-4893-8CC8-B007D896A3DB}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:51:06 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {E40A4DC6-9E3A-43C3-91F8-8C7C39D20429}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:52:11 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {73FD7F97-6F78-45A3-B284-B4D8BCF0BD82}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:52:11 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {12EF11BE-D73A-4AE1-91CE-9E04F187FBCB}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:52:11 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {7797D40E-4E7C-42E7-AC2B-7EDA8F43B580}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:53:16 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {F173CEC1-8810-4C4F-8279-63E6F0C254B5}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:53:16 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {FF2C6437-2477-4D47-B063-5E769BC813DE}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:53:16 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {BA3294E7-F1DC-4A5B-8C5D-041D38665021}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:54:21 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {32EEE5A4-B0F1-4919-A60F-5DDD23FD409B}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:54:21 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {19B08ED6-9446-4C12-A288-0FE0D5F0F07A}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:54:21 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {4F338734-2250-483D-9A52-25313E2631A1}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:55:26 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {94AEE50E-C12D-44EF-A37C-74785BDC8C04}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:55:26 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {76F2255B-34EA-4BAE-852E-8A940CACC556}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:55:26 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {FD1B5A07-4554-485B-B4A0-2094F68D4FA9}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:56:31 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {87FA30D6-AC78-435D-B3BF-4E47DD07C9A9}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:56:31 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {767C3784-0304-4A1F-861D-F2225061E891}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:56:31 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {9EFA3958-F43C-4ACB-ADC0-09E2F5B7AE6A}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:57:36 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {84CD74B9-C20D-4E9A-A5BE-52D0CDB28A90}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:57:36 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {B1C51966-2745-47E5-B7C1-2DE60887A282}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:57:36 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {5312D83E-770A-4F43-A30B-A277A4A765B0}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:58:41 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {9CEE85FA-705A-47C3-A41B-CBAC25F4F769}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:58:41 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {A5302FEF-5A3D-4836-8B9C-8A9C0F906A58}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:58:41 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {88BDBF5E-A6AD-44C0-8D5B-F1911460054F}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:59:46 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {1531DC39-2113-4274-BB51-5E67C2317596}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:59:46 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {E76363D2-6F74-45A8-9EC5-32E41E8CD0F6}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 2:59:46 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {EC059B16-8806-4505-A8D9-CF7CA1F14CDC}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 3:00:51 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {C11A93CE-E245-4DCA-B9A1-064ADA7DF38C}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 3:00:51 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {E42F9FC4-B3D7-4DC4-81E6-25B0E75BE6D7}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 3:00:51 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {21922644-684F-460B-8FE0-A840D3CF7C01}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 3:01:56 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {89E9D075-16B8-451C-8D7E-D683B7861C68}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 3:01:56 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {7EB1DB5E-70C9-403B-A15E-BC0C5AC2CA78}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 3:01:56 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {0C9D18FC-2C19-47D3-B606-9C7F62A6EC29}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 3:03:01 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {E79B1088-E4DD-4BD9-8C47-487349CF6E7F}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 3:03:01 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {06B4A45B-3C22-4556-AF83-C8854A533985}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 3:03:01 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {CEEE9F4B-7CFE-4C23-9FF9-E5D0642D7BE7}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 3:04:06 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {FC3B3357-302D-44B8-BDBF-918E7E456F20}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 3:04:06 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {059746B8-DE04-4292-B16D-95B1CBB2F598}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 3:04:06 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {58CC6D0A-D77C-4974-8236-20766A080B82}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 3:05:11 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {A60CE503-D7BD-4DE6-8851-1D087936ACB7}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 3:05:11 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {613E67E5-903E-43E8-A9A7-39211FF3836A}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 3:05:11 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {C837C72F-327A-4028-B2C4-CEDEB6C0CA89}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 3:06:16 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {ED607070-3D7F-4B11-B2AE-945664BC7E45}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 3:06:16 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {93DC7842-709E-4D21-B4A5-AD921B2AFF97}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 3:06:16 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {2AD63C27-E8C7-4DCB-8D1A-E6867F0331BF}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 3:07:21 PM:REGENERATE:Daily MLJ Showroom Summary Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomSummary {92F6B808-87C5-4420-B67C-F07274BB6CE0}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 3:07:21 PM:REGENERATE:Daily MLJ Showroom KP Peso Sales Report BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomKPReport {33F9C5EA-2636-4DF2-8660-C05E291BDE1C}.rpt:
+Unable to connect: incorrect log on parameters.
+4/10/2014 3:07:21 PM:REGENERATE:Daily MLJ Showroom Jewelry Sales and Lay-away Deposits BICOL-REGION 4-10-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_ShowroomJewelrySalesReport {95D1D060-D3E4-4C8B-B7AF-1BA8F0C80701}.rpt:
+Unable to connect: incorrect log on parameters.

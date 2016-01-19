@@ -1,0 +1,1670 @@
+4/1/2014 1:59:46 AM:Object reference not set to an instance of an object.
+4/1/2014 1:24:05 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 3-31-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {33B4CB8E-D8D8-4A9F-B6AC-38CCC0B9F75F}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:24:06 PM:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 2014-01-30.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {A6E849BD-F68F-4A36-8D73-F0D046B808C9}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:25:35 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {8BAC4BC1-3A83-4A20-AB15-2D25E6F77C5E}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:25:35 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {27690EF2-E7DE-4A37-895C-53118C109E68}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:26:35 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {9BB596AB-3D83-4A5D-999C-51DF46CE8468}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:26:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {0E0EFC93-EC3F-4740-8506-1F2F72B0754E}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:27:35 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {2B36B91E-B2FD-4320-A903-1C5282510F65}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:27:35 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {45827308-BA27-4A10-8AAF-8C0AD4F7F1A8}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:28:35 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {2179072F-FF6F-46A8-AB8A-002D9EA2D44E}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:28:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {B5E19F14-289B-4900-B333-E8F179F4D588}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:29:35 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {667C5D11-884E-46C5-B62F-59452855E5FE}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:29:35 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {A7F6020D-199D-4D2E-8536-44B24E2C2956}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:30:35 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {ADE496A8-068E-43A3-AC3B-204CDC210DD1}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:30:35 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {3B168572-F212-4259-BEBB-7D076666D8F4}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:31:35 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {14386A2B-F414-454F-B96B-2EB593162CE0}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:31:35 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {A16761AD-9CE2-4CD6-8A1F-182E5DF1F2FB}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:32:35 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {EC6B459D-3462-40AA-AB99-2C3AC5FD2B22}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:32:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {EDEC137E-EB1F-4CF6-A5A3-AF41F5023D3C}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:33:35 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {9C4F536B-7011-4FA0-8D67-74C0BF491AC7}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:33:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {90A29E0C-F3D4-4E54-A7AD-F3D08E373697}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:34:35 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {BCCF1F50-9406-4800-B0AE-0142E43C3349}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:34:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {E9B6EBDA-616C-4447-8CBA-64965561C48B}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:35:35 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {C7B04B9B-1614-4536-8150-EEBCC548B22C}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:35:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {AD6868FA-FB42-46FD-ADC6-82EF876C51C3}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:36:35 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {87C00D83-29A7-4280-804A-B7DA4E8936F6}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:36:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {8BC34085-C305-4AE1-90A4-1AC05A21E59F}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:37:35 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {CD79E3AA-077F-4500-8F17-242F4EDDAAF4}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:37:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {6ABCCC24-375C-48D5-9EC8-83F41C86291D}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:38:35 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {DF318BC7-6402-44EC-898D-5E5036AD6EA8}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:38:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {DC3A3660-C1E0-4657-8B5C-D9F8C80198B0}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:39:35 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {EB4CF96F-9A3D-49FF-95D2-9B9E349E3205}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:39:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {7785AC19-E0F8-4222-AB7F-57C467FC8703}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:40:35 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {B1B5B31F-3A2E-4DA6-8A51-7326010506C6}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:40:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {72CC95F8-761A-4385-BE5F-1E2DF08EDCA8}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:41:35 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {4ED4FFE9-8010-4357-84AF-C1B7764396D8}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:41:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {229E37E1-ECB9-4138-86E3-CE84266332A7}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:42:35 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {24CFBF38-8120-4604-9C2B-6BAC0767C5BF}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:42:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {BF56ECA7-7A49-4506-948A-6F901144EF55}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:43:35 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {CEFD637D-2D0E-4549-BD1A-17EC69A7BD6E}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:43:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {907B1D3D-4874-42B5-BC1D-68F287494F3C}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:44:35 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {1212C419-6AFC-4A05-8C54-1680A1D5999C}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:44:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {59584D4E-682F-485E-BA8B-0DB296FFABE5}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:45:35 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {236A512C-2344-4AA2-B615-40FF5E451A1E}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:45:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {3512928C-B734-42B8-B4A6-C9F3545D19F0}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:46:35 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {4DFAB5E0-EF56-457D-ACAE-1E7062FA0B89}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:46:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {F5C09DFB-FBE3-4ADF-A859-9A389BAA8307}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:47:35 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {2AEE1E67-C271-4C4D-82FD-DA640CDF689D}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:47:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {39315A4A-6AD9-405A-9749-A5370FD850C4}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:48:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {5E25A882-88B5-4333-BA72-EE4D3D5E679A}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:48:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {F14C230B-640E-4AA6-8B1F-E22E14E98386}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:49:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {0C18F412-F34F-4739-88D7-ACCA665E8D5E}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:49:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {ACB51692-81D5-4913-BEE8-85D9041D42F0}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:50:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {C9E2976C-A34E-44A1-9286-D30A1A046C25}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:50:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {B3B3E3CE-E008-48F8-AB7D-D92D24DD4968}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:51:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {5EF4D691-55D5-46AD-859E-6DD23DA57AE3}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:51:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {8208AF80-32C7-436D-81AD-5B3773DDE8CA}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:52:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {6FC76A79-410B-4FF7-92FC-C880EEBA6332}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:52:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {A7AF3BB3-CF65-4583-86CE-DBC98097D8B0}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:53:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {403FE5ED-99CA-4B17-B5D8-CDC9E77CB1CE}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:53:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {1D767E24-C176-4BEF-97C4-8E8E15D47E36}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:54:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {43300F8A-59DF-48F6-8F03-A8F8BC3D3F80}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:54:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {944325AA-460A-4D3A-8219-4E9AA24449B8}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:55:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {D745CC1F-1E13-4F75-BB83-CDD2C7E3C164}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:55:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {CD62F45B-E57D-4C19-B78F-70ED442C889C}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:56:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {6D48A0F0-2201-42F9-8C0F-9B59059ECB35}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:56:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {DDD13D10-15D3-4DE7-93E7-7237E1BDE1BB}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:57:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {A2DF33AB-8D5B-4F67-83AF-7D8A6FE290DA}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:57:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {59089A75-1EFB-414A-9D2C-33FA81E518F7}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:58:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {18135B21-8A45-4914-99B4-645D62775567}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:58:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {86A3E612-7391-460A-8C92-111F585EEA32}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:59:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {1A9D393E-71D9-434A-BA86-C3CBB4C7A31F}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 1:59:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {0DC9163B-DE22-470A-8956-7ABCBD46FA88}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:00:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {FE766802-2E95-4AB1-B68D-A0A425D93B5B}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:00:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {C1A6CFD8-9183-48CE-B9B0-B707DA793834}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:01:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {4EF65056-2E3E-45D3-940D-D37512F12AFB}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:01:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {64F8871C-ED1B-4E76-91E5-128B4D07E15B}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:02:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {3AE00211-6CF8-4891-870C-FD54BB2C990B}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:02:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {7CD4992B-D622-4A24-A842-A6658B8D5B9B}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:03:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {777B63AD-4E3B-47A0-B680-F6F1F6A3A04A}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:03:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {40526426-D1CA-4ECF-B21F-DABFB91BF9FA}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:04:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {3F49B7D9-5EFF-4D5C-A6F2-D4D23EF6F1E3}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:04:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {38E70E8D-415D-47BC-A7C6-5CB9867E213E}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:05:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {60E49CFA-CD80-44D5-8050-E944EBCB3353}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:05:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {CCD11BEE-DC8B-43BA-8ADD-EC716403F2D8}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:06:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {43D80728-8654-4E2A-AC09-716992C6AC36}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:06:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {0AD9249B-EB9D-4511-B78E-24D70DB8A69A}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:07:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {4A08D359-838B-4777-A8F9-312394CA1AB9}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:07:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {9FE6F921-DF4A-4249-8814-F935A7846E8D}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:08:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {340BF084-C710-436A-A3D0-371DDB081FC4}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:08:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {31FB6E54-2A15-488D-9AEB-93ADDB4791C9}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:09:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {3E7F6635-D145-4B6F-B4D3-E24A63E56E14}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:09:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {AE034DA0-27DA-4876-B365-40CCCBC68A8F}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:10:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {A6E16BF6-416E-4699-88EE-86DD1C3B6195}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:10:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {DC0CDC5B-587E-434A-A247-6D95B432050A}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:11:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {BAB1D36D-49B1-4757-941B-3576436C2E6C}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:11:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {E29D2DFD-CC31-480A-9D8B-E7C92C496FED}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:12:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {FE2CA004-AD73-4160-8ABB-AEF0624EB10F}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:12:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {2224F661-12CD-4B1D-AA06-9B84F554C5B0}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:13:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {67BDFF5B-3993-4CCB-A54F-D832A4878CCD}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:13:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {AB3F9A36-9C56-42EA-90F2-952EE6F58EAC}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:14:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {02C25606-F5CA-4B45-85A9-B77A34A4EB6E}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:14:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {D3BEE44F-824B-4B67-8161-EE393A8D2B56}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:15:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {91C12D31-BAC8-41BC-BD1B-F2C843ECAA34}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:15:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {0415E664-D9BF-4F9A-B97A-A72C48C66FFB}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:16:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {CD5A09C8-D355-4846-B18D-32CCADA258B5}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:16:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {FB6A83EE-3A80-4063-BEAC-EA9B0AE49CAF}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:17:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {C98AC1D1-228D-4140-8E52-91E087E1AF25}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:17:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {B6D3E3B2-C8BD-4172-A799-31ACED3C47D7}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:18:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {EDAD7F7C-8F67-4BC9-86E3-55F607D222F8}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:18:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {32E2FCBD-2D62-43BB-9C26-18962B0BD1CA}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:19:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {B8FF560D-7D0B-4E19-818C-1C69F4A7BAE9}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:19:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {EDE67ADC-BE10-4BAE-9FAE-8A37B5042A22}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:20:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {03D4C034-3DE6-4182-8C35-48B8B878D590}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:20:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {7B8B11E9-6F99-4147-AF0B-B029ACAADD55}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:21:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {36ECC75A-C016-4356-9CE8-C0C5F16EDDE3}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:21:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {AF7AAD3F-6DED-40E6-B2B1-862D5B987572}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:22:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {A6332519-B076-4E3B-9230-6688ACB68E98}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:22:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {CFC08E0D-9CE9-424D-A0B2-5E8F58D402A8}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:23:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {3396AD57-214A-4E42-AFE2-6EC1686F75AE}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:23:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {DD45D1CB-06B9-4675-A8B3-2E903EE38E72}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:24:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {F620F79A-50F2-4258-99E9-FF2DE7347B1B}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:24:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {112AE42C-8A23-4F8A-9F2A-6342FB06916A}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:25:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {D2A430CB-B613-44C2-B77A-7AA1259DF3FD}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:25:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {EF634731-D6A5-467B-BB41-5805BB8754C3}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:26:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {E4F44F8B-2805-4D4F-88E1-B3E4D58E5AAB}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:26:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {70B84A5B-B6B6-4925-8827-0EF2CC91007C}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:27:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {B91D072E-8A83-4610-A7F7-BF32CB592953}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:27:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {26D3269D-46B0-4FBB-BAE7-EFBBF5CB9726}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:28:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {D016E6E7-C9AB-4537-9DBE-92B093B05E71}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:28:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {9B547876-024B-47BA-A46B-3C0E43468D57}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:29:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {8008D752-D452-4A47-937E-7413875E91E5}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:29:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {A6A0EEB1-F2A8-421E-B997-25EBD5FB422F}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:30:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {84438585-98A5-4D9D-A5D0-0FE4EA3810D8}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:30:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {6549EDAE-E86C-4FCC-A285-F041F8EF7235}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:31:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {8FD6E575-40DF-43E2-981D-239AD4DB56D9}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:31:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {7BE4BFD5-76A5-41B1-9078-FFE611579196}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:32:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {D61DD0DB-AB39-4067-B855-18566AC6E165}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:32:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {18FDCDD4-A51D-427B-A423-8060FB7F9C64}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:33:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {AB1F7944-2929-453C-AF59-5B6645EBB773}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:33:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {C41807DA-5DAB-472D-9887-38E3B313D65A}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:34:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {42932987-519B-4838-952D-44AE20203975}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:34:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {5BB29548-B419-4B26-95E0-07E9F5F01217}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:35:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {CC2E7DD5-CC81-4D60-B5A4-AE3BA5B425A5}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:35:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {770D54CE-20DA-498E-99C4-869B912BD700}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:36:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {3743C747-9339-4FD5-A3AC-8815A7C039AB}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:36:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {46D5F94B-A719-4608-8719-028BFA3F96B4}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:37:36 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {5F11DD47-BCF0-4F5D-9EF4-B955AC0A6E36}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:37:36 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {D9E43F7E-500B-449B-9A43-40DA46CC62FD}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:52:49 PM:REGENERATE:Daily Area Cash On Hand NCR-RIZAL-REGION-AREA5 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\AM_CashOnHand {4C4E9C2C-1329-419F-AE02-91A47657B951}.rpt:
+Unable to connect: incorrect log on parameters.
+System.Data.SqlClient.SqlException: A transport-level error has occurred when sending the request to the server. (provider: TCP Provider, error: 0 - An existing connection was forcibly closed by the remote host.)
+   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj)
+   at System.Data.SqlClient.TdsParserStateObject.WriteSni()
+   at System.Data.SqlClient.TdsParserStateObject.WritePacket(Byte flushMode)
+   at System.Data.SqlClient.TdsParserStateObject.ExecuteFlush()
+   at System.Data.SqlClient.TdsParser.TdsExecuteSQLBatch(String text, Int32 timeout, SqlNotificationRequest notificationRequest, TdsParserStateObject stateObj)
+   at System.Data.SqlClient.SqlCommand.RunExecuteNonQueryTds(String methodName, Boolean async)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(DbAsyncResult result, String methodName, Boolean sendToPipe)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WindowsApplication1.clsDBConnection.Execute_SQLQuery(String as_sql) in C:\Users\tarr12067047\Desktop\Latest\Updated NCR\WindowsApplication1\clsDBConnection.vb:line 136
+4/1/2014 2:52:49 PM:INSERT ERROR:INSERT INTO tbl_UnsentReports_V3(EmailAddress,Classification,specific,ReportId,ValueParamDate,ValueParamClass_01,ValueParamClass_02,ValueParamClass_03,ValueParamClass_04,ValueParamBranchCode)VALUES('rhon6260@gmail.com','REGENERATED','4-1-2014','1','4/1/2014','NCR','','NCR-RIZAL-REGION','NCR-RIZAL-REGION-AREA5','')
+4/1/2014 2:52:49 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {B465ECD5-72EA-4892-B046-64ECA97B8AC7}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:53:33 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {6B85167D-2E1B-4EAB-BF51-27241F11A55D}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:54:28 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {F1F576E2-69E0-4052-A2AC-FE89E288B2E5}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:55:23 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {7160C926-3355-445E-84F3-A0629C8D385F}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:56:18 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {DC249FDC-3282-4B7F-85B5-C60CD1E3DE56}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:57:13 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {DDE5123D-AB71-48E0-AF30-7720B77DFC88}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:58:08 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {65090357-B5A2-4DE1-8DAC-49B12DDE3ADF}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:59:03 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {E3EE668A-288E-4DB2-B760-CAD5586B29BC}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 2:59:58 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {69579DA6-7AE4-4EE4-82EA-4F4FB68B711C}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:00:53 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {D5B25BED-2B8A-4365-BC38-24FCF0D9AEFE}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:01:48 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {63F82816-4B81-4C4A-ADE3-BB129D5638D6}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:02:43 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {9A5A7C2A-4813-4627-B127-0AE9D09A8974}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:03:38 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {AD8E7C62-E478-4316-AD3C-DE8C01896761}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:04:33 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {85CB607B-4F9A-4FA7-8BA4-6FBB7035567F}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:05:28 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {E9859D3C-ABD5-41C7-8F3D-E14960605B08}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:06:23 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {67D416AC-3D41-41DE-91C6-5F41C09F9716}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:07:18 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {6C9E2E22-6280-48D6-A736-4E2D5F83FD92}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:08:13 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {61CF2AFA-F441-49B8-9275-6B70B8EA9044}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:09:08 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {C810D29E-64ED-431D-AD5E-96454CFD8669}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:10:03 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {52F5BBD3-7783-42B2-ACE7-78040F8EA18C}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:10:58 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {3F098973-72FD-401C-B01E-A6BB2EF26EB1}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:11:53 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {9DDA41C2-201B-4D7F-AFB0-4C0501D45BEE}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:12:48 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {0036FEBB-06AB-41E6-9620-9897C587DE3A}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:13:43 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {B5BC7BD3-E1B5-4A6D-A40A-80A175AEDC21}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:14:38 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {098E71F2-A5C8-4AD2-9D49-A7DD60C21D85}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:15:33 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {FA067762-6778-4E40-A769-FA773E13CA22}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:16:28 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {FC8E2E12-7631-4938-938F-5F2B8CF20595}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:17:23 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {C5D3196A-AA28-4D0A-84B1-F8E11D782A5C}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:18:18 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {D5B01837-026B-40B3-9EA0-0CABC5C48B37}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:19:13 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {4C4B3173-A234-4263-9B49-CA236ECD3363}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:20:08 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {59790C15-7E00-4B65-BED2-5B31A99FF3A8}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:21:03 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {387851E6-20FE-4CA4-9B35-49931DA8AD7E}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:21:58 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {21C31164-FF2A-425C-A37A-6074ED25D9EA}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:22:53 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {53F7D960-7863-450E-B51E-75AF446151BB}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:23:48 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {8AA36B6C-CD0F-4083-AE09-714FF6EDEE43}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:24:43 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {7B969A4A-E93C-4CAD-9E53-24F5B5E65EEB}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:25:38 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {B16CC078-2A00-4A7E-921B-948DC0B10C79}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:26:33 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {63AB3CEB-88BF-4979-8DA6-AE3D3C48229F}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:27:28 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {CC8DB0A1-7268-46A5-A09C-FFB1EBFC9776}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:28:23 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {0251B84B-8781-43B3-AC5D-7C96125B6A6E}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:29:18 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {7618EAD7-7A1C-45C2-AC59-697C0F9A55E7}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:30:13 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {CF063B02-93D8-4D8F-8C82-5C674D27A5E8}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:31:08 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {EC0495F3-7D09-45B9-A2DE-CA089D3127C4}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:32:03 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {E4AABA42-93E1-4DD6-9B43-C21B1B7D68EC}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:32:58 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {E85B4325-7D65-461F-BA8D-6A69BB00393E}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:33:53 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {155320FF-53F4-404B-BC72-C22376AA9895}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:34:48 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {4675BB96-F72E-49EF-BD8D-F851F3A6D149}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:35:43 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {492B8C36-556B-4DA2-94E7-3FCBFBDC33C7}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:36:38 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {BED2E24C-0C2D-4E39-B259-260399E84D46}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:37:34 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {0F32F293-0C5E-4B91-B1CC-515AB52ED16B}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:38:29 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {D24AAA10-91B7-4C82-976F-5C0DF488C22A}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:39:24 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {DB89D1E8-9CF1-4FC9-873B-09522365D7E1}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:40:19 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {4F3F15C2-A537-40D0-869F-6BD1CEA6F444}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:41:14 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {91FEDE3C-D48E-4173-80E9-0CD73736F3DE}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:42:09 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {1A65A486-2E73-49AD-8108-94CE1AE06F28}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:43:04 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {21DDA43A-3DDA-4584-9168-8CFB3830C4F2}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:43:59 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {ABD89EC3-A80F-4893-93D4-C0C585E156EC}.rpt:
+Unable to connect: incorrect log on parameters.
+4/1/2014 3:44:54 PM:REGENERATE:Daily Executive Summary Report (with Euro) NCR 4-1-2014.pdf
+Logon failed.
+Details: ADO Error Code: 0x
+Source: Microsoft OLE DB Provider for SQL Server
+Description: [DBNETLIB][ConnectionOpen (Connect()).]SQL Server does not exist or access denied.
+SQL State: 08001
+Native Error: Error in File C:\Users\TARR12~1\AppData\Local\Temp\HO_DailyExecutiveSummarywithMC {A005B106-EB95-4824-B131-063889C86907}.rpt:
+Unable to connect: incorrect log on parameters.
