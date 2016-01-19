@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SynergyEDILuzon2008", "SynergyEDILuzon2008\SynergyEDILuzon2008.vbproj", "{565B897D-1B4D-4E90-82C4-2B0C5CFE5F79}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "EDILUZON2008INSTAL", "EDILUZON2008INSTAL\EDILUZON2008INSTAL.vdproj", "{1872A838-8F44-4102-9576-A923B0AA77E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{565B897D-1B4D-4E90-82C4-2B0C5CFE5F79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{565B897D-1B4D-4E90-82C4-2B0C5CFE5F79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{565B897D-1B4D-4E90-82C4-2B0C5CFE5F79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{565B897D-1B4D-4E90-82C4-2B0C5CFE5F79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1872A838-8F44-4102-9576-A923B0AA77E9}.Debug|Any CPU.ActiveCfg = Debug
+		{1872A838-8F44-4102-9576-A923B0AA77E9}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

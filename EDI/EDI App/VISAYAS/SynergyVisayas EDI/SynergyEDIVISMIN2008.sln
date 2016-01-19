@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SynergyEDIVISMIN2008", "SynergyEDIVISMIN2008\SynergyEDIVISMIN2008.vbproj", "{058F6ED7-1C2A-49F1-8A43-E0D1C668050D}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "EDI Visayas", "SynergyVisayas EDI\SynergyVisayas EDI.vdproj", "{5E7F1D9A-20D1-46EB-A03E-599387DBA0FF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "EDI v4.1", "EDI v4.1\EDI v4.1.vdproj", "{ECD144EC-2379-485F-847F-75B4D396B9AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{058F6ED7-1C2A-49F1-8A43-E0D1C668050D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{058F6ED7-1C2A-49F1-8A43-E0D1C668050D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{058F6ED7-1C2A-49F1-8A43-E0D1C668050D}.Debug|x64.ActiveCfg = Debug|x64
+		{058F6ED7-1C2A-49F1-8A43-E0D1C668050D}.Debug|x64.Build.0 = Debug|x64
+		{058F6ED7-1C2A-49F1-8A43-E0D1C668050D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{058F6ED7-1C2A-49F1-8A43-E0D1C668050D}.Debug|x86.Build.0 = Debug|Any CPU
+		{058F6ED7-1C2A-49F1-8A43-E0D1C668050D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{058F6ED7-1C2A-49F1-8A43-E0D1C668050D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{058F6ED7-1C2A-49F1-8A43-E0D1C668050D}.Release|x64.ActiveCfg = Release|x64
+		{058F6ED7-1C2A-49F1-8A43-E0D1C668050D}.Release|x64.Build.0 = Release|x64
+		{058F6ED7-1C2A-49F1-8A43-E0D1C668050D}.Release|x86.ActiveCfg = Release|x86
+		{058F6ED7-1C2A-49F1-8A43-E0D1C668050D}.Release|x86.Build.0 = Release|x86
+		{5E7F1D9A-20D1-46EB-A03E-599387DBA0FF}.Debug|Any CPU.ActiveCfg = Debug
+		{5E7F1D9A-20D1-46EB-A03E-599387DBA0FF}.Debug|x64.ActiveCfg = Debug
+		{5E7F1D9A-20D1-46EB-A03E-599387DBA0FF}.Debug|x86.ActiveCfg = Debug
+		{5E7F1D9A-20D1-46EB-A03E-599387DBA0FF}.Release|Any CPU.ActiveCfg = Release
+		{5E7F1D9A-20D1-46EB-A03E-599387DBA0FF}.Release|x64.ActiveCfg = Release
+		{5E7F1D9A-20D1-46EB-A03E-599387DBA0FF}.Release|x86.ActiveCfg = Release
+		{ECD144EC-2379-485F-847F-75B4D396B9AD}.Debug|Any CPU.ActiveCfg = Debug
+		{ECD144EC-2379-485F-847F-75B4D396B9AD}.Debug|x64.ActiveCfg = Debug
+		{ECD144EC-2379-485F-847F-75B4D396B9AD}.Debug|x86.ActiveCfg = Debug
+		{ECD144EC-2379-485F-847F-75B4D396B9AD}.Release|Any CPU.ActiveCfg = Release
+		{ECD144EC-2379-485F-847F-75B4D396B9AD}.Release|x64.ActiveCfg = Release
+		{ECD144EC-2379-485F-847F-75B4D396B9AD}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

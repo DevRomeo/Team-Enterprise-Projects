@@ -1,0 +1,142 @@
+v4.1.1 - added timeout auto retry
+
+
+
+saveRetry
+isActionedRetry
+getBranchRetry
+alreadysavedRetry
+getGuid
+
+info:
+retryCount before Try and after End Try 
+ 			
+
+Dim li_input As Integer = Nothing
+li_input = MsgBox(ex.Message + ". Would you like to retry? ", MsgBoxStyle.YesNo Or MsgBoxStyle.Information)
+If li_input = vbYes Then
+    GoTo getMissingBranch
+Else
+    Application.Exit()
+End If
+
+ MsgBox("Successfully saved all branches. BatchNo: " + batchNo, MsgBoxStyle.Information, "EDI-" + ediname)
+            btnSave.Hide()
+            btnSetup.Enabled = True
+
+
+MessageBox.Show("Branch code :" + g.ToString() + " Not found")
+                Return True
+---------------
+saveRetry:
+            response = JsonConvert.DeserializeObject(service.insertTransactionWithDesc(JsonConvert.SerializeObject(transactiondata), JsonConvert.SerializeObject(editabledata), "basemidyear_corp", "paydesc", edi), GetType(Response))
+        Catch ex As Exception
+            If (retryCount < maxretry) Then
+                retryCount += 1
+                GoTo saveRetry
+            Else
+                Dim li_input As Integer = Nothing
+                li_input = MsgBox(ex.Message + ". Would you like to retry? ", MsgBoxStyle.YesNo Or MsgBoxStyle.Information)
+                If li_input = vbYes Then
+                    GoTo saveRetry
+                Else
+                    GoTo Extsub
+                End If
+            End If
+        End Try
+
+        If response.responseCode = ResponseCode.Error Or transactiondata.Count < 1 Then
+            MessageBox.Show(response.responseMessage)
+        Else
+            MsgBox("Successfully saved all branches. BatchNo: " + batchNo, MsgBoxStyle.Information, "EDI-" + ediname)
+            btnSave.Hide()
+            Button2.Enabled = True
+
+        End If
+        retryCount = 0
+------------------------
+getbranchRetry:
+                response = JsonConvert.DeserializeObject(service.getBranch(bcode, edi), GetType(Response))
+            Catch ex As Exception
+                If (retryCount < maxretry) Then
+                    If (retryCount < maxretry) Then
+                        retryCount += 1
+                        GoTo getbranchRetry
+                    Else
+                        Dim li_input As Integer = Nothing
+                        li_input = MsgBox(ex.Message + ". Would you like to retry? ", MsgBoxStyle.YesNo Or MsgBoxStyle.Information)
+                        If li_input = vbYes Then
+                            GoTo getbranchRetry
+                        Else
+                            GoTo Extsub
+                        End If
+                    End If
+                End If
+            End Try
+---------------------
+
+isActionedRetry:
+                    response = toResponse(service.isActionedWu_kebot(rBC, cboPeriod.Text, Format(g_month, "yyyy").ToString, edi))
+                Catch ex As Exception
+                    If (retryCount < maxretry) Then
+                        retryCount += 1
+                        GoTo isActionedRetry
+                    Else
+                        Dim li_input As Integer = Nothing
+                        li_input = MsgBox(ex.Message + ". Would you like to retry? ", MsgBoxStyle.YesNo Or MsgBoxStyle.Information)
+                        If li_input = vbYes Then
+                            GoTo isActionedRetry
+                        Else
+                            GoTo Extsub
+                        End If
+                    End If
+                End Try
+                retryCount = 0
+--------------------
+
+getGuid:
+                        Entryguid = service.getGuid
+                    Catch ex As Exception
+                        If (retryCount < maxretry) Then
+                            retryCount += 1
+                            GoTo getGuid
+                        Else
+                            Dim li_input As Integer = Nothing
+                            li_input = MsgBox(ex.Message + ". Would you like to retry? ", MsgBoxStyle.YesNo Or MsgBoxStyle.Information)
+                            If li_input = vbYes Then
+                                GoTo getGuid
+                            Else
+                                GoTo Extsub
+                            End If
+
+                        End If
+                    End Try
+                    retryCount = 0
+
+-------------------
+alreadysavedRetry:
+
+                 Catch ex As Exception
+                If (retryCount < maxretry) Then
+                    retryCount += 1
+                    GoTo alreadysavedRetry
+                Else
+                    Dim li_input As Integer = Nothing
+                    li_input = MsgBox(ex.Message + ". Would you like to retry? ", MsgBoxStyle.YesNo Or MsgBoxStyle.Information)
+                    If li_input = vbYes Then
+                        GoTo alreadysavedRetry
+                    Else
+                        Application.Exit()
+                    End If
+                End If
+            End Try
+
+            If response.responseCode = ResponseCode.OK Then
+                alreadysave = response.responseData
+                Exit Function
+
+            ElseIf response.responseCode = ResponseCode.Error Then
+                MessageBox.Show(response.responseMessage)
+                Exit Function
+            End If
+	

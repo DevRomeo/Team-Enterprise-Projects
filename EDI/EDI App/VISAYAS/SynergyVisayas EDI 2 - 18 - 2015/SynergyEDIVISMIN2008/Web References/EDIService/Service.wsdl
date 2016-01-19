@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="getBranch">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="bcode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="edi" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getBranchResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getBranchResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getBranchBOSKP">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="kpcode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="edi" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getBranchBOSKPResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getBranchBOSKPResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="insertToWu_unknownbc">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="bcode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="dr1" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="dr2" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="edi" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="insertToWu_unknownbcResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="insertToWu_unknownbcResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="isActionedWu_kebot">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="bcode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="month_ern" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="year_ern" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="edi" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="isActionedWu_kebotResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="isActionedWu_kebotResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="isActionedEdiTable">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="tablename" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="g_month" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="edi" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="isActionedEdiTableResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="isActionedEdiTableResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="logdb">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="datetimelog" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="application" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="activity" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="resource" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="department" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="remarks" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="logdbResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="logdbResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="getGuid">
+        <s:complexType />
+      </s:element>
+      <s:element name="getGuidResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="getGuidResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="alreadySaved">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="bcode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="month" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="year" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="descValue" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="tableName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="descColl" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="edi" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="alreadySavedResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="alreadySavedResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="alreadySavedBase">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="bcode" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="month" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="year" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="tableName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="edi" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="alreadySavedBaseResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="alreadySavedBaseResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="insertTransactionWithDesc">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="jsondata" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="jsonediTableData" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="tableName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="desc" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="edi" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="insertTransactionWithDescResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="insertTransactionWithDescResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="insertTransactionBase">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="jsondata" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="jsonediTableData" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="tableName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="edi" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="insertTransactionBaseResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="insertTransactionBaseResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="validateUserById">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="userId" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="validateUserByIdResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="validateUserByIdResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="validateUserByProgdesc">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="progdesc" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="validateUserByProgdescResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="validateUserByProgdescResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="getBranchSoapIn">
+    <wsdl:part name="parameters" element="tns:getBranch" />
+  </wsdl:message>
+  <wsdl:message name="getBranchSoapOut">
+    <wsdl:part name="parameters" element="tns:getBranchResponse" />
+  </wsdl:message>
+  <wsdl:message name="getBranchBOSKPSoapIn">
+    <wsdl:part name="parameters" element="tns:getBranchBOSKP" />
+  </wsdl:message>
+  <wsdl:message name="getBranchBOSKPSoapOut">
+    <wsdl:part name="parameters" element="tns:getBranchBOSKPResponse" />
+  </wsdl:message>
+  <wsdl:message name="insertToWu_unknownbcSoapIn">
+    <wsdl:part name="parameters" element="tns:insertToWu_unknownbc" />
+  </wsdl:message>
+  <wsdl:message name="insertToWu_unknownbcSoapOut">
+    <wsdl:part name="parameters" element="tns:insertToWu_unknownbcResponse" />
+  </wsdl:message>
+  <wsdl:message name="isActionedWu_kebotSoapIn">
+    <wsdl:part name="parameters" element="tns:isActionedWu_kebot" />
+  </wsdl:message>
+  <wsdl:message name="isActionedWu_kebotSoapOut">
+    <wsdl:part name="parameters" element="tns:isActionedWu_kebotResponse" />
+  </wsdl:message>
+  <wsdl:message name="isActionedEdiTableSoapIn">
+    <wsdl:part name="parameters" element="tns:isActionedEdiTable" />
+  </wsdl:message>
+  <wsdl:message name="isActionedEdiTableSoapOut">
+    <wsdl:part name="parameters" element="tns:isActionedEdiTableResponse" />
+  </wsdl:message>
+  <wsdl:message name="logdbSoapIn">
+    <wsdl:part name="parameters" element="tns:logdb" />
+  </wsdl:message>
+  <wsdl:message name="logdbSoapOut">
+    <wsdl:part name="parameters" element="tns:logdbResponse" />
+  </wsdl:message>
+  <wsdl:message name="getGuidSoapIn">
+    <wsdl:part name="parameters" element="tns:getGuid" />
+  </wsdl:message>
+  <wsdl:message name="getGuidSoapOut">
+    <wsdl:part name="parameters" element="tns:getGuidResponse" />
+  </wsdl:message>
+  <wsdl:message name="alreadySavedSoapIn">
+    <wsdl:part name="parameters" element="tns:alreadySaved" />
+  </wsdl:message>
+  <wsdl:message name="alreadySavedSoapOut">
+    <wsdl:part name="parameters" element="tns:alreadySavedResponse" />
+  </wsdl:message>
+  <wsdl:message name="alreadySavedBaseSoapIn">
+    <wsdl:part name="parameters" element="tns:alreadySavedBase" />
+  </wsdl:message>
+  <wsdl:message name="alreadySavedBaseSoapOut">
+    <wsdl:part name="parameters" element="tns:alreadySavedBaseResponse" />
+  </wsdl:message>
+  <wsdl:message name="insertTransactionWithDescSoapIn">
+    <wsdl:part name="parameters" element="tns:insertTransactionWithDesc" />
+  </wsdl:message>
+  <wsdl:message name="insertTransactionWithDescSoapOut">
+    <wsdl:part name="parameters" element="tns:insertTransactionWithDescResponse" />
+  </wsdl:message>
+  <wsdl:message name="insertTransactionBaseSoapIn">
+    <wsdl:part name="parameters" element="tns:insertTransactionBase" />
+  </wsdl:message>
+  <wsdl:message name="insertTransactionBaseSoapOut">
+    <wsdl:part name="parameters" element="tns:insertTransactionBaseResponse" />
+  </wsdl:message>
+  <wsdl:message name="validateUserByIdSoapIn">
+    <wsdl:part name="parameters" element="tns:validateUserById" />
+  </wsdl:message>
+  <wsdl:message name="validateUserByIdSoapOut">
+    <wsdl:part name="parameters" element="tns:validateUserByIdResponse" />
+  </wsdl:message>
+  <wsdl:message name="validateUserByProgdescSoapIn">
+    <wsdl:part name="parameters" element="tns:validateUserByProgdesc" />
+  </wsdl:message>
+  <wsdl:message name="validateUserByProgdescSoapOut">
+    <wsdl:part name="parameters" element="tns:validateUserByProgdescResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ServiceSoap">
+    <wsdl:operation name="getBranch">
+      <wsdl:input message="tns:getBranchSoapIn" />
+      <wsdl:output message="tns:getBranchSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getBranchBOSKP">
+      <wsdl:input message="tns:getBranchBOSKPSoapIn" />
+      <wsdl:output message="tns:getBranchBOSKPSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="insertToWu_unknownbc">
+      <wsdl:input message="tns:insertToWu_unknownbcSoapIn" />
+      <wsdl:output message="tns:insertToWu_unknownbcSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="isActionedWu_kebot">
+      <wsdl:input message="tns:isActionedWu_kebotSoapIn" />
+      <wsdl:output message="tns:isActionedWu_kebotSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="isActionedEdiTable">
+      <wsdl:input message="tns:isActionedEdiTableSoapIn" />
+      <wsdl:output message="tns:isActionedEdiTableSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="logdb">
+      <wsdl:input message="tns:logdbSoapIn" />
+      <wsdl:output message="tns:logdbSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="getGuid">
+      <wsdl:input message="tns:getGuidSoapIn" />
+      <wsdl:output message="tns:getGuidSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="alreadySaved">
+      <wsdl:input message="tns:alreadySavedSoapIn" />
+      <wsdl:output message="tns:alreadySavedSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="alreadySavedBase">
+      <wsdl:input message="tns:alreadySavedBaseSoapIn" />
+      <wsdl:output message="tns:alreadySavedBaseSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="insertTransactionWithDesc">
+      <wsdl:input message="tns:insertTransactionWithDescSoapIn" />
+      <wsdl:output message="tns:insertTransactionWithDescSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="insertTransactionBase">
+      <wsdl:input message="tns:insertTransactionBaseSoapIn" />
+      <wsdl:output message="tns:insertTransactionBaseSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="validateUserById">
+      <wsdl:input message="tns:validateUserByIdSoapIn" />
+      <wsdl:output message="tns:validateUserByIdSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="validateUserByProgdesc">
+      <wsdl:input message="tns:validateUserByProgdescSoapIn" />
+      <wsdl:output message="tns:validateUserByProgdescSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ServiceSoap" type="tns:ServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="getBranch">
+      <soap:operation soapAction="http://tempuri.org/getBranch" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getBranchBOSKP">
+      <soap:operation soapAction="http://tempuri.org/getBranchBOSKP" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="insertToWu_unknownbc">
+      <soap:operation soapAction="http://tempuri.org/insertToWu_unknownbc" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="isActionedWu_kebot">
+      <soap:operation soapAction="http://tempuri.org/isActionedWu_kebot" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="isActionedEdiTable">
+      <soap:operation soapAction="http://tempuri.org/isActionedEdiTable" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="logdb">
+      <soap:operation soapAction="http://tempuri.org/logdb" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getGuid">
+      <soap:operation soapAction="http://tempuri.org/getGuid" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="alreadySaved">
+      <soap:operation soapAction="http://tempuri.org/alreadySaved" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="alreadySavedBase">
+      <soap:operation soapAction="http://tempuri.org/alreadySavedBase" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="insertTransactionWithDesc">
+      <soap:operation soapAction="http://tempuri.org/insertTransactionWithDesc" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="insertTransactionBase">
+      <soap:operation soapAction="http://tempuri.org/insertTransactionBase" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="validateUserById">
+      <soap:operation soapAction="http://tempuri.org/validateUserById" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="validateUserByProgdesc">
+      <soap:operation soapAction="http://tempuri.org/validateUserByProgdesc" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="ServiceSoap12" type="tns:ServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="getBranch">
+      <soap12:operation soapAction="http://tempuri.org/getBranch" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getBranchBOSKP">
+      <soap12:operation soapAction="http://tempuri.org/getBranchBOSKP" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="insertToWu_unknownbc">
+      <soap12:operation soapAction="http://tempuri.org/insertToWu_unknownbc" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="isActionedWu_kebot">
+      <soap12:operation soapAction="http://tempuri.org/isActionedWu_kebot" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="isActionedEdiTable">
+      <soap12:operation soapAction="http://tempuri.org/isActionedEdiTable" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="logdb">
+      <soap12:operation soapAction="http://tempuri.org/logdb" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="getGuid">
+      <soap12:operation soapAction="http://tempuri.org/getGuid" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="alreadySaved">
+      <soap12:operation soapAction="http://tempuri.org/alreadySaved" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="alreadySavedBase">
+      <soap12:operation soapAction="http://tempuri.org/alreadySavedBase" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="insertTransactionWithDesc">
+      <soap12:operation soapAction="http://tempuri.org/insertTransactionWithDesc" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="insertTransactionBase">
+      <soap12:operation soapAction="http://tempuri.org/insertTransactionBase" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="validateUserById">
+      <soap12:operation soapAction="http://tempuri.org/validateUserById" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="validateUserByProgdesc">
+      <soap12:operation soapAction="http://tempuri.org/validateUserByProgdesc" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service">
+    <wsdl:port name="ServiceSoap" binding="tns:ServiceSoap">
+      <soap:address location="http://192.168.19.118:4747/EDIWS/Service.asmx" />
+    </wsdl:port>
+    <wsdl:port name="ServiceSoap12" binding="tns:ServiceSoap12">
+      <soap12:address location="http://192.168.19.118:4747/EDIWS/Service.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

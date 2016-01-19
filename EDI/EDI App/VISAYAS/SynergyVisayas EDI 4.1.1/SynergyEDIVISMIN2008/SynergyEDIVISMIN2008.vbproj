@@ -1,0 +1,767 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{058F6ED7-1C2A-49F1-8A43-E0D1C668050D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>SynergyEDIVISAYAS2008.My.MyApplication</StartupObject>
+    <RootNamespace>SynergyEDIVISAYAS2008</RootNamespace>
+    <AssemblyName>SynergyEDIVISAYAS2008</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <ApplicationIcon>logo.ico</ApplicationIcon>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>SynergyEDIVISAYAS2008.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>SynergyEDIVISAYAS2008.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x64' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DocumentationFile>SynergyEDIVISAYAS2008.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x64' ">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DocumentationFile>SynergyEDIVISAYAS2008.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DocumentationFile>SynergyEDIVISAYAS2008.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DocumentationFile>SynergyEDIVISAYAS2008.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxInterop.MSFlexGridLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>bin\Debug\AxInterop.MSFlexGridLib.dll</HintPath>
+    </Reference>
+    <Reference Include="EDIdataClass, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\EDIdataClass.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.MSFlexGridLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <Private>False</Private>
+      <HintPath>bin\Debug\Interop.MSFlexGridLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=4.0.5.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AllocationVISAYAS.Designer.vb">
+      <DependentUpon>AllocationVISAYAS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AllocationVISAYAS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Class\IniFile.vb" />
+    <Compile Include="clsData.vb" />
+    <Compile Include="ClsDataEDIVISAYAS.vb" />
+    <Compile Include="clsdatalog.vb" />
+    <Compile Include="clsDBconnection.vb" />
+    <Compile Include="clsExcelConnection.vb" />
+    <Compile Include="clsFunc.vb" />
+    <Compile Include="EDIMIN_SSMI.Designer.vb">
+      <DependentUpon>EDIMIN_SSMI.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIMIN_SSMI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIVISAYAS_MMD.Designer.vb">
+      <DependentUpon>EDIVISAYAS_MMD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIVISAYAS_MMD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIVISAYAS_ProtectPlus.Designer.vb">
+      <DependentUpon>EDIVISAYAS_ProtectPlus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIVISAYAS_ProtectPlus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIReportVISAYAS.Designer.vb">
+      <DependentUpon>EDIReportVISAYAS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIReportVISAYAS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIVISAYAS_13THMONTH.Designer.vb">
+      <DependentUpon>EDIVISAYAS_13THMONTH.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIVISAYAS_13THMONTH.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIVISAYAS_13THMONTHBB.Designer.vb">
+      <DependentUpon>EDIVISAYAS_13THMONTHBB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIVISAYAS_13THMONTHBB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIVISAYAS_ALLOCATION.Designer.vb">
+      <DependentUpon>EDIVISAYAS_ALLOCATION.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIVISAYAS_ALLOCATION.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIVISAYAS_ALLOCATIONBB.Designer.vb">
+      <DependentUpon>EDIVISAYAS_ALLOCATIONBB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIVISAYAS_ALLOCATIONBB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIVISAYAS_CORPINCOME.Designer.vb">
+      <DependentUpon>EDIVISAYAS_CORPINCOME.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIVISAYAS_CORPINCOME.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIVISAYAS_GlobeBillBB.Designer.vb">
+      <DependentUpon>EDIVISAYAS_GlobeBillBB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIVISAYAS_GlobeBillBB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIVISAYAS_GLOBESMART.Designer.vb">
+      <DependentUpon>EDIVISAYAS_GLOBESMART.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIVISAYAS_GLOBESMART.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIVISAYAS_ICONNECT.Designer.vb">
+      <DependentUpon>EDIVISAYAS_ICONNECT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIVISAYAS_ICONNECT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIVISAYAS_ICONNECT_REPL.Designer.vb">
+      <DependentUpon>EDIVISAYAS_ICONNECT_REPL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIVISAYAS_ICONNECT_REPL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIVISAYAS_INSURANCE.Designer.vb">
+      <DependentUpon>EDIVISAYAS_INSURANCE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIVISAYAS_INSURANCE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIVISAYAS_KPINCOME.Designer.vb">
+      <DependentUpon>EDIVISAYAS_KPINCOME.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIVISAYAS_KPINCOME.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIVISAYAS_MIDYEAR.Designer.vb">
+      <DependentUpon>EDIVISAYAS_MIDYEAR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIVISAYAS_MIDYEAR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIVISAYAS_MIDYEARBB.Designer.vb">
+      <DependentUpon>EDIVISAYAS_MIDYEARBB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIVISAYAS_MIDYEARBB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIVISAYAS_MONEYGRAM.Designer.vb">
+      <DependentUpon>EDIVISAYAS_MONEYGRAM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIVISAYAS_MONEYGRAM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIVISAYAS_PAYROLL.Designer.vb">
+      <DependentUpon>EDIVISAYAS_PAYROLL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIVISAYAS_PAYROLL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIVISAYAS_PAYROLLBB.Designer.vb">
+      <DependentUpon>EDIVISAYAS_PAYROLLBB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIVISAYAS_PAYROLLBB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIVISAYAS_PEA.Designer.vb">
+      <DependentUpon>EDIVISAYAS_PEA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIVISAYAS_PEA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIVISAYAS_PROVISION.Designer.vb">
+      <DependentUpon>EDIVISAYAS_PROVISION.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIVISAYAS_PROVISION.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIVISAYAS_PROVISIONBB.Designer.vb">
+      <DependentUpon>EDIVISAYAS_PROVISIONBB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIVISAYAS_PROVISIONBB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIVISAYAS_RECURRING.Designer.vb">
+      <DependentUpon>EDIVISAYAS_RECURRING.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIVISAYAS_RECURRING.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIVISAYAS_REMITTANCE.Designer.vb">
+      <DependentUpon>EDIVISAYAS_REMITTANCE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIVISAYAS_REMITTANCE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIVISAYAS_REMITTANCEBB.Designer.vb">
+      <DependentUpon>EDIVISAYAS_REMITTANCEBB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIVISAYAS_REMITTANCEBB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIVISAYAS_REVOLVING_FUND.Designer.vb">
+      <DependentUpon>EDIVISAYAS_REVOLVING_FUND.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIVISAYAS_REVOLVING_FUND.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIVISAYAS_SECURITYBB.Designer.vb">
+      <DependentUpon>EDIVISAYAS_SECURITYBB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIVISAYAS_SECURITYBB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIVISAYAS_SECURITYGUARD.Designer.vb">
+      <DependentUpon>EDIVISAYAS_SECURITYGUARD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIVISAYAS_SECURITYGUARD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIVISAYAS_SMARTBASEBRANCH.Designer.vb">
+      <DependentUpon>EDIVISAYAS_SMARTBASEBRANCH.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIVISAYAS_SMARTBASEBRANCH.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIVISAYAS_SSMI.Designer.vb">
+      <DependentUpon>EDIVISAYAS_SSMI.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIVISAYAS_SSMI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIVISAYAS_UNUSEDSICKLEAVE.Designer.vb">
+      <DependentUpon>EDIVISAYAS_UNUSEDSICKLEAVE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIVISAYAS_UNUSEDSICKLEAVE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIVISAYAS_UNUSED_SICKLEAVE.Designer.vb">
+      <DependentUpon>EDIVISAYAS_UNUSED_SICKLEAVE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIVISAYAS_UNUSED_SICKLEAVE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIVISAYAS_WHOLDINGTAX.Designer.vb">
+      <DependentUpon>EDIVISAYAS_WHOLDINGTAX.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIVISAYAS_WHOLDINGTAX.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIVISAYAS_XOOM.Designer.vb">
+      <DependentUpon>EDIVISAYAS_XOOM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIVISAYAS_XOOM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIVISAYAS_XPRESS_MONEY.Designer.vb">
+      <DependentUpon>EDIVISAYAS_XPRESS_MONEY.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIVISAYAS_XPRESS_MONEY.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Insurance.Designer.vb">
+      <DependentUpon>Insurance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Insurance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogsEDILUZON.vb" />
+    <Compile Include="LogsEDIVISAYAS.vb" />
+    <Compile Include="Main.Designer.vb">
+      <DependentUpon>Main.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MAINTENANCE_BOSKP.Designer.vb">
+      <DependentUpon>MAINTENANCE_BOSKP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MAINTENANCE_BOSKP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MAINTENANCE_CORP_PARTNERS.Designer.vb">
+      <DependentUpon>MAINTENANCE_CORP_PARTNERS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MAINTENANCE_CORP_PARTNERS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MMDVISAYAS.Designer.vb">
+      <DependentUpon>MMDVISAYAS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MMDVISAYAS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ProvisionVISAYAS.Designer.vb">
+      <DependentUpon>ProvisionVISAYAS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ProvisionVISAYAS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RemittanceVISAYAS.Designer.vb">
+      <DependentUpon>RemittanceVISAYAS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RemittanceVISAYAS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIS_AIRPHIL.Designer.vb">
+      <DependentUpon>VIS_AIRPHIL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VIS_AIRPHIL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIS_FOREX.Designer.vb">
+      <DependentUpon>VIS_FOREX.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VIS_FOREX.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIS_INTEREST.Designer.vb">
+      <DependentUpon>VIS_INTEREST.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VIS_INTEREST.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIS_PRINCIPAL.Designer.vb">
+      <DependentUpon>VIS_PRINCIPAL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VIS_PRINCIPAL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIS_SERVICECHARGE.Designer.vb">
+      <DependentUpon>VIS_SERVICECHARGE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="VIS_SERVICECHARGE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Web References\EDIService\Reference.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.map</DependentUpon>
+    </Compile>
+    <Compile Include="YearForm.Designer.vb">
+      <DependentUpon>YearForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="YearForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AllocationVISAYAS.resx">
+      <DependentUpon>AllocationVISAYAS.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIMIN_SSMI.resx">
+      <DependentUpon>EDIMIN_SSMI.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIVISAYAS_MMD.resx">
+      <DependentUpon>EDIVISAYAS_MMD.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIVISAYAS_ProtectPlus.resx">
+      <DependentUpon>EDIVISAYAS_ProtectPlus.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIReportVISAYAS.resx">
+      <DependentUpon>EDIReportVISAYAS.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIVISAYAS_13THMONTH.resx">
+      <DependentUpon>EDIVISAYAS_13THMONTH.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIVISAYAS_13THMONTHBB.resx">
+      <DependentUpon>EDIVISAYAS_13THMONTHBB.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIVISAYAS_ALLOCATION.resx">
+      <DependentUpon>EDIVISAYAS_ALLOCATION.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIVISAYAS_ALLOCATIONBB.resx">
+      <DependentUpon>EDIVISAYAS_ALLOCATIONBB.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIVISAYAS_CORPINCOME.resx">
+      <DependentUpon>EDIVISAYAS_CORPINCOME.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIVISAYAS_GlobeBillBB.resx">
+      <DependentUpon>EDIVISAYAS_GlobeBillBB.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIVISAYAS_GLOBESMART.resx">
+      <DependentUpon>EDIVISAYAS_GLOBESMART.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIVISAYAS_ICONNECT.resx">
+      <DependentUpon>EDIVISAYAS_ICONNECT.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIVISAYAS_ICONNECT_REPL.resx">
+      <DependentUpon>EDIVISAYAS_ICONNECT_REPL.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIVISAYAS_INSURANCE.resx">
+      <DependentUpon>EDIVISAYAS_INSURANCE.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIVISAYAS_KPINCOME.resx">
+      <DependentUpon>EDIVISAYAS_KPINCOME.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIVISAYAS_MIDYEAR.resx">
+      <DependentUpon>EDIVISAYAS_MIDYEAR.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIVISAYAS_MIDYEARBB.resx">
+      <DependentUpon>EDIVISAYAS_MIDYEARBB.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIVISAYAS_MONEYGRAM.resx">
+      <DependentUpon>EDIVISAYAS_MONEYGRAM.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIVISAYAS_PAYROLL.resx">
+      <DependentUpon>EDIVISAYAS_PAYROLL.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIVISAYAS_PAYROLLBB.resx">
+      <DependentUpon>EDIVISAYAS_PAYROLLBB.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIVISAYAS_PEA.resx">
+      <DependentUpon>EDIVISAYAS_PEA.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIVISAYAS_PROVISION.resx">
+      <DependentUpon>EDIVISAYAS_PROVISION.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIVISAYAS_PROVISIONBB.resx">
+      <DependentUpon>EDIVISAYAS_PROVISIONBB.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIVISAYAS_RECURRING.resx">
+      <DependentUpon>EDIVISAYAS_RECURRING.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIVISAYAS_REMITTANCE.resx">
+      <DependentUpon>EDIVISAYAS_REMITTANCE.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIVISAYAS_REMITTANCEBB.resx">
+      <DependentUpon>EDIVISAYAS_REMITTANCEBB.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIVISAYAS_REVOLVING_FUND.resx">
+      <DependentUpon>EDIVISAYAS_REVOLVING_FUND.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIVISAYAS_SECURITYBB.resx">
+      <DependentUpon>EDIVISAYAS_SECURITYBB.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIVISAYAS_SECURITYGUARD.resx">
+      <DependentUpon>EDIVISAYAS_SECURITYGUARD.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIVISAYAS_SMARTBASEBRANCH.resx">
+      <DependentUpon>EDIVISAYAS_SMARTBASEBRANCH.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIVISAYAS_SSMI.resx">
+      <DependentUpon>EDIVISAYAS_SSMI.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIVISAYAS_UNUSEDSICKLEAVE.resx">
+      <DependentUpon>EDIVISAYAS_UNUSEDSICKLEAVE.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIVISAYAS_UNUSED_SICKLEAVE.resx">
+      <DependentUpon>EDIVISAYAS_UNUSED_SICKLEAVE.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIVISAYAS_WHOLDINGTAX.resx">
+      <DependentUpon>EDIVISAYAS_WHOLDINGTAX.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIVISAYAS_XOOM.resx">
+      <DependentUpon>EDIVISAYAS_XOOM.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIVISAYAS_XPRESS_MONEY.resx">
+      <DependentUpon>EDIVISAYAS_XPRESS_MONEY.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Insurance.resx">
+      <DependentUpon>Insurance.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MAINTENANCE_BOSKP.resx">
+      <DependentUpon>MAINTENANCE_BOSKP.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MAINTENANCE_CORP_PARTNERS.resx">
+      <DependentUpon>MAINTENANCE_CORP_PARTNERS.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MMDVISAYAS.resx">
+      <DependentUpon>MMDVISAYAS.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProvisionVISAYAS.resx">
+      <DependentUpon>ProvisionVISAYAS.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RemittanceVISAYAS.resx">
+      <DependentUpon>RemittanceVISAYAS.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIS_AIRPHIL.resx">
+      <DependentUpon>VIS_AIRPHIL.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIS_FOREX.resx">
+      <DependentUpon>VIS_FOREX.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIS_INTEREST.resx">
+      <DependentUpon>VIS_INTEREST.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIS_PRINCIPAL.resx">
+      <DependentUpon>VIS_PRINCIPAL.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIS_SERVICECHARGE.resx">
+      <DependentUpon>VIS_SERVICECHARGE.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YearForm.resx">
+      <DependentUpon>YearForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="logo.ico" />
+    <None Include="Web References\EDIService\Reference.map">
+      <Generator>MSDiscoCodeGenerator</Generator>
+      <LastGenOutput>Reference.vb</LastGenOutput>
+    </None>
+    <None Include="Web References\EDIService\Service.disco" />
+    <None Include="app.config" />
+    <None Include="Web References\EDIService\Service.wsdl" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferences Include="Web References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WebReferenceUrl Include="http://192.168.19.118:4747/EDIWS/">
+      <UrlBehavior>Dynamic</UrlBehavior>
+      <RelPath>Web References\EDIService\</RelPath>
+      <UpdateFromURL>http://192.168.19.118:4747/EDIWS/</UpdateFromURL>
+      <ServiceLocationURL>
+      </ServiceLocationURL>
+      <CachedDynamicPropName>
+      </CachedDynamicPropName>
+      <CachedAppSettingsObjectName>MySettings</CachedAppSettingsObjectName>
+      <CachedSettingsPropName>SynergyEDIVISAYAS2008_EDIService_Service</CachedSettingsPropName>
+    </WebReferenceUrl>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

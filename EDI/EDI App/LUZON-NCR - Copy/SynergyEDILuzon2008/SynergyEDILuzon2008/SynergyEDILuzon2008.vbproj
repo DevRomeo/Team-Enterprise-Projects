@@ -1,0 +1,409 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{565B897D-1B4D-4E90-82C4-2B0C5CFE5F79}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>SynergyEDILuzon2008.My.MyApplication</StartupObject>
+    <RootNamespace>SynergyEDILuzon2008</RootNamespace>
+    <AssemblyName>SynergyEDILuzon2008</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <ApplicationIcon>logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>SynergyEDILuzon2008.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>SynergyEDILuzon2008.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AllocationLuzon.Designer.vb">
+      <DependentUpon>AllocationLuzon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AllocationLuzon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BOSKPLuzon.Designer.vb">
+      <DependentUpon>BOSKPLuzon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BOSKPLuzon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ClsDataEDILuzon.vb" />
+    <Compile Include="clsdatalog.vb" />
+    <Compile Include="clsDBconnection.vb" />
+    <Compile Include="clsExcelConnection.vb" />
+    <Compile Include="clsFunc.vb" />
+    <Compile Include="EDIReportLuzon.Designer.vb">
+      <DependentUpon>EDIReportLuzon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIReportLuzon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIVISMIN_CORPINCOME.Designer.vb">
+      <DependentUpon>EDIVISMIN_CORPINCOME.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIVISMIN_CORPINCOME.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDI_Log_In_Luzon.Designer.vb">
+      <DependentUpon>EDI_Log_In_Luzon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDI_Log_In_Luzon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDI_Luzon_Main.Designer.vb">
+      <DependentUpon>EDI_Luzon_Main.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDI_Luzon_Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FastPakLuzon.Designer.vb">
+      <DependentUpon>FastPakLuzon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FastPakLuzon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FixedAssetsLuzon.Designer.vb">
+      <DependentUpon>FixedAssetsLuzon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FixedAssetsLuzon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GlobeSmart.Designer.vb">
+      <DependentUpon>GlobeSmart.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GlobeSmart.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Insurance.Designer.vb">
+      <DependentUpon>Insurance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Insurance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KPCorpLuzon.Designer.vb">
+      <DependentUpon>KPCorpLuzon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="KPCorpLuzon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KPIncome.Designer.vb">
+      <DependentUpon>KPIncome.vb</DependentUpon>
+    </Compile>
+    <Compile Include="KPIncome.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogsEDILUZON.vb" />
+    <Compile Include="MAINTENANCE_CORP_PARTNERS.Designer.vb">
+      <DependentUpon>MAINTENANCE_CORP_PARTNERS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MAINTENANCE_CORP_PARTNERS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MMDLuzon.Designer.vb">
+      <DependentUpon>MMDLuzon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MMDLuzon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="MoneyGramLuzon.Designer.vb">
+      <DependentUpon>MoneyGramLuzon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MoneyGramLuzon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="NSOComm.Designer.vb">
+      <DependentUpon>NSOComm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NSOComm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NSOiConnectRep.Designer.vb">
+      <DependentUpon>NSOiConnectRep.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NSOiConnectRep.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ProvisionLuzon.Designer.vb">
+      <DependentUpon>ProvisionLuzon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ProvisionLuzon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RemittanceLuzon.Designer.vb">
+      <DependentUpon>RemittanceLuzon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RemittanceLuzon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RRFLuzon.Designer.vb">
+      <DependentUpon>RRFLuzon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RRFLuzon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SSMI.Designer.vb">
+      <DependentUpon>SSMI.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SSMI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TaxRemLuzon.Designer.vb">
+      <DependentUpon>TaxRemLuzon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TaxRemLuzon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WTaxLuzon.Designer.vb">
+      <DependentUpon>WTaxLuzon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="WTaxLuzon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XoomLuzon.Designer.vb">
+      <DependentUpon>XoomLuzon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="XoomLuzon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="XpressMoneyLuzon.Designer.vb">
+      <DependentUpon>XpressMoneyLuzon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="XpressMoneyLuzon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YearForm.Designer.vb">
+      <DependentUpon>YearForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="YearForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AllocationLuzon.resx">
+      <DependentUpon>AllocationLuzon.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BOSKPLuzon.resx">
+      <DependentUpon>BOSKPLuzon.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIReportLuzon.resx">
+      <DependentUpon>EDIReportLuzon.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIVISMIN_CORPINCOME.resx">
+      <DependentUpon>EDIVISMIN_CORPINCOME.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDI_Log_In_Luzon.resx">
+      <DependentUpon>EDI_Log_In_Luzon.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDI_Luzon_Main.resx">
+      <DependentUpon>EDI_Luzon_Main.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FastPakLuzon.resx">
+      <DependentUpon>FastPakLuzon.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FixedAssetsLuzon.resx">
+      <DependentUpon>FixedAssetsLuzon.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GlobeSmart.resx">
+      <DependentUpon>GlobeSmart.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Insurance.resx">
+      <DependentUpon>Insurance.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KPCorpLuzon.resx">
+      <DependentUpon>KPCorpLuzon.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KPIncome.resx">
+      <DependentUpon>KPIncome.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MAINTENANCE_CORP_PARTNERS.resx">
+      <DependentUpon>MAINTENANCE_CORP_PARTNERS.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MMDLuzon.resx">
+      <DependentUpon>MMDLuzon.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MoneyGramLuzon.resx">
+      <DependentUpon>MoneyGramLuzon.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NSOComm.resx">
+      <DependentUpon>NSOComm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NSOiConnectRep.resx">
+      <DependentUpon>NSOiConnectRep.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProvisionLuzon.resx">
+      <DependentUpon>ProvisionLuzon.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RemittanceLuzon.resx">
+      <DependentUpon>RemittanceLuzon.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RRFLuzon.resx">
+      <DependentUpon>RRFLuzon.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SSMI.resx">
+      <DependentUpon>SSMI.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TaxRemLuzon.resx">
+      <DependentUpon>TaxRemLuzon.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WTaxLuzon.resx">
+      <DependentUpon>WTaxLuzon.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XoomLuzon.resx">
+      <DependentUpon>XoomLuzon.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XpressMoneyLuzon.resx">
+      <DependentUpon>XpressMoneyLuzon.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YearForm.resx">
+      <DependentUpon>YearForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxMSFlexGridLib">
+      <Guid>{5E9E78A0-531B-11CF-91F6-C2863C385E30}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="MSFlexGridLib">
+      <Guid>{5E9E78A0-531B-11CF-91F6-C2863C385E30}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="logo.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

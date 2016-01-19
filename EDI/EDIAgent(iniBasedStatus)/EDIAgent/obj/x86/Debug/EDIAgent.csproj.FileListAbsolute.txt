@@ -1,0 +1,27 @@
+C:\Users\TONY\documents\visual studio 2010\Projects\EDIAgent\EDIAgent\bin\Debug\EDIAgent.exe.config
+C:\Users\TONY\documents\visual studio 2010\Projects\EDIAgent\EDIAgent\bin\Debug\EDIAgent.exe
+C:\Users\TONY\documents\visual studio 2010\Projects\EDIAgent\EDIAgent\bin\Debug\EDIAgent.pdb
+C:\Users\TONY\documents\visual studio 2010\Projects\EDIAgent\EDIAgent\obj\x86\Debug\EDIAgent.Form1.resources
+C:\Users\TONY\documents\visual studio 2010\Projects\EDIAgent\EDIAgent\obj\x86\Debug\EDIAgent.Properties.Resources.resources
+C:\Users\TONY\documents\visual studio 2010\Projects\EDIAgent\EDIAgent\obj\x86\Debug\EDIAgent.csproj.GenerateResource.Cache
+C:\Users\TONY\documents\visual studio 2010\Projects\EDIAgent\EDIAgent\obj\x86\Debug\EDIAgent.exe
+C:\Users\TONY\documents\visual studio 2010\Projects\EDIAgent\EDIAgent\obj\x86\Debug\EDIAgent.pdb
+C:\Users\TONY\Documents\Visual Studio 2010\Projects\EDIAgent(iniBasedStatus)\EDIAgent\bin\Debug\EDIAgent.exe.config
+C:\Users\TONY\Documents\Visual Studio 2010\Projects\EDIAgent(iniBasedStatus)\EDIAgent\bin\Debug\EDIAgent.exe
+C:\Users\TONY\Documents\Visual Studio 2010\Projects\EDIAgent(iniBasedStatus)\EDIAgent\bin\Debug\EDIAgent.pdb
+C:\Users\TONY\Documents\Visual Studio 2010\Projects\EDIAgent(iniBasedStatus)\EDIAgent\obj\x86\Debug\EDIAgent.Form1.resources
+C:\Users\TONY\Documents\Visual Studio 2010\Projects\EDIAgent(iniBasedStatus)\EDIAgent\obj\x86\Debug\EDIAgent.Properties.Resources.resources
+C:\Users\TONY\Documents\Visual Studio 2010\Projects\EDIAgent(iniBasedStatus)\EDIAgent\obj\x86\Debug\EDIAgent.csproj.GenerateResource.Cache
+C:\Users\TONY\Documents\Visual Studio 2010\Projects\EDIAgent(iniBasedStatus)\EDIAgent\obj\x86\Debug\EDIAgent.exe
+C:\Users\TONY\Documents\Visual Studio 2010\Projects\EDIAgent(iniBasedStatus)\EDIAgent\obj\x86\Debug\EDIAgent.pdb
+C:\Users\TONY\Documents\Visual Studio 2010\Projects\EDIAgent(iniBasedStatus)\EDIAgent\bin\Debug\log4net.dll
+C:\Users\TONY\Documents\Visual Studio 2010\Projects\EDIAgent(iniBasedStatus)\EDIAgent\obj\x86\Debug\EDIAgent.csprojResolveAssemblyReference.cache
+C:\Users\TARR12067047\Desktop\EDIAgent(iniBasedStatus)\EDIAgent\bin\Debug\EDIAgent.exe.config
+C:\Users\TARR12067047\Desktop\EDIAgent(iniBasedStatus)\EDIAgent\obj\x86\Debug\EDIAgent.exe
+C:\Users\TARR12067047\Desktop\EDIAgent(iniBasedStatus)\EDIAgent\obj\x86\Debug\EDIAgent.pdb
+C:\Users\TARR12067047\Desktop\EDIAgent(iniBasedStatus)\EDIAgent\obj\x86\Debug\EDIAgent.csprojResolveAssemblyReference.cache
+C:\Users\TARR12067047\Desktop\EDIAgent(iniBasedStatus)\EDIAgent\obj\x86\Debug\EDIAgent.Form1.resources
+C:\Users\TARR12067047\Desktop\EDIAgent(iniBasedStatus)\EDIAgent\obj\x86\Debug\EDIAgent.Properties.Resources.resources
+C:\Users\TARR12067047\Desktop\EDIAgent(iniBasedStatus)\EDIAgent\obj\x86\Debug\EDIAgent.csproj.GenerateResource.Cache
+C:\Users\TARR12067047\Desktop\EDIAgent(iniBasedStatus)\EDIAgent\bin\Debug\EDIAgent.exe
+C:\Users\TARR12067047\Desktop\EDIAgent(iniBasedStatus)\EDIAgent\bin\Debug\EDIAgent.pdb

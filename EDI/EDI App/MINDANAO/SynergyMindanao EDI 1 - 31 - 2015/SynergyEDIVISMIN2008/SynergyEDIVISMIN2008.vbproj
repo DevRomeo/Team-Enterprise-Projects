@@ -1,0 +1,644 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.21022</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{058F6ED7-1C2A-49F1-8A43-E0D1C668050D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>SynergyEDImindanao.My.MyApplication</StartupObject>
+    <RootNamespace>SynergyEDImindanao</RootNamespace>
+    <AssemblyName>SynergyEDImindanao</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+    <ApplicationIcon>logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>SynergyEDImindanao.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>SynergyEDImindanao.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AxInterop.MSFlexGridLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\SynergyVisayas EDI\SynergyEDIVISMIN2008\bin\Debug\AxInterop.MSFlexGridLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Interop.MSFlexGridLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\SynergyVisayas EDI\SynergyEDIVISMIN2008\bin\Debug\Interop.MSFlexGridLib.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AllocationLuzon.Designer.vb">
+      <DependentUpon>AllocationLuzon.vb</DependentUpon>
+    </Compile>
+    <Compile Include="AllocationLuzon.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="clsData.vb" />
+    <Compile Include="ClsDataEDIMINDANAO.vb" />
+    <Compile Include="clsdatalog.vb" />
+    <Compile Include="clsDBconnection.vb" />
+    <Compile Include="clsExcelConnection.vb" />
+    <Compile Include="clsFunc.vb" />
+    <Compile Include="EDIReportMin.Designer.vb">
+      <DependentUpon>EDIReportMin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIReportMin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIMIN_13THMONTH.Designer.vb">
+      <DependentUpon>EDIMIN_13THMONTH.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIMIN_13THMONTH.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIMIN_13THMONTHBB.Designer.vb">
+      <DependentUpon>EDIMIN_13THMONTHBB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIMIN_13THMONTHBB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIMIN_ALLOCATION.Designer.vb">
+      <DependentUpon>EDIMIN_ALLOCATION.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIMIN_ALLOCATION.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIMIN_ALLOCATIONBB.Designer.vb">
+      <DependentUpon>EDIMIN_ALLOCATIONBB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIMIN_ALLOCATIONBB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIMIN_CORPINCOME.Designer.vb">
+      <DependentUpon>EDIMIN_CORPINCOME.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIMIN_CORPINCOME.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIMIN_GlobeBillBB.Designer.vb">
+      <DependentUpon>EDIMIN_GlobeBillBB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIMIN_GlobeBillBB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIMIN_GLOBESMART.Designer.vb">
+      <DependentUpon>EDIMIN_GLOBESMART.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIMIN_GLOBESMART.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIMIN_ICONNECT.Designer.vb">
+      <DependentUpon>EDIMIN_ICONNECT.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIMIN_ICONNECT.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIMIN_ICONNECT_REPL.Designer.vb">
+      <DependentUpon>EDIMIN_ICONNECT_REPL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIMIN_ICONNECT_REPL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIMIN_INSURANCE.Designer.vb">
+      <DependentUpon>EDIMIN_INSURANCE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIMIN_INSURANCE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIMIN_KPINCOME.Designer.vb">
+      <DependentUpon>EDIMIN_KPINCOME.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIMIN_KPINCOME.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIMIN_MIDYEAR.Designer.vb">
+      <DependentUpon>EDIMIN_MIDYEAR.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIMIN_MIDYEAR.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIMIN_MIDYEARBB.Designer.vb">
+      <DependentUpon>EDIMIN_MIDYEARBB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIMIN_MIDYEARBB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIMIN_MMD.Designer.vb">
+      <DependentUpon>EDIMIN_MMD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIMIN_MMD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIMIN_MONEYGRAM.Designer.vb">
+      <DependentUpon>EDIMIN_MONEYGRAM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIMIN_MONEYGRAM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIMIN_PAYROLL.Designer.vb">
+      <DependentUpon>EDIMIN_PAYROLL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIMIN_PAYROLL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIMIN_PAYROLLBB.Designer.vb">
+      <DependentUpon>EDIMIN_PAYROLLBB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIMIN_PAYROLLBB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIMIN_PEA.Designer.vb">
+      <DependentUpon>EDIMIN_PEA.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIMIN_PEA.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIMIN_PROVISION.Designer.vb">
+      <DependentUpon>EDIMIN_PROVISION.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIMIN_PROVISION.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIMIN_PROVISIONBB.Designer.vb">
+      <DependentUpon>EDIMIN_PROVISIONBB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIMIN_PROVISIONBB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIMIN_RECURRING.Designer.vb">
+      <DependentUpon>EDIMIN_RECURRING.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIMIN_RECURRING.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIMIN_REMITTANCE.Designer.vb">
+      <DependentUpon>EDIMIN_REMITTANCE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIMIN_REMITTANCE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIMIN_REMITTANCEBB.Designer.vb">
+      <DependentUpon>EDIMIN_REMITTANCEBB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIMIN_REMITTANCEBB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIMIN_REVOLVING_FUND.Designer.vb">
+      <DependentUpon>EDIMIN_REVOLVING_FUND.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIMIN_REVOLVING_FUND.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIMIN_SECURITYBB.Designer.vb">
+      <DependentUpon>EDIMIN_SECURITYBB.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIMIN_SECURITYBB.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIMIN_SECURITYGUARD.Designer.vb">
+      <DependentUpon>EDIMIN_SECURITYGUARD.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIMIN_SECURITYGUARD.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIMIN_SMARTBASEBRANCH.Designer.vb">
+      <DependentUpon>EDIMIN_SMARTBASEBRANCH.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIMIN_SMARTBASEBRANCH.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIMIN_SSMI.Designer.vb">
+      <DependentUpon>EDIMIN_SSMI.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIMIN_SSMI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIMIN_UNUSEDSICKLEAVE.Designer.vb">
+      <DependentUpon>EDIMIN_UNUSEDSICKLEAVE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIMIN_UNUSEDSICKLEAVE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIMIN_UNUSED_SICKLEAVE.Designer.vb">
+      <DependentUpon>EDIMIN_UNUSED_SICKLEAVE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIMIN_UNUSED_SICKLEAVE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIMIN_WHOLDINGTAX.Designer.vb">
+      <DependentUpon>EDIMIN_WHOLDINGTAX.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIMIN_WHOLDINGTAX.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIMIN_XOOM.Designer.vb">
+      <DependentUpon>EDIMIN_XOOM.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIMIN_XOOM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIMIN_XPRESS_MONEY.Designer.vb">
+      <DependentUpon>EDIMIN_XPRESS_MONEY.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIMIN_XPRESS_MONEY.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EDIMIN_ProtectPlus.Designer.vb">
+      <DependentUpon>EDIMIN_ProtectPlus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EDIMIN_ProtectPlus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Insurance.Designer.vb">
+      <DependentUpon>Insurance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Insurance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogsEDILUZON.vb" />
+    <Compile Include="LogsEDIMIN.vb" />
+    <Compile Include="Main.Designer.vb">
+      <DependentUpon>Main.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Main.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MAINTENANCE_BOSKP.Designer.vb">
+      <DependentUpon>MAINTENANCE_BOSKP.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MAINTENANCE_BOSKP.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MAINTENANCE_CORP_PARTNERS.Designer.vb">
+      <DependentUpon>MAINTENANCE_CORP_PARTNERS.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MAINTENANCE_CORP_PARTNERS.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MMDMIN.Designer.vb">
+      <DependentUpon>MMDMIN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MMDMIN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="ProvisionMIN.Designer.vb">
+      <DependentUpon>ProvisionMIN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ProvisionMIN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RemittanceMIN.Designer.vb">
+      <DependentUpon>RemittanceMIN.vb</DependentUpon>
+    </Compile>
+    <Compile Include="RemittanceMIN.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MIN_AIRPHIL.Designer.vb">
+      <DependentUpon>MIN_AIRPHIL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MIN_AIRPHIL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MIN_FOREX.Designer.vb">
+      <DependentUpon>MIN_FOREX.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MIN_FOREX.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MIN_INTEREST.Designer.vb">
+      <DependentUpon>MIN_INTEREST.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MIN_INTEREST.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MIN_PRINCIPAL.Designer.vb">
+      <DependentUpon>MIN_PRINCIPAL.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MIN_PRINCIPAL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MIN_SERVICECHARGE.Designer.vb">
+      <DependentUpon>MIN_SERVICECHARGE.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MIN_SERVICECHARGE.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="YearForm.Designer.vb">
+      <DependentUpon>YearForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="YearForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AllocationLuzon.resx">
+      <DependentUpon>AllocationLuzon.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIReportMin.resx">
+      <DependentUpon>EDIReportMin.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIMIN_13THMONTH.resx">
+      <DependentUpon>EDIMIN_13THMONTH.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIMIN_13THMONTHBB.resx">
+      <DependentUpon>EDIMIN_13THMONTHBB.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIMIN_ALLOCATION.resx">
+      <DependentUpon>EDIMIN_ALLOCATION.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIMIN_ALLOCATIONBB.resx">
+      <DependentUpon>EDIMIN_ALLOCATIONBB.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIMIN_CORPINCOME.resx">
+      <DependentUpon>EDIMIN_CORPINCOME.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIMIN_GlobeBillBB.resx">
+      <DependentUpon>EDIMIN_GlobeBillBB.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIMIN_GLOBESMART.resx">
+      <DependentUpon>EDIMIN_GLOBESMART.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIMIN_ICONNECT.resx">
+      <DependentUpon>EDIMIN_ICONNECT.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIMIN_ICONNECT_REPL.resx">
+      <DependentUpon>EDIMIN_ICONNECT_REPL.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIMIN_INSURANCE.resx">
+      <DependentUpon>EDIMIN_INSURANCE.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIMIN_KPINCOME.resx">
+      <DependentUpon>EDIMIN_KPINCOME.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIMIN_MIDYEAR.resx">
+      <DependentUpon>EDIMIN_MIDYEAR.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIMIN_MIDYEARBB.resx">
+      <DependentUpon>EDIMIN_MIDYEARBB.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIMIN_MMD.resx">
+      <DependentUpon>EDIMIN_MMD.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIMIN_MONEYGRAM.resx">
+      <DependentUpon>EDIMIN_MONEYGRAM.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIMIN_PAYROLL.resx">
+      <DependentUpon>EDIMIN_PAYROLL.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIMIN_PAYROLLBB.resx">
+      <DependentUpon>EDIMIN_PAYROLLBB.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIMIN_PEA.resx">
+      <DependentUpon>EDIMIN_PEA.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIMIN_PROVISION.resx">
+      <DependentUpon>EDIMIN_PROVISION.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIMIN_PROVISIONBB.resx">
+      <DependentUpon>EDIMIN_PROVISIONBB.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIMIN_RECURRING.resx">
+      <DependentUpon>EDIMIN_RECURRING.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIMIN_REMITTANCE.resx">
+      <DependentUpon>EDIMIN_REMITTANCE.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIMIN_REMITTANCEBB.resx">
+      <DependentUpon>EDIMIN_REMITTANCEBB.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIMIN_REVOLVING_FUND.resx">
+      <DependentUpon>EDIMIN_REVOLVING_FUND.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIMIN_SECURITYBB.resx">
+      <DependentUpon>EDIMIN_SECURITYBB.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIMIN_SECURITYGUARD.resx">
+      <DependentUpon>EDIMIN_SECURITYGUARD.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIMIN_SMARTBASEBRANCH.resx">
+      <DependentUpon>EDIMIN_SMARTBASEBRANCH.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIMIN_SSMI.resx">
+      <DependentUpon>EDIMIN_SSMI.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIMIN_UNUSEDSICKLEAVE.resx">
+      <DependentUpon>EDIMIN_UNUSEDSICKLEAVE.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIMIN_UNUSED_SICKLEAVE.resx">
+      <DependentUpon>EDIMIN_UNUSED_SICKLEAVE.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIMIN_WHOLDINGTAX.resx">
+      <DependentUpon>EDIMIN_WHOLDINGTAX.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIMIN_XOOM.resx">
+      <DependentUpon>EDIMIN_XOOM.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIMIN_XPRESS_MONEY.resx">
+      <DependentUpon>EDIMIN_XPRESS_MONEY.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EDIMIN_ProtectPlus.resx">
+      <DependentUpon>EDIMIN_ProtectPlus.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Insurance.resx">
+      <DependentUpon>Insurance.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Main.resx">
+      <DependentUpon>Main.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MAINTENANCE_BOSKP.resx">
+      <DependentUpon>MAINTENANCE_BOSKP.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MAINTENANCE_CORP_PARTNERS.resx">
+      <DependentUpon>MAINTENANCE_CORP_PARTNERS.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MMDMIN.resx">
+      <DependentUpon>MMDMIN.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ProvisionMIN.resx">
+      <DependentUpon>ProvisionMIN.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RemittanceMIN.resx">
+      <DependentUpon>RemittanceMIN.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MIN_AIRPHIL.resx">
+      <DependentUpon>MIN_AIRPHIL.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MIN_FOREX.resx">
+      <DependentUpon>MIN_FOREX.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MIN_INTEREST.resx">
+      <DependentUpon>MIN_INTEREST.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MIN_PRINCIPAL.resx">
+      <DependentUpon>MIN_PRINCIPAL.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MIN_SERVICECHARGE.resx">
+      <DependentUpon>MIN_SERVICECHARGE.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="YearForm.resx">
+      <DependentUpon>YearForm.vb</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="stdole">
+      <Guid>{00020430-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="logo.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

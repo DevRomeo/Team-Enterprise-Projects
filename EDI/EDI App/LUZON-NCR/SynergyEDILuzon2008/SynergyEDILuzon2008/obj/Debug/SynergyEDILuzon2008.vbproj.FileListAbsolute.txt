@@ -1,0 +1,995 @@
+C:\Documents and Settings\chingot\My Documents\Visual Studio 2008\Projects\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\chingot\My Documents\Visual Studio 2008\Projects\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\Interop.MSFlexGridLib.dll
+C:\Documents and Settings\chingot\My Documents\Visual Studio 2008\Projects\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\AxInterop.MSFlexGridLib.dll
+C:\Documents and Settings\chingot\My Documents\Visual Studio 2008\Projects\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.ResolveComReference.cache
+C:\Documents and Settings\chingot\My Documents\Visual Studio 2008\Projects\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.AllocationLuzon.resources
+C:\Documents and Settings\chingot\My Documents\Visual Studio 2008\Projects\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Log_In_Luzon.resources
+C:\Documents and Settings\chingot\My Documents\Visual Studio 2008\Projects\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Luzon_Main.resources
+C:\Documents and Settings\chingot\My Documents\Visual Studio 2008\Projects\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Resources.resources
+C:\Documents and Settings\chingot\My Documents\Visual Studio 2008\Projects\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.GenerateResource.Cache
+C:\Documents and Settings\chingot\My Documents\Visual Studio 2008\Projects\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.exe
+C:\Documents and Settings\chingot\My Documents\Visual Studio 2008\Projects\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.pdb
+C:\Documents and Settings\chingot\My Documents\Visual Studio 2008\Projects\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.xml
+C:\Documents and Settings\chingot\My Documents\Visual Studio 2008\Projects\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\Interop.MSFlexGridLib.dll
+C:\Documents and Settings\chingot\My Documents\Visual Studio 2008\Projects\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\AxInterop.MSFlexGridLib.dll
+C:\Documents and Settings\chingot\My Documents\Visual Studio 2008\Projects\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.exe
+C:\Documents and Settings\chingot\My Documents\Visual Studio 2008\Projects\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.xml
+C:\Documents and Settings\chingot\My Documents\Visual Studio 2008\Projects\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.pdb
+C:\Documents and Settings\chingot\My Documents\Visual Studio 2008\Projects\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.YearForm.resources
+C:\Documents and Settings\chingot\My Documents\Visual Studio 2008\Projects\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FastPakLuzon.resources
+C:\Documents and Settings\chingot\My Documents\Visual Studio 2008\Projects\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FixedAssetsLuzon.resources
+C:\Documents and Settings\chingot\My Documents\Visual Studio 2008\Projects\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDIReportLuzon.resources
+C:\Documents and Settings\chingot\My Documents\Visual Studio 2008\Projects\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.GlobeSmart.resources
+C:\Documents and Settings\chingot\My Documents\Visual Studio 2008\Projects\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Insurance.resources
+C:\Documents and Settings\chingot\My Documents\Visual Studio 2008\Projects\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPCorpLuzon.resources
+C:\Documents and Settings\chingot\My Documents\Visual Studio 2008\Projects\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPIncome.resources
+C:\Documents and Settings\chingot\My Documents\Visual Studio 2008\Projects\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MoneyGramLuzon.resources
+C:\Documents and Settings\chingot\My Documents\Visual Studio 2008\Projects\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOComm.resources
+C:\Documents and Settings\chingot\My Documents\Visual Studio 2008\Projects\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOiConnectRep.resources
+C:\Documents and Settings\chingot\My Documents\Visual Studio 2008\Projects\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.ProvisionLuzon.resources
+C:\Documents and Settings\chingot\My Documents\Visual Studio 2008\Projects\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RemittanceLuzon.resources
+C:\Documents and Settings\chingot\My Documents\Visual Studio 2008\Projects\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RRFLuzon.resources
+C:\Documents and Settings\chingot\My Documents\Visual Studio 2008\Projects\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MMDLuzon.resources
+C:\Documents and Settings\chingot\My Documents\Visual Studio 2008\Projects\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.TaxRemLuzon.resources
+C:\Documents and Settings\chingot\My Documents\Visual Studio 2008\Projects\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.WTaxLuzon.resources
+C:\Documents and Settings\chingot\My Documents\Visual Studio 2008\Projects\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XoomLuzon.resources
+C:\Documents and Settings\chingot\My Documents\Visual Studio 2008\Projects\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XpressMoneyLuzon.resources
+C:\Documents and Settings\chingot\My Documents\Visual Studio 2008\Projects\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.BOSKPLuzon.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\Interop.MSFlexGridLib.dll
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\AxInterop.MSFlexGridLib.dll
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.ResolveComReference.cache
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.exe
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.xml
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.pdb
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.exe
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.pdb
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.xml
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\Interop.MSFlexGridLib.dll
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\AxInterop.MSFlexGridLib.dll
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\ResolveAssemblyReference.cache
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.AllocationLuzon.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.BOSKPLuzon.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDIReportLuzon.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Log_In_Luzon.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Luzon_Main.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FastPakLuzon.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FixedAssetsLuzon.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.GlobeSmart.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Insurance.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPCorpLuzon.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPIncome.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MMDLuzon.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MoneyGramLuzon.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Resources.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOComm.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOiConnectRep.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.ProvisionLuzon.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RemittanceLuzon.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RRFLuzon.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.TaxRemLuzon.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.WTaxLuzon.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XoomLuzon.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XpressMoneyLuzon.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.YearForm.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.GenerateResource.Cache
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.SSMI.resources
+C:\Documents and Settings\chingot\Desktop\SMT06042010\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\Interop.MSFlexGridLib.dll
+C:\Documents and Settings\chingot\Desktop\SMT06042010\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\AxInterop.MSFlexGridLib.dll
+C:\Documents and Settings\chingot\Desktop\SMT06042010\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.ResolveComReference.cache
+C:\Documents and Settings\chingot\Desktop\SMT06042010\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.exe
+C:\Documents and Settings\chingot\Desktop\SMT06042010\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.xml
+C:\Documents and Settings\chingot\Desktop\SMT06042010\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.pdb
+C:\Documents and Settings\chingot\Desktop\SMT06042010\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.exe
+C:\Documents and Settings\chingot\Desktop\SMT06042010\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.pdb
+C:\Documents and Settings\chingot\Desktop\SMT06042010\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.xml
+C:\Documents and Settings\chingot\Desktop\SMT06042010\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\Interop.MSFlexGridLib.dll
+C:\Documents and Settings\chingot\Desktop\SMT06042010\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\AxInterop.MSFlexGridLib.dll
+C:\Documents and Settings\chingot\Desktop\SMT06042010\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\chingot\Desktop\SMT06042010\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.AllocationLuzon.resources
+C:\Documents and Settings\chingot\Desktop\SMT06042010\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.BOSKPLuzon.resources
+C:\Documents and Settings\chingot\Desktop\SMT06042010\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDIReportLuzon.resources
+C:\Documents and Settings\chingot\Desktop\SMT06042010\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Log_In_Luzon.resources
+C:\Documents and Settings\chingot\Desktop\SMT06042010\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Luzon_Main.resources
+C:\Documents and Settings\chingot\Desktop\SMT06042010\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FastPakLuzon.resources
+C:\Documents and Settings\chingot\Desktop\SMT06042010\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FixedAssetsLuzon.resources
+C:\Documents and Settings\chingot\Desktop\SMT06042010\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.GlobeSmart.resources
+C:\Documents and Settings\chingot\Desktop\SMT06042010\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Insurance.resources
+C:\Documents and Settings\chingot\Desktop\SMT06042010\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPCorpLuzon.resources
+C:\Documents and Settings\chingot\Desktop\SMT06042010\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPIncome.resources
+C:\Documents and Settings\chingot\Desktop\SMT06042010\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MMDLuzon.resources
+C:\Documents and Settings\chingot\Desktop\SMT06042010\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MoneyGramLuzon.resources
+C:\Documents and Settings\chingot\Desktop\SMT06042010\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Resources.resources
+C:\Documents and Settings\chingot\Desktop\SMT06042010\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOComm.resources
+C:\Documents and Settings\chingot\Desktop\SMT06042010\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOiConnectRep.resources
+C:\Documents and Settings\chingot\Desktop\SMT06042010\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.ProvisionLuzon.resources
+C:\Documents and Settings\chingot\Desktop\SMT06042010\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RemittanceLuzon.resources
+C:\Documents and Settings\chingot\Desktop\SMT06042010\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RRFLuzon.resources
+C:\Documents and Settings\chingot\Desktop\SMT06042010\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.SSMI.resources
+C:\Documents and Settings\chingot\Desktop\SMT06042010\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.TaxRemLuzon.resources
+C:\Documents and Settings\chingot\Desktop\SMT06042010\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.WTaxLuzon.resources
+C:\Documents and Settings\chingot\Desktop\SMT06042010\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XoomLuzon.resources
+C:\Documents and Settings\chingot\Desktop\SMT06042010\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XpressMoneyLuzon.resources
+C:\Documents and Settings\chingot\Desktop\SMT06042010\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.YearForm.resources
+C:\Documents and Settings\chingot\Desktop\SMT06042010\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.GenerateResource.Cache
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Ching Program Back-up for Resignation 4-29-2011\EDI Vismin and EDI Luzon\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\Interop.MSFlexGridLib.dll
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Ching Program Back-up for Resignation 4-29-2011\EDI Vismin and EDI Luzon\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\AxInterop.MSFlexGridLib.dll
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Ching Program Back-up for Resignation 4-29-2011\EDI Vismin and EDI Luzon\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.ResolveComReference.cache
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Ching Program Back-up for Resignation 4-29-2011\EDI Vismin and EDI Luzon\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.exe
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Ching Program Back-up for Resignation 4-29-2011\EDI Vismin and EDI Luzon\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.xml
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Ching Program Back-up for Resignation 4-29-2011\EDI Vismin and EDI Luzon\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.pdb
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Ching Program Back-up for Resignation 4-29-2011\EDI Vismin and EDI Luzon\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.exe
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Ching Program Back-up for Resignation 4-29-2011\EDI Vismin and EDI Luzon\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.pdb
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Ching Program Back-up for Resignation 4-29-2011\EDI Vismin and EDI Luzon\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.xml
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Ching Program Back-up for Resignation 4-29-2011\EDI Vismin and EDI Luzon\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\Interop.MSFlexGridLib.dll
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Ching Program Back-up for Resignation 4-29-2011\EDI Vismin and EDI Luzon\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\AxInterop.MSFlexGridLib.dll
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Ching Program Back-up for Resignation 4-29-2011\EDI Vismin and EDI Luzon\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\ResolveAssemblyReference.cache
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Ching Program Back-up for Resignation 4-29-2011\EDI Vismin and EDI Luzon\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.AllocationLuzon.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Ching Program Back-up for Resignation 4-29-2011\EDI Vismin and EDI Luzon\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.BOSKPLuzon.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Ching Program Back-up for Resignation 4-29-2011\EDI Vismin and EDI Luzon\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDIReportLuzon.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Ching Program Back-up for Resignation 4-29-2011\EDI Vismin and EDI Luzon\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Log_In_Luzon.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Ching Program Back-up for Resignation 4-29-2011\EDI Vismin and EDI Luzon\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Luzon_Main.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Ching Program Back-up for Resignation 4-29-2011\EDI Vismin and EDI Luzon\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FastPakLuzon.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Ching Program Back-up for Resignation 4-29-2011\EDI Vismin and EDI Luzon\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FixedAssetsLuzon.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Ching Program Back-up for Resignation 4-29-2011\EDI Vismin and EDI Luzon\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.GlobeSmart.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Ching Program Back-up for Resignation 4-29-2011\EDI Vismin and EDI Luzon\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Insurance.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Ching Program Back-up for Resignation 4-29-2011\EDI Vismin and EDI Luzon\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPCorpLuzon.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Ching Program Back-up for Resignation 4-29-2011\EDI Vismin and EDI Luzon\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPIncome.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Ching Program Back-up for Resignation 4-29-2011\EDI Vismin and EDI Luzon\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MMDLuzon.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Ching Program Back-up for Resignation 4-29-2011\EDI Vismin and EDI Luzon\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MoneyGramLuzon.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Ching Program Back-up for Resignation 4-29-2011\EDI Vismin and EDI Luzon\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Resources.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Ching Program Back-up for Resignation 4-29-2011\EDI Vismin and EDI Luzon\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOComm.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Ching Program Back-up for Resignation 4-29-2011\EDI Vismin and EDI Luzon\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOiConnectRep.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Ching Program Back-up for Resignation 4-29-2011\EDI Vismin and EDI Luzon\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.ProvisionLuzon.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Ching Program Back-up for Resignation 4-29-2011\EDI Vismin and EDI Luzon\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RemittanceLuzon.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Ching Program Back-up for Resignation 4-29-2011\EDI Vismin and EDI Luzon\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RRFLuzon.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Ching Program Back-up for Resignation 4-29-2011\EDI Vismin and EDI Luzon\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.SSMI.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Ching Program Back-up for Resignation 4-29-2011\EDI Vismin and EDI Luzon\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.TaxRemLuzon.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Ching Program Back-up for Resignation 4-29-2011\EDI Vismin and EDI Luzon\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.WTaxLuzon.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Ching Program Back-up for Resignation 4-29-2011\EDI Vismin and EDI Luzon\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XoomLuzon.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Ching Program Back-up for Resignation 4-29-2011\EDI Vismin and EDI Luzon\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XpressMoneyLuzon.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Ching Program Back-up for Resignation 4-29-2011\EDI Vismin and EDI Luzon\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.YearForm.resources
+D:\DATA IN D\BACK-UP PROGRAM\EDI - DEVELOPMENT\Ching Program Back-up for Resignation 4-29-2011\EDI Vismin and EDI Luzon\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.GenerateResource.Cache
+E:\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\Interop.MSFlexGridLib.dll
+E:\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\AxInterop.MSFlexGridLib.dll
+E:\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.ResolveComReference.cache
+E:\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.exe
+E:\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.xml
+E:\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.pdb
+E:\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\ResolveAssemblyReference.cache
+E:\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.AllocationLuzon.resources
+E:\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.BOSKPLuzon.resources
+E:\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDIReportLuzon.resources
+E:\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Log_In_Luzon.resources
+E:\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Luzon_Main.resources
+E:\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FastPakLuzon.resources
+E:\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FixedAssetsLuzon.resources
+E:\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.GlobeSmart.resources
+E:\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Insurance.resources
+E:\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPCorpLuzon.resources
+E:\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPIncome.resources
+E:\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MMDLuzon.resources
+E:\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MoneyGramLuzon.resources
+E:\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Resources.resources
+E:\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOComm.resources
+E:\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOiConnectRep.resources
+E:\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.ProvisionLuzon.resources
+E:\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RemittanceLuzon.resources
+E:\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RRFLuzon.resources
+E:\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.SSMI.resources
+E:\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.TaxRemLuzon.resources
+E:\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.WTaxLuzon.resources
+E:\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XoomLuzon.resources
+E:\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XpressMoneyLuzon.resources
+E:\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.YearForm.resources
+E:\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.GenerateResource.Cache
+E:\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.exe
+E:\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.pdb
+E:\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.xml
+E:\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\Interop.MSFlexGridLib.dll
+E:\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\AxInterop.MSFlexGridLib.dll
+D:\Reusel's Files\PROGRAMS\Program Files\2012\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\Interop.MSFlexGridLib.dll
+D:\Reusel's Files\PROGRAMS\Program Files\2012\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\AxInterop.MSFlexGridLib.dll
+D:\Reusel's Files\PROGRAMS\Program Files\2012\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.ResolveComReference.cache
+D:\Reusel's Files\PROGRAMS\Program Files\2012\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.exe
+D:\Reusel's Files\PROGRAMS\Program Files\2012\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.xml
+D:\Reusel's Files\PROGRAMS\Program Files\2012\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.pdb
+D:\Reusel's Files\PROGRAMS\Program Files\2012\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.exe
+D:\Reusel's Files\PROGRAMS\Program Files\2012\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.pdb
+D:\Reusel's Files\PROGRAMS\Program Files\2012\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.xml
+D:\Reusel's Files\PROGRAMS\Program Files\2012\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\Interop.MSFlexGridLib.dll
+D:\Reusel's Files\PROGRAMS\Program Files\2012\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\AxInterop.MSFlexGridLib.dll
+D:\Reusel's Files\PROGRAMS\Program Files\2012\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\ResolveAssemblyReference.cache
+D:\Reusel's Files\PROGRAMS\Program Files\2012\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.AllocationLuzon.resources
+D:\Reusel's Files\PROGRAMS\Program Files\2012\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.BOSKPLuzon.resources
+D:\Reusel's Files\PROGRAMS\Program Files\2012\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDIReportLuzon.resources
+D:\Reusel's Files\PROGRAMS\Program Files\2012\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Log_In_Luzon.resources
+D:\Reusel's Files\PROGRAMS\Program Files\2012\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Luzon_Main.resources
+D:\Reusel's Files\PROGRAMS\Program Files\2012\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FastPakLuzon.resources
+D:\Reusel's Files\PROGRAMS\Program Files\2012\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FixedAssetsLuzon.resources
+D:\Reusel's Files\PROGRAMS\Program Files\2012\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.GlobeSmart.resources
+D:\Reusel's Files\PROGRAMS\Program Files\2012\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Insurance.resources
+D:\Reusel's Files\PROGRAMS\Program Files\2012\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPCorpLuzon.resources
+D:\Reusel's Files\PROGRAMS\Program Files\2012\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPIncome.resources
+D:\Reusel's Files\PROGRAMS\Program Files\2012\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MMDLuzon.resources
+D:\Reusel's Files\PROGRAMS\Program Files\2012\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MoneyGramLuzon.resources
+D:\Reusel's Files\PROGRAMS\Program Files\2012\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Resources.resources
+D:\Reusel's Files\PROGRAMS\Program Files\2012\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOComm.resources
+D:\Reusel's Files\PROGRAMS\Program Files\2012\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOiConnectRep.resources
+D:\Reusel's Files\PROGRAMS\Program Files\2012\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.ProvisionLuzon.resources
+D:\Reusel's Files\PROGRAMS\Program Files\2012\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RemittanceLuzon.resources
+D:\Reusel's Files\PROGRAMS\Program Files\2012\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RRFLuzon.resources
+D:\Reusel's Files\PROGRAMS\Program Files\2012\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.SSMI.resources
+D:\Reusel's Files\PROGRAMS\Program Files\2012\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.TaxRemLuzon.resources
+D:\Reusel's Files\PROGRAMS\Program Files\2012\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.WTaxLuzon.resources
+D:\Reusel's Files\PROGRAMS\Program Files\2012\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XoomLuzon.resources
+D:\Reusel's Files\PROGRAMS\Program Files\2012\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XpressMoneyLuzon.resources
+D:\Reusel's Files\PROGRAMS\Program Files\2012\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.YearForm.resources
+D:\Reusel's Files\PROGRAMS\Program Files\2012\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.GenerateResource.Cache
+D:\Reusel's Files\PROGRAMS\11\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\Interop.MSFlexGridLib.dll
+D:\Reusel's Files\PROGRAMS\11\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\AxInterop.MSFlexGridLib.dll
+D:\Reusel's Files\PROGRAMS\11\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.ResolveComReference.cache
+D:\Reusel's Files\PROGRAMS\11\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.exe
+D:\Reusel's Files\PROGRAMS\11\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.xml
+D:\Reusel's Files\PROGRAMS\11\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.pdb
+D:\Reusel's Files\PROGRAMS\11\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.exe
+D:\Reusel's Files\PROGRAMS\11\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.pdb
+D:\Reusel's Files\PROGRAMS\11\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.xml
+D:\Reusel's Files\PROGRAMS\11\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\Interop.MSFlexGridLib.dll
+D:\Reusel's Files\PROGRAMS\11\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\AxInterop.MSFlexGridLib.dll
+D:\Reusel's Files\PROGRAMS\11\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\ResolveAssemblyReference.cache
+D:\Reusel's Files\PROGRAMS\11\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.AllocationLuzon.resources
+D:\Reusel's Files\PROGRAMS\11\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.BOSKPLuzon.resources
+D:\Reusel's Files\PROGRAMS\11\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDIReportLuzon.resources
+D:\Reusel's Files\PROGRAMS\11\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Log_In_Luzon.resources
+D:\Reusel's Files\PROGRAMS\11\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Luzon_Main.resources
+D:\Reusel's Files\PROGRAMS\11\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FastPakLuzon.resources
+D:\Reusel's Files\PROGRAMS\11\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FixedAssetsLuzon.resources
+D:\Reusel's Files\PROGRAMS\11\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.GlobeSmart.resources
+D:\Reusel's Files\PROGRAMS\11\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Insurance.resources
+D:\Reusel's Files\PROGRAMS\11\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPCorpLuzon.resources
+D:\Reusel's Files\PROGRAMS\11\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPIncome.resources
+D:\Reusel's Files\PROGRAMS\11\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MMDLuzon.resources
+D:\Reusel's Files\PROGRAMS\11\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MoneyGramLuzon.resources
+D:\Reusel's Files\PROGRAMS\11\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Resources.resources
+D:\Reusel's Files\PROGRAMS\11\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOComm.resources
+D:\Reusel's Files\PROGRAMS\11\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOiConnectRep.resources
+D:\Reusel's Files\PROGRAMS\11\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.ProvisionLuzon.resources
+D:\Reusel's Files\PROGRAMS\11\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RemittanceLuzon.resources
+D:\Reusel's Files\PROGRAMS\11\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RRFLuzon.resources
+D:\Reusel's Files\PROGRAMS\11\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.SSMI.resources
+D:\Reusel's Files\PROGRAMS\11\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.TaxRemLuzon.resources
+D:\Reusel's Files\PROGRAMS\11\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.WTaxLuzon.resources
+D:\Reusel's Files\PROGRAMS\11\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XoomLuzon.resources
+D:\Reusel's Files\PROGRAMS\11\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XpressMoneyLuzon.resources
+D:\Reusel's Files\PROGRAMS\11\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.YearForm.resources
+D:\Reusel's Files\PROGRAMS\11\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.GenerateResource.Cache
+C:\Documents and Settings\adrian\Desktop\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\Interop.MSFlexGridLib.dll
+C:\Documents and Settings\adrian\Desktop\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\AxInterop.MSFlexGridLib.dll
+C:\Documents and Settings\adrian\Desktop\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.ResolveComReference.cache
+C:\Documents and Settings\adrian\Desktop\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.exe
+C:\Documents and Settings\adrian\Desktop\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.xml
+C:\Documents and Settings\adrian\Desktop\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.pdb
+C:\Documents and Settings\adrian\Desktop\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.exe
+C:\Documents and Settings\adrian\Desktop\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.pdb
+C:\Documents and Settings\adrian\Desktop\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.xml
+C:\Documents and Settings\adrian\Desktop\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\Interop.MSFlexGridLib.dll
+C:\Documents and Settings\adrian\Desktop\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\AxInterop.MSFlexGridLib.dll
+C:\Documents and Settings\adrian\Desktop\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\adrian\Desktop\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.AllocationLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.BOSKPLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDIReportLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Log_In_Luzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Luzon_Main.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FastPakLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FixedAssetsLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.GlobeSmart.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Insurance.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPCorpLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPIncome.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MMDLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MoneyGramLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Resources.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOComm.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOiConnectRep.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.ProvisionLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RemittanceLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RRFLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.SSMI.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.TaxRemLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.WTaxLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XoomLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XpressMoneyLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.YearForm.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin and Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.GenerateResource.Cache
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\Interop.MSFlexGridLib.dll
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\AxInterop.MSFlexGridLib.dll
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.ResolveComReference.cache
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.exe
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.xml
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.pdb
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.exe
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.pdb
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.xml
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\Interop.MSFlexGridLib.dll
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\AxInterop.MSFlexGridLib.dll
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.AllocationLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.BOSKPLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDIReportLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Log_In_Luzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Luzon_Main.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FastPakLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FixedAssetsLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.GlobeSmart.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Insurance.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPCorpLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPIncome.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MMDLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MoneyGramLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Resources.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOComm.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOiConnectRep.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.ProvisionLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RemittanceLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RRFLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.SSMI.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.TaxRemLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.WTaxLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XoomLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XpressMoneyLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.YearForm.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.GenerateResource.Cache
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 01-26-2012\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\Interop.MSFlexGridLib.dll
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 01-26-2012\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\AxInterop.MSFlexGridLib.dll
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 01-26-2012\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.ResolveComReference.cache
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 01-26-2012\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.exe
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 01-26-2012\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.xml
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 01-26-2012\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.pdb
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 01-26-2012\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.exe
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 01-26-2012\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.pdb
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 01-26-2012\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.xml
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 01-26-2012\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\Interop.MSFlexGridLib.dll
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 01-26-2012\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\AxInterop.MSFlexGridLib.dll
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 01-26-2012\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 01-26-2012\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.AllocationLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 01-26-2012\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.BOSKPLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 01-26-2012\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDIReportLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 01-26-2012\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Log_In_Luzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 01-26-2012\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Luzon_Main.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 01-26-2012\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FastPakLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 01-26-2012\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FixedAssetsLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 01-26-2012\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.GlobeSmart.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 01-26-2012\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Insurance.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 01-26-2012\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPCorpLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 01-26-2012\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPIncome.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 01-26-2012\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MMDLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 01-26-2012\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MoneyGramLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 01-26-2012\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Resources.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 01-26-2012\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOComm.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 01-26-2012\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOiConnectRep.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 01-26-2012\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.ProvisionLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 01-26-2012\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RemittanceLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 01-26-2012\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RRFLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 01-26-2012\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.SSMI.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 01-26-2012\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.TaxRemLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 01-26-2012\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.WTaxLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 01-26-2012\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XoomLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 01-26-2012\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XpressMoneyLuzon.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 01-26-2012\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.YearForm.resources
+C:\Documents and Settings\adrian\Desktop\Synergy Admin Tools 01-26-2012\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.GenerateResource.Cache
+C:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\Interop.MSFlexGridLib.dll
+C:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\AxInterop.MSFlexGridLib.dll
+C:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.ResolveComReference.cache
+C:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.exe
+C:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.xml
+C:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.pdb
+C:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.exe
+C:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.pdb
+C:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.xml
+C:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\Interop.MSFlexGridLib.dll
+C:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\AxInterop.MSFlexGridLib.dll
+C:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\ResolveAssemblyReference.cache
+C:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.AllocationLuzon.resources
+C:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.BOSKPLuzon.resources
+C:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDIReportLuzon.resources
+C:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Log_In_Luzon.resources
+C:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Luzon_Main.resources
+C:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FastPakLuzon.resources
+C:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FixedAssetsLuzon.resources
+C:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.GlobeSmart.resources
+C:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Insurance.resources
+C:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPCorpLuzon.resources
+C:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPIncome.resources
+C:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MMDLuzon.resources
+C:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MoneyGramLuzon.resources
+C:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Resources.resources
+C:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOComm.resources
+C:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOiConnectRep.resources
+C:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.ProvisionLuzon.resources
+C:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RemittanceLuzon.resources
+C:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RRFLuzon.resources
+C:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.SSMI.resources
+C:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.TaxRemLuzon.resources
+C:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.WTaxLuzon.resources
+C:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XoomLuzon.resources
+C:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XpressMoneyLuzon.resources
+C:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.YearForm.resources
+C:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.GenerateResource.Cache
+D:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\Interop.MSFlexGridLib.dll
+D:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\AxInterop.MSFlexGridLib.dll
+D:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.ResolveComReference.cache
+D:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.exe
+D:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.xml
+D:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.pdb
+D:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.exe
+D:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.pdb
+D:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.xml
+D:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\Interop.MSFlexGridLib.dll
+D:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\AxInterop.MSFlexGridLib.dll
+D:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\ResolveAssemblyReference.cache
+D:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.AllocationLuzon.resources
+D:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.BOSKPLuzon.resources
+D:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDIReportLuzon.resources
+D:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Log_In_Luzon.resources
+D:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Luzon_Main.resources
+D:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FastPakLuzon.resources
+D:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FixedAssetsLuzon.resources
+D:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.GlobeSmart.resources
+D:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Insurance.resources
+D:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPCorpLuzon.resources
+D:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPIncome.resources
+D:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MMDLuzon.resources
+D:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MoneyGramLuzon.resources
+D:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Resources.resources
+D:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOComm.resources
+D:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOiConnectRep.resources
+D:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.ProvisionLuzon.resources
+D:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RemittanceLuzon.resources
+D:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RRFLuzon.resources
+D:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.SSMI.resources
+D:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.TaxRemLuzon.resources
+D:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.WTaxLuzon.resources
+D:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XoomLuzon.resources
+D:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XpressMoneyLuzon.resources
+D:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.YearForm.resources
+D:\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.GenerateResource.Cache
+D:\SATv2.04-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\Interop.MSFlexGridLib.dll
+D:\SATv2.04-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\AxInterop.MSFlexGridLib.dll
+D:\SATv2.04-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.ResolveComReference.cache
+D:\SATv2.04-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.exe
+D:\SATv2.04-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.xml
+D:\SATv2.04-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.pdb
+D:\SATv2.04-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.exe
+D:\SATv2.04-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.pdb
+D:\SATv2.04-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.xml
+D:\SATv2.04-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\Interop.MSFlexGridLib.dll
+D:\SATv2.04-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\AxInterop.MSFlexGridLib.dll
+D:\SATv2.04-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\ResolveAssemblyReference.cache
+D:\SATv2.04-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.AllocationLuzon.resources
+D:\SATv2.04-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.BOSKPLuzon.resources
+D:\SATv2.04-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDIReportLuzon.resources
+D:\SATv2.04-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Log_In_Luzon.resources
+D:\SATv2.04-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Luzon_Main.resources
+D:\SATv2.04-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FastPakLuzon.resources
+D:\SATv2.04-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FixedAssetsLuzon.resources
+D:\SATv2.04-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.GlobeSmart.resources
+D:\SATv2.04-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Insurance.resources
+D:\SATv2.04-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPCorpLuzon.resources
+D:\SATv2.04-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPIncome.resources
+D:\SATv2.04-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MMDLuzon.resources
+D:\SATv2.04-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MoneyGramLuzon.resources
+D:\SATv2.04-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Resources.resources
+D:\SATv2.04-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOComm.resources
+D:\SATv2.04-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOiConnectRep.resources
+D:\SATv2.04-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.ProvisionLuzon.resources
+D:\SATv2.04-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RemittanceLuzon.resources
+D:\SATv2.04-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RRFLuzon.resources
+D:\SATv2.04-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.SSMI.resources
+D:\SATv2.04-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.TaxRemLuzon.resources
+D:\SATv2.04-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.WTaxLuzon.resources
+D:\SATv2.04-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XoomLuzon.resources
+D:\SATv2.04-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XpressMoneyLuzon.resources
+D:\SATv2.04-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.YearForm.resources
+D:\SATv2.04-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.GenerateResource.Cache
+D:\SATv2.04-23-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\Interop.MSFlexGridLib.dll
+D:\SATv2.04-23-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\AxInterop.MSFlexGridLib.dll
+D:\SATv2.04-23-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.ResolveComReference.cache
+D:\SATv2.04-23-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.exe
+D:\SATv2.04-23-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.xml
+D:\SATv2.04-23-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.pdb
+D:\SATv2.04-23-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.exe
+D:\SATv2.04-23-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.pdb
+D:\SATv2.04-23-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.xml
+D:\SATv2.04-23-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\Interop.MSFlexGridLib.dll
+D:\SATv2.04-23-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\AxInterop.MSFlexGridLib.dll
+D:\SATv2.04-23-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\ResolveAssemblyReference.cache
+D:\SATv2.04-23-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.AllocationLuzon.resources
+D:\SATv2.04-23-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.BOSKPLuzon.resources
+D:\SATv2.04-23-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDIReportLuzon.resources
+D:\SATv2.04-23-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Log_In_Luzon.resources
+D:\SATv2.04-23-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Luzon_Main.resources
+D:\SATv2.04-23-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FastPakLuzon.resources
+D:\SATv2.04-23-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FixedAssetsLuzon.resources
+D:\SATv2.04-23-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.GlobeSmart.resources
+D:\SATv2.04-23-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Insurance.resources
+D:\SATv2.04-23-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPCorpLuzon.resources
+D:\SATv2.04-23-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPIncome.resources
+D:\SATv2.04-23-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MMDLuzon.resources
+D:\SATv2.04-23-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MoneyGramLuzon.resources
+D:\SATv2.04-23-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Resources.resources
+D:\SATv2.04-23-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOComm.resources
+D:\SATv2.04-23-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOiConnectRep.resources
+D:\SATv2.04-23-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.ProvisionLuzon.resources
+D:\SATv2.04-23-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RemittanceLuzon.resources
+D:\SATv2.04-23-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RRFLuzon.resources
+D:\SATv2.04-23-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.SSMI.resources
+D:\SATv2.04-23-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.TaxRemLuzon.resources
+D:\SATv2.04-23-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.WTaxLuzon.resources
+D:\SATv2.04-23-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XoomLuzon.resources
+D:\SATv2.04-23-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XpressMoneyLuzon.resources
+D:\SATv2.04-23-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.YearForm.resources
+D:\SATv2.04-23-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.GenerateResource.Cache
+D:\SATv2.05-17-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\Interop.MSFlexGridLib.dll
+D:\SATv2.05-17-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\AxInterop.MSFlexGridLib.dll
+D:\SATv2.05-17-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.ResolveComReference.cache
+D:\SATv2.05-17-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.exe
+D:\SATv2.05-17-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.xml
+D:\SATv2.05-17-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.pdb
+D:\SATv2.05-17-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\ResolveAssemblyReference.cache
+D:\SATv2.05-17-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.AllocationLuzon.resources
+D:\SATv2.05-17-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.BOSKPLuzon.resources
+D:\SATv2.05-17-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDIReportLuzon.resources
+D:\SATv2.05-17-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Log_In_Luzon.resources
+D:\SATv2.05-17-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Luzon_Main.resources
+D:\SATv2.05-17-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FastPakLuzon.resources
+D:\SATv2.05-17-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FixedAssetsLuzon.resources
+D:\SATv2.05-17-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.GlobeSmart.resources
+D:\SATv2.05-17-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Insurance.resources
+D:\SATv2.05-17-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPCorpLuzon.resources
+D:\SATv2.05-17-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPIncome.resources
+D:\SATv2.05-17-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MAINTENANCE_CORP_PARTNERS.resources
+D:\SATv2.05-17-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MMDLuzon.resources
+D:\SATv2.05-17-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MoneyGramLuzon.resources
+D:\SATv2.05-17-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Resources.resources
+D:\SATv2.05-17-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOComm.resources
+D:\SATv2.05-17-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOiConnectRep.resources
+D:\SATv2.05-17-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.ProvisionLuzon.resources
+D:\SATv2.05-17-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RemittanceLuzon.resources
+D:\SATv2.05-17-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RRFLuzon.resources
+D:\SATv2.05-17-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.SSMI.resources
+D:\SATv2.05-17-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.TaxRemLuzon.resources
+D:\SATv2.05-17-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.WTaxLuzon.resources
+D:\SATv2.05-17-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XoomLuzon.resources
+D:\SATv2.05-17-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XpressMoneyLuzon.resources
+D:\SATv2.05-17-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.YearForm.resources
+D:\SATv2.05-17-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.GenerateResource.Cache
+D:\SATv2.05-17-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.exe
+D:\SATv2.05-17-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.pdb
+D:\SATv2.05-17-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.xml
+D:\SATv2.05-17-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\Interop.MSFlexGridLib.dll
+D:\SATv2.05-17-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\AxInterop.MSFlexGridLib.dll
+D:\SATv2.05-17-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDIVISMIN_CORPINCOME.resources
+D:\SATv2.05-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\Interop.MSFlexGridLib.dll
+D:\SATv2.05-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\AxInterop.MSFlexGridLib.dll
+D:\SATv2.05-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.ResolveComReference.cache
+D:\SATv2.05-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.exe
+D:\SATv2.05-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.xml
+D:\SATv2.05-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.pdb
+D:\SATv2.05-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.exe
+D:\SATv2.05-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.pdb
+D:\SATv2.05-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.xml
+D:\SATv2.05-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\Interop.MSFlexGridLib.dll
+D:\SATv2.05-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\AxInterop.MSFlexGridLib.dll
+D:\SATv2.05-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\ResolveAssemblyReference.cache
+D:\SATv2.05-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.AllocationLuzon.resources
+D:\SATv2.05-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.BOSKPLuzon.resources
+D:\SATv2.05-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDIReportLuzon.resources
+D:\SATv2.05-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDIVISMIN_CORPINCOME.resources
+D:\SATv2.05-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Log_In_Luzon.resources
+D:\SATv2.05-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Luzon_Main.resources
+D:\SATv2.05-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FastPakLuzon.resources
+D:\SATv2.05-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FixedAssetsLuzon.resources
+D:\SATv2.05-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.GlobeSmart.resources
+D:\SATv2.05-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Insurance.resources
+D:\SATv2.05-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPCorpLuzon.resources
+D:\SATv2.05-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPIncome.resources
+D:\SATv2.05-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MAINTENANCE_CORP_PARTNERS.resources
+D:\SATv2.05-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MMDLuzon.resources
+D:\SATv2.05-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MoneyGramLuzon.resources
+D:\SATv2.05-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Resources.resources
+D:\SATv2.05-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOComm.resources
+D:\SATv2.05-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOiConnectRep.resources
+D:\SATv2.05-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.ProvisionLuzon.resources
+D:\SATv2.05-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RemittanceLuzon.resources
+D:\SATv2.05-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RRFLuzon.resources
+D:\SATv2.05-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.SSMI.resources
+D:\SATv2.05-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.TaxRemLuzon.resources
+D:\SATv2.05-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.WTaxLuzon.resources
+D:\SATv2.05-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XoomLuzon.resources
+D:\SATv2.05-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XpressMoneyLuzon.resources
+D:\SATv2.05-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.YearForm.resources
+D:\SATv2.05-18-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.GenerateResource.Cache
+D:\SATv2.07-04-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\Interop.MSFlexGridLib.dll
+D:\SATv2.07-04-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\AxInterop.MSFlexGridLib.dll
+D:\SATv2.07-04-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.ResolveComReference.cache
+D:\SATv2.07-04-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.exe
+D:\SATv2.07-04-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.xml
+D:\SATv2.07-04-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.pdb
+D:\SATv2.07-04-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.exe
+D:\SATv2.07-04-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.pdb
+D:\SATv2.07-04-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.xml
+D:\SATv2.07-04-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\Interop.MSFlexGridLib.dll
+D:\SATv2.07-04-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\AxInterop.MSFlexGridLib.dll
+D:\SATv2.07-04-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\ResolveAssemblyReference.cache
+D:\SATv2.07-04-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.AllocationLuzon.resources
+D:\SATv2.07-04-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.BOSKPLuzon.resources
+D:\SATv2.07-04-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDIReportLuzon.resources
+D:\SATv2.07-04-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDIVISMIN_CORPINCOME.resources
+D:\SATv2.07-04-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Log_In_Luzon.resources
+D:\SATv2.07-04-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Luzon_Main.resources
+D:\SATv2.07-04-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FastPakLuzon.resources
+D:\SATv2.07-04-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FixedAssetsLuzon.resources
+D:\SATv2.07-04-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.GlobeSmart.resources
+D:\SATv2.07-04-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Insurance.resources
+D:\SATv2.07-04-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPCorpLuzon.resources
+D:\SATv2.07-04-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPIncome.resources
+D:\SATv2.07-04-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MAINTENANCE_CORP_PARTNERS.resources
+D:\SATv2.07-04-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MMDLuzon.resources
+D:\SATv2.07-04-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MoneyGramLuzon.resources
+D:\SATv2.07-04-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Resources.resources
+D:\SATv2.07-04-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOComm.resources
+D:\SATv2.07-04-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOiConnectRep.resources
+D:\SATv2.07-04-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.ProvisionLuzon.resources
+D:\SATv2.07-04-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RemittanceLuzon.resources
+D:\SATv2.07-04-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RRFLuzon.resources
+D:\SATv2.07-04-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.SSMI.resources
+D:\SATv2.07-04-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.TaxRemLuzon.resources
+D:\SATv2.07-04-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.WTaxLuzon.resources
+D:\SATv2.07-04-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XoomLuzon.resources
+D:\SATv2.07-04-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XpressMoneyLuzon.resources
+D:\SATv2.07-04-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.YearForm.resources
+D:\SATv2.07-04-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.GenerateResource.Cache
+D:\SATv2.07-05-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\Interop.MSFlexGridLib.dll
+D:\SATv2.07-05-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\AxInterop.MSFlexGridLib.dll
+D:\SATv2.07-05-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.ResolveComReference.cache
+D:\SATv2.07-05-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.exe
+D:\SATv2.07-05-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.xml
+D:\SATv2.07-05-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.pdb
+E:\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\Interop.MSFlexGridLib.dll
+E:\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\AxInterop.MSFlexGridLib.dll
+E:\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.ResolveComReference.cache
+E:\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.exe
+E:\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.xml
+E:\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.pdb
+E:\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.exe
+E:\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.pdb
+E:\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.xml
+E:\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\Interop.MSFlexGridLib.dll
+E:\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\AxInterop.MSFlexGridLib.dll
+E:\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\ResolveAssemblyReference.cache
+E:\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.AllocationLuzon.resources
+E:\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.BOSKPLuzon.resources
+E:\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDIReportLuzon.resources
+E:\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDIVISMIN_CORPINCOME.resources
+E:\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Log_In_Luzon.resources
+E:\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Luzon_Main.resources
+E:\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FastPakLuzon.resources
+E:\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FixedAssetsLuzon.resources
+E:\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.GlobeSmart.resources
+E:\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Insurance.resources
+E:\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPCorpLuzon.resources
+E:\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPIncome.resources
+E:\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MAINTENANCE_CORP_PARTNERS.resources
+E:\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MMDLuzon.resources
+E:\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MoneyGramLuzon.resources
+E:\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Resources.resources
+E:\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOComm.resources
+E:\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOiConnectRep.resources
+E:\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.ProvisionLuzon.resources
+E:\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RemittanceLuzon.resources
+E:\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RRFLuzon.resources
+E:\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.SSMI.resources
+E:\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.TaxRemLuzon.resources
+E:\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.WTaxLuzon.resources
+E:\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XoomLuzon.resources
+E:\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XpressMoneyLuzon.resources
+E:\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.YearForm.resources
+E:\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.GenerateResource.Cache
+C:\Users\tarr12067047\Desktop\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\Interop.MSFlexGridLib.dll
+C:\Users\tarr12067047\Desktop\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\tarr12067047\Desktop\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.ResolveComReference.cache
+C:\Users\tarr12067047\Desktop\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.exe
+C:\Users\tarr12067047\Desktop\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.xml
+C:\Users\tarr12067047\Desktop\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.pdb
+C:\Users\tarr12067047\Desktop\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.exe
+C:\Users\tarr12067047\Desktop\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.pdb
+C:\Users\tarr12067047\Desktop\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.xml
+C:\Users\tarr12067047\Desktop\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\Interop.MSFlexGridLib.dll
+C:\Users\tarr12067047\Desktop\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\tarr12067047\Desktop\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tarr12067047\Desktop\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.AllocationLuzon.resources
+C:\Users\tarr12067047\Desktop\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.BOSKPLuzon.resources
+C:\Users\tarr12067047\Desktop\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDIReportLuzon.resources
+C:\Users\tarr12067047\Desktop\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDIVISMIN_CORPINCOME.resources
+C:\Users\tarr12067047\Desktop\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Log_In_Luzon.resources
+C:\Users\tarr12067047\Desktop\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Luzon_Main.resources
+C:\Users\tarr12067047\Desktop\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FastPakLuzon.resources
+C:\Users\tarr12067047\Desktop\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FixedAssetsLuzon.resources
+C:\Users\tarr12067047\Desktop\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.GlobeSmart.resources
+C:\Users\tarr12067047\Desktop\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Insurance.resources
+C:\Users\tarr12067047\Desktop\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPCorpLuzon.resources
+C:\Users\tarr12067047\Desktop\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPIncome.resources
+C:\Users\tarr12067047\Desktop\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MAINTENANCE_CORP_PARTNERS.resources
+C:\Users\tarr12067047\Desktop\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MMDLuzon.resources
+C:\Users\tarr12067047\Desktop\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MoneyGramLuzon.resources
+C:\Users\tarr12067047\Desktop\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Resources.resources
+C:\Users\tarr12067047\Desktop\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOComm.resources
+C:\Users\tarr12067047\Desktop\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOiConnectRep.resources
+C:\Users\tarr12067047\Desktop\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.ProvisionLuzon.resources
+C:\Users\tarr12067047\Desktop\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RemittanceLuzon.resources
+C:\Users\tarr12067047\Desktop\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RRFLuzon.resources
+C:\Users\tarr12067047\Desktop\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.SSMI.resources
+C:\Users\tarr12067047\Desktop\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.TaxRemLuzon.resources
+C:\Users\tarr12067047\Desktop\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.WTaxLuzon.resources
+C:\Users\tarr12067047\Desktop\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XoomLuzon.resources
+C:\Users\tarr12067047\Desktop\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XpressMoneyLuzon.resources
+C:\Users\tarr12067047\Desktop\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.YearForm.resources
+C:\Users\tarr12067047\Desktop\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.GenerateResource.Cache
+C:\Users\tarr12067047\Desktop\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\Interop.MSFlexGridLib.dll
+C:\Users\tarr12067047\Desktop\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\tarr12067047\Desktop\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.ResolveComReference.cache
+C:\Users\tarr12067047\Desktop\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.exe
+C:\Users\tarr12067047\Desktop\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.xml
+C:\Users\tarr12067047\Desktop\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.pdb
+C:\Users\tarr12067047\Desktop\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.exe
+C:\Users\tarr12067047\Desktop\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.pdb
+C:\Users\tarr12067047\Desktop\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.xml
+C:\Users\tarr12067047\Desktop\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\Interop.MSFlexGridLib.dll
+C:\Users\tarr12067047\Desktop\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\tarr12067047\Desktop\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\tarr12067047\Desktop\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.AllocationLuzon.resources
+C:\Users\tarr12067047\Desktop\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.BOSKPLuzon.resources
+C:\Users\tarr12067047\Desktop\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDIReportLuzon.resources
+C:\Users\tarr12067047\Desktop\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDIVISMIN_CORPINCOME.resources
+C:\Users\tarr12067047\Desktop\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Log_In_Luzon.resources
+C:\Users\tarr12067047\Desktop\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Luzon_Main.resources
+C:\Users\tarr12067047\Desktop\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FastPakLuzon.resources
+C:\Users\tarr12067047\Desktop\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FixedAssetsLuzon.resources
+C:\Users\tarr12067047\Desktop\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.GlobeSmart.resources
+C:\Users\tarr12067047\Desktop\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Insurance.resources
+C:\Users\tarr12067047\Desktop\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPCorpLuzon.resources
+C:\Users\tarr12067047\Desktop\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPIncome.resources
+C:\Users\tarr12067047\Desktop\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MAINTENANCE_CORP_PARTNERS.resources
+C:\Users\tarr12067047\Desktop\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MMDLuzon.resources
+C:\Users\tarr12067047\Desktop\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MoneyGramLuzon.resources
+C:\Users\tarr12067047\Desktop\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Resources.resources
+C:\Users\tarr12067047\Desktop\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOComm.resources
+C:\Users\tarr12067047\Desktop\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOiConnectRep.resources
+C:\Users\tarr12067047\Desktop\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.ProvisionLuzon.resources
+C:\Users\tarr12067047\Desktop\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RemittanceLuzon.resources
+C:\Users\tarr12067047\Desktop\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RRFLuzon.resources
+C:\Users\tarr12067047\Desktop\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.SSMI.resources
+C:\Users\tarr12067047\Desktop\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.TaxRemLuzon.resources
+C:\Users\tarr12067047\Desktop\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.WTaxLuzon.resources
+C:\Users\tarr12067047\Desktop\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XoomLuzon.resources
+C:\Users\tarr12067047\Desktop\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XpressMoneyLuzon.resources
+C:\Users\tarr12067047\Desktop\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.YearForm.resources
+C:\Users\tarr12067047\Desktop\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.GenerateResource.Cache
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\Interop.MSFlexGridLib.dll
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.ResolveComReference.cache
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.exe
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.xml
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.pdb
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.exe
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.pdb
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.xml
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\Interop.MSFlexGridLib.dll
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.AllocationLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.BOSKPLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDIReportLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDIVISMIN_CORPINCOME.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Log_In_Luzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Luzon_Main.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FastPakLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FixedAssetsLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.GlobeSmart.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Insurance.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPCorpLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPIncome.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MAINTENANCE_CORP_PARTNERS.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MMDLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MoneyGramLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Resources.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOComm.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOiConnectRep.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.ProvisionLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RemittanceLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RRFLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.SSMI.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.TaxRemLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.WTaxLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XoomLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XpressMoneyLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.YearForm.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.GenerateResource.Cache
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Updated 8-18-2014\SAT v3.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\Interop.MSFlexGridLib.dll
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Updated 8-18-2014\SAT v3.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Updated 8-18-2014\SAT v3.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.ResolveComReference.cache
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Updated 8-18-2014\SAT v3.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.exe
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Updated 8-18-2014\SAT v3.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.xml
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Updated 8-18-2014\SAT v3.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.pdb
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Updated 8-18-2014\SAT v3.0\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.exe
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Updated 8-18-2014\SAT v3.0\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.pdb
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Updated 8-18-2014\SAT v3.0\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.xml
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Updated 8-18-2014\SAT v3.0\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\Interop.MSFlexGridLib.dll
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Updated 8-18-2014\SAT v3.0\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Updated 8-18-2014\SAT v3.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Updated 8-18-2014\SAT v3.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.AllocationLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Updated 8-18-2014\SAT v3.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.BOSKPLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Updated 8-18-2014\SAT v3.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDIReportLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Updated 8-18-2014\SAT v3.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDIVISMIN_CORPINCOME.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Updated 8-18-2014\SAT v3.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Log_In_Luzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Updated 8-18-2014\SAT v3.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Luzon_Main.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Updated 8-18-2014\SAT v3.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FastPakLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Updated 8-18-2014\SAT v3.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FixedAssetsLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Updated 8-18-2014\SAT v3.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.GlobeSmart.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Updated 8-18-2014\SAT v3.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Insurance.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Updated 8-18-2014\SAT v3.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPCorpLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Updated 8-18-2014\SAT v3.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPIncome.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Updated 8-18-2014\SAT v3.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MAINTENANCE_CORP_PARTNERS.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Updated 8-18-2014\SAT v3.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MMDLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Updated 8-18-2014\SAT v3.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MoneyGramLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Updated 8-18-2014\SAT v3.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Resources.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Updated 8-18-2014\SAT v3.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOComm.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Updated 8-18-2014\SAT v3.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOiConnectRep.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Updated 8-18-2014\SAT v3.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.ProvisionLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Updated 8-18-2014\SAT v3.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RemittanceLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Updated 8-18-2014\SAT v3.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RRFLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Updated 8-18-2014\SAT v3.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.SSMI.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Updated 8-18-2014\SAT v3.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.TaxRemLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Updated 8-18-2014\SAT v3.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.WTaxLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Updated 8-18-2014\SAT v3.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XoomLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Updated 8-18-2014\SAT v3.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XpressMoneyLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Updated 8-18-2014\SAT v3.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.YearForm.resources
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Updated 8-18-2014\SAT v3.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.GenerateResource.Cache
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Visayas-Mindnao -UPDATED\SAT v3.0 -Vismin\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\Interop.MSFlexGridLib.dll
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Visayas-Mindnao -UPDATED\SAT v3.0 -Vismin\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Visayas-Mindnao -UPDATED\SAT v3.0 -Vismin\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.ResolveComReference.cache
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Visayas-Mindnao -UPDATED\SAT v3.0 -Vismin\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.exe
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Visayas-Mindnao -UPDATED\SAT v3.0 -Vismin\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.xml
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Visayas-Mindnao -UPDATED\SAT v3.0 -Vismin\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.pdb
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Visayas-Mindnao -UPDATED\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\Interop.MSFlexGridLib.dll
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Visayas-Mindnao -UPDATED\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Visayas-Mindnao -UPDATED\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.ResolveComReference.cache
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Visayas-Mindnao -UPDATED\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.exe
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Visayas-Mindnao -UPDATED\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.xml
+C:\Users\Arthur A. Tarrayo\Desktop\Updated Projects\UPDATED SAT Module\SAT Visayas-Mindnao -UPDATED\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.pdb
+C:\Synergy Admin and tools\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\Interop.MSFlexGridLib.dll
+C:\Synergy Admin and tools\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\AxInterop.MSFlexGridLib.dll
+C:\Synergy Admin and tools\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.ResolveComReference.cache
+C:\Synergy Admin and tools\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.exe
+C:\Synergy Admin and tools\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.xml
+C:\Synergy Admin and tools\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.pdb
+C:\Synergy Admin and tools\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.exe
+C:\Synergy Admin and tools\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.pdb
+C:\Synergy Admin and tools\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.xml
+C:\Synergy Admin and tools\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\Interop.MSFlexGridLib.dll
+C:\Synergy Admin and tools\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\AxInterop.MSFlexGridLib.dll
+C:\Synergy Admin and tools\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\ResolveAssemblyReference.cache
+C:\Synergy Admin and tools\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.AllocationLuzon.resources
+C:\Synergy Admin and tools\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.BOSKPLuzon.resources
+C:\Synergy Admin and tools\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDIReportLuzon.resources
+C:\Synergy Admin and tools\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDIVISMIN_CORPINCOME.resources
+C:\Synergy Admin and tools\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Log_In_Luzon.resources
+C:\Synergy Admin and tools\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Luzon_Main.resources
+C:\Synergy Admin and tools\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FastPakLuzon.resources
+C:\Synergy Admin and tools\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FixedAssetsLuzon.resources
+C:\Synergy Admin and tools\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.GlobeSmart.resources
+C:\Synergy Admin and tools\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Insurance.resources
+C:\Synergy Admin and tools\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPCorpLuzon.resources
+C:\Synergy Admin and tools\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPIncome.resources
+C:\Synergy Admin and tools\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MAINTENANCE_CORP_PARTNERS.resources
+C:\Synergy Admin and tools\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MMDLuzon.resources
+C:\Synergy Admin and tools\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MoneyGramLuzon.resources
+C:\Synergy Admin and tools\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Resources.resources
+C:\Synergy Admin and tools\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOComm.resources
+C:\Synergy Admin and tools\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOiConnectRep.resources
+C:\Synergy Admin and tools\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.ProvisionLuzon.resources
+C:\Synergy Admin and tools\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RemittanceLuzon.resources
+C:\Synergy Admin and tools\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RRFLuzon.resources
+C:\Synergy Admin and tools\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.SSMI.resources
+C:\Synergy Admin and tools\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.TaxRemLuzon.resources
+C:\Synergy Admin and tools\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.WTaxLuzon.resources
+C:\Synergy Admin and tools\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XoomLuzon.resources
+C:\Synergy Admin and tools\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XpressMoneyLuzon.resources
+C:\Synergy Admin and tools\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.YearForm.resources
+C:\Synergy Admin and tools\SAT v4.0\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.GenerateResource.Cache
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\Interop.MSFlexGridLib.dll
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.ResolveComReference.cache
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.exe
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.xml
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.pdb
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.exe
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.pdb
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.xml
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\Interop.MSFlexGridLib.dll
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.AllocationLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.BOSKPLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDIReportLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDIVISMIN_CORPINCOME.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Log_In_Luzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Luzon_Main.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FastPakLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FixedAssetsLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.GlobeSmart.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Insurance.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPCorpLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPIncome.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MAINTENANCE_CORP_PARTNERS.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MMDLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MoneyGramLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Resources.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOComm.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOiConnectRep.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.ProvisionLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RemittanceLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RRFLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.SSMI.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.TaxRemLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.WTaxLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XoomLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XpressMoneyLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.YearForm.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.GenerateResource.Cache
+C:\Users\Arthur\Desktop\SAT v5.0 - Copy\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\Interop.MSFlexGridLib.dll
+C:\Users\Arthur\Desktop\SAT v5.0 - Copy\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\Arthur\Desktop\SAT v5.0 - Copy\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.ResolveComReference.cache
+C:\Users\Arthur\Desktop\SAT v5.0 - Copy\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.exe
+C:\Users\Arthur\Desktop\SAT v5.0 - Copy\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.xml
+C:\Users\Arthur\Desktop\SAT v5.0 - Copy\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.pdb
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\LUZON-NCR\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\Interop.MSFlexGridLib.dll
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\LUZON-NCR\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\LUZON-NCR\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.ResolveComReference.cache
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\LUZON-NCR\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.exe
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\LUZON-NCR\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.xml
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\LUZON-NCR\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.pdb
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\LUZON-NCR\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.exe
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\LUZON-NCR\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.pdb
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\LUZON-NCR\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\SynergyEDILuzon2008.xml
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\LUZON-NCR\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\Interop.MSFlexGridLib.dll
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\LUZON-NCR\SynergyEDILuzon2008\SynergyEDILuzon2008\bin\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\LUZON-NCR\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\LUZON-NCR\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.AllocationLuzon.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\LUZON-NCR\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.BOSKPLuzon.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\LUZON-NCR\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDIReportLuzon.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\LUZON-NCR\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDIVISMIN_CORPINCOME.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\LUZON-NCR\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Log_In_Luzon.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\LUZON-NCR\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.EDI_Luzon_Main.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\LUZON-NCR\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FastPakLuzon.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\LUZON-NCR\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.FixedAssetsLuzon.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\LUZON-NCR\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.GlobeSmart.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\LUZON-NCR\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Insurance.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\LUZON-NCR\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPCorpLuzon.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\LUZON-NCR\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.KPIncome.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\LUZON-NCR\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MAINTENANCE_CORP_PARTNERS.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\LUZON-NCR\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MMDLuzon.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\LUZON-NCR\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.MoneyGramLuzon.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\LUZON-NCR\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.Resources.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\LUZON-NCR\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOComm.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\LUZON-NCR\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.NSOiConnectRep.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\LUZON-NCR\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.ProvisionLuzon.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\LUZON-NCR\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RemittanceLuzon.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\LUZON-NCR\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.RRFLuzon.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\LUZON-NCR\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.SSMI.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\LUZON-NCR\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.TaxRemLuzon.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\LUZON-NCR\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.WTaxLuzon.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\LUZON-NCR\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XoomLuzon.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\LUZON-NCR\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.XpressMoneyLuzon.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\LUZON-NCR\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.YearForm.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\LUZON-NCR\SynergyEDILuzon2008\SynergyEDILuzon2008\obj\Debug\SynergyEDILuzon2008.vbproj.GenerateResource.Cache

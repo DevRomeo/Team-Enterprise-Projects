@@ -1,0 +1,1250 @@
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\bin\Debug\SynergyShowroom.exe
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\bin\Debug\SynergyShowroom.pdb
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\bin\Debug\SynergyShowroom.xml
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\ResolveAssemblyReference.cache
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.Resources.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.GenerateResource.Cache
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.exe
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.xml
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.pdb
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.Form1.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.Main.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.YearForm.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.MAINTENANCE_BOSKP.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.MAINTENANCE_CORP_PARTNERS.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\bin\Debug\Interop.MSFlexGridLib.dll
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\bin\Debug\AxInterop.MSFlexGridLib.dll
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\Interop.MSFlexGridLib.dll
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\AxInterop.MSFlexGridLib.dll
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.ResolveComReference.cache
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.AllocationLuzon.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIReportLuzon.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_13THMONTH.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_13THMONTHBASEBRANCH.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ALLOCATION.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ALLOCATIONBASEBRANCH.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_CORPINCOME.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_GlobeBillBaseBranch.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_GLOBESMART.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ICONNECT.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ICONNECT_REPL.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_INSURANCE.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_KPINCOME.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MIDYEAR.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MIDYEARBASEBRANCH.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MMD.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MONEYGRAM.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PAYROLL.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PAYROLLBASEBRANCH.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PEA.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PROVISION.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PROVISIONBASEBRANCH.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_RECURRING.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REMITTANCE.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REMITTANCEBASEBRANCH.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REVOLVING_FUND.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SECURITYBASEBRANCH.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SECURITYGUARD.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SMARTBASEBRANCH.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SSMI.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_UNUSEDSICKLEAVE_BASEBRANCH.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_UNUSED_SICKLEAVE.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_WHOLDINGTAX.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_XOOM.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_XPRESS_MONEY.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.Insurance.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.MMDLuzon.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.ProvisionLuzon.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.RemittanceLuzon.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_FOREX.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_INTEREST.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_PRINCIPAL.resources
+D:\SATv3.8-10-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_SERVICECHARGE.resources
+D:\SATv3.8-16-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\Interop.MSFlexGridLib.dll
+D:\SATv3.8-16-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\AxInterop.MSFlexGridLib.dll
+D:\SATv3.8-16-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.ResolveComReference.cache
+D:\SATv3.8-16-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.exe
+D:\SATv3.8-16-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.xml
+D:\SATv3.8-16-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.pdb
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\Interop.MSFlexGridLib.dll
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\AxInterop.MSFlexGridLib.dll
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.ResolveComReference.cache
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.exe
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.xml
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.pdb
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\bin\Debug\SynergyShowroom.exe
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\bin\Debug\SynergyShowroom.pdb
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\bin\Debug\SynergyShowroom.xml
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\bin\Debug\Interop.MSFlexGridLib.dll
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\bin\Debug\AxInterop.MSFlexGridLib.dll
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\ResolveAssemblyReference.cache
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.AllocationLuzon.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIReportLuzon.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_13THMONTH.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_13THMONTHBASEBRANCH.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ALLOCATION.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ALLOCATIONBASEBRANCH.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_CORPINCOME.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_GlobeBillBaseBranch.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_GLOBESMART.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ICONNECT.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ICONNECT_REPL.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_INSURANCE.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_KPINCOME.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MIDYEAR.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MIDYEARBASEBRANCH.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MMD.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MONEYGRAM.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PAYROLL.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PAYROLLBASEBRANCH.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PEA.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PROVISION.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PROVISIONBASEBRANCH.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_RECURRING.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REMITTANCE.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REMITTANCEBASEBRANCH.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REVOLVING_FUND.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SECURITYBASEBRANCH.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SECURITYGUARD.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SMARTBASEBRANCH.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SSMI.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_UNUSEDSICKLEAVE_BASEBRANCH.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_UNUSED_SICKLEAVE.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_WHOLDINGTAX.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_XOOM.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_XPRESS_MONEY.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.Form1.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.Insurance.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.Main.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.MAINTENANCE_BOSKP.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.MAINTENANCE_CORP_PARTNERS.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.MMDLuzon.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.Resources.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.ProvisionLuzon.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.RemittanceLuzon.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_FOREX.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_INTEREST.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_PRINCIPAL.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_SERVICECHARGE.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.YearForm.resources
+D:\SATv3.8-31-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.GenerateResource.Cache
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\Interop.MSFlexGridLib.dll
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\AxInterop.MSFlexGridLib.dll
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.ResolveComReference.cache
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.exe
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.xml
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.pdb
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\bin\Debug\SynergyShowroom.exe
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\bin\Debug\SynergyShowroom.pdb
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\bin\Debug\SynergyShowroom.xml
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\bin\Debug\Interop.MSFlexGridLib.dll
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\bin\Debug\AxInterop.MSFlexGridLib.dll
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\ResolveAssemblyReference.cache
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.AllocationLuzon.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIReportLuzon.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_13THMONTH.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_13THMONTHBASEBRANCH.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ALLOCATION.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ALLOCATIONBASEBRANCH.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_CORPINCOME.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_GlobeBillBaseBranch.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_GLOBESMART.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ICONNECT.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ICONNECT_REPL.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_INSURANCE.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_KPINCOME.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MIDYEAR.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MIDYEARBASEBRANCH.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MMD.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MONEYGRAM.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PAYROLL.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PAYROLLBASEBRANCH.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PEA.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PROVISION.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PROVISIONBASEBRANCH.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_RECURRING.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REMITTANCE.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REMITTANCEBASEBRANCH.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REVOLVING_FUND.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SECURITYBASEBRANCH.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SECURITYGUARD.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SMARTBASEBRANCH.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SSMI.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_UNUSEDSICKLEAVE_BASEBRANCH.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_UNUSED_SICKLEAVE.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_WHOLDINGTAX.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_XOOM.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_XPRESS_MONEY.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.Form1.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.Insurance.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.Main.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.MAINTENANCE_BOSKP.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.MAINTENANCE_CORP_PARTNERS.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.MMDLuzon.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.Resources.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.ProvisionLuzon.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.RemittanceLuzon.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_AIRPHIL.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_FOREX.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_INTEREST.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_PRINCIPAL.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_SERVICECHARGE.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.YearForm.resources
+D:\SATv3.9-20-2012\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.GenerateResource.Cache
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.ResolveComReference.cache
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.exe
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.xml
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.pdb
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\Interop.MSFlexGridLib.dll
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\bin\Debug\SynergyShowroom.exe
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\bin\Debug\SynergyShowroom.pdb
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\bin\Debug\SynergyShowroom.xml
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\bin\Debug\Interop.MSFlexGridLib.dll
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\bin\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.AllocationLuzon.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIReportLuzon.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_13THMONTH.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_13THMONTHBASEBRANCH.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ALLOCATION.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ALLOCATIONBASEBRANCH.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_CORPINCOME.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_GlobeBillBaseBranch.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_GLOBESMART.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ICONNECT.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ICONNECT_REPL.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_INSURANCE.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_KPINCOME.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MIDYEAR.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MIDYEARBASEBRANCH.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MMD.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MONEYGRAM.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PAYROLL.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PAYROLLBASEBRANCH.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PEA.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PROVISION.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PROVISIONBASEBRANCH.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_RECURRING.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REMITTANCE.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REMITTANCEBASEBRANCH.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REVOLVING_FUND.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SECURITYBASEBRANCH.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SECURITYGUARD.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SMARTBASEBRANCH.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SSMI.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_UNUSEDSICKLEAVE_BASEBRANCH.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_UNUSED_SICKLEAVE.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_WHOLDINGTAX.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_XOOM.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_XPRESS_MONEY.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.Form1.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.Insurance.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.Main.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.MAINTENANCE_BOSKP.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.MAINTENANCE_CORP_PARTNERS.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.MMDLuzon.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.Resources.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.ProvisionLuzon.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.RemittanceLuzon.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_AIRPHIL.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_FOREX.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_INTEREST.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_PRINCIPAL.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_SERVICECHARGE.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.YearForm.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 backup orig\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.GenerateResource.Cache
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\bin\Debug\SynergyShowroom.exe
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\bin\Debug\SynergyShowroom.pdb
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\bin\Debug\SynergyShowroom.xml
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\bin\Debug\Interop.MSFlexGridLib.dll
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\bin\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\Interop.MSFlexGridLib.dll
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.ResolveComReference.cache
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.AllocationLuzon.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIReportLuzon.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_13THMONTH.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_13THMONTHBASEBRANCH.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ALLOCATION.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ALLOCATIONBASEBRANCH.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_CORPINCOME.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_GlobeBillBaseBranch.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_GLOBESMART.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ICONNECT.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ICONNECT_REPL.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_INSURANCE.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_KPINCOME.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MIDYEAR.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MIDYEARBASEBRANCH.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MMD.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MONEYGRAM.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PAYROLL.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PAYROLLBASEBRANCH.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PEA.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PROVISION.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PROVISIONBASEBRANCH.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_RECURRING.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REMITTANCE.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REMITTANCEBASEBRANCH.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REVOLVING_FUND.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SECURITYBASEBRANCH.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SECURITYGUARD.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SMARTBASEBRANCH.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SSMI.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_UNUSEDSICKLEAVE_BASEBRANCH.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_UNUSED_SICKLEAVE.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_WHOLDINGTAX.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_XOOM.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_XPRESS_MONEY.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.Form1.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.Insurance.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.Main.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.MAINTENANCE_BOSKP.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.MAINTENANCE_CORP_PARTNERS.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.MMDLuzon.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.Resources.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.ProvisionLuzon.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.RemittanceLuzon.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_AIRPHIL.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_FOREX.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_INTEREST.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_PRINCIPAL.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_SERVICECHARGE.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.YearForm.resources
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.GenerateResource.Cache
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.exe
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.xml
+C:\Users\MLP\Desktop\SATV3.0\SATv3.9 04-16-2013\Synergy Admin Tools 10-22-2011\Synergy Maintenance and Tools\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.pdb
+D:\Project Modification\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\Interop.MSFlexGridLib.dll
+D:\Project Modification\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\AxInterop.MSFlexGridLib.dll
+D:\Project Modification\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.ResolveComReference.cache
+D:\Project Modification\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.exe
+D:\Project Modification\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.xml
+D:\Project Modification\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.pdb
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\Interop.MSFlexGridLib.dll
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\AxInterop.MSFlexGridLib.dll
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.ResolveComReference.cache
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.exe
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.xml
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.pdb
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\bin\Debug\SynergyShowroom.exe
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\bin\Debug\SynergyShowroom.pdb
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\bin\Debug\SynergyShowroom.xml
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\bin\Debug\Interop.MSFlexGridLib.dll
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\bin\Debug\AxInterop.MSFlexGridLib.dll
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\ResolveAssemblyReference.cache
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.AllocationLuzon.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIReportLuzon.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_13THMONTH.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_13THMONTHBASEBRANCH.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ALLOCATION.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ALLOCATIONBASEBRANCH.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_CORPINCOME.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_GlobeBillBaseBranch.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_GLOBESMART.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ICONNECT.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ICONNECT_REPL.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_INSURANCE.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_KPINCOME.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MIDYEAR.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MIDYEARBASEBRANCH.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MMD.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MONEYGRAM.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PAYROLL.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PAYROLLBASEBRANCH.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PEA.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PROVISION.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PROVISIONBASEBRANCH.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_RECURRING.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REMITTANCE.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REMITTANCEBASEBRANCH.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REVOLVING_FUND.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SECURITYBASEBRANCH.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SECURITYGUARD.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SMARTBASEBRANCH.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SSMI.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_UNUSEDSICKLEAVE_BASEBRANCH.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_UNUSED_SICKLEAVE.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_WHOLDINGTAX.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_XOOM.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_XPRESS_MONEY.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.Form1.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.Insurance.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.Main.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.MAINTENANCE_BOSKP.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.MAINTENANCE_CORP_PARTNERS.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.MMDLuzon.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.Resources.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.ProvisionLuzon.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.RemittanceLuzon.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_AIRPHIL.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_FOREX.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_INTEREST.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_PRINCIPAL.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_SERVICECHARGE.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.YearForm.resources
+D:\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.GenerateResource.Cache
+C:\Users\Arthur A. Tarrayo\Desktop\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\Interop.MSFlexGridLib.dll
+C:\Users\Arthur A. Tarrayo\Desktop\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\Arthur A. Tarrayo\Desktop\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.ResolveComReference.cache
+C:\Users\Arthur A. Tarrayo\Desktop\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.exe
+C:\Users\Arthur A. Tarrayo\Desktop\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.xml
+C:\Users\Arthur A. Tarrayo\Desktop\Project Modification - 07032013\Synergy Maintenance and Tools\bin\Debug\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.pdb
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\Interop.MSFlexGridLib.dll
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\AxInterop.MSFlexGridLib.dll
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.ResolveComReference.cache
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.exe
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.xml
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.pdb
+D:\SynergyShowroom\SynergyShowroom\bin\Debug\SynergyShowroom.exe
+D:\SynergyShowroom\SynergyShowroom\bin\Debug\SynergyShowroom.pdb
+D:\SynergyShowroom\SynergyShowroom\bin\Debug\SynergyShowroom.xml
+D:\SynergyShowroom\SynergyShowroom\bin\Debug\Interop.MSFlexGridLib.dll
+D:\SynergyShowroom\SynergyShowroom\bin\Debug\AxInterop.MSFlexGridLib.dll
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\ResolveAssemblyReference.cache
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.AllocationLuzon.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIReportLuzon.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_13THMONTH.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_13THMONTHBASEBRANCH.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ALLOCATION.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ALLOCATIONBASEBRANCH.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_CORPINCOME.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_GlobeBillBaseBranch.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_GLOBESMART.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ICONNECT.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ICONNECT_REPL.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_INSURANCE.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_KPINCOME.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MIDYEAR.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MIDYEARBASEBRANCH.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MMD.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MONEYGRAM.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PAYROLL.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PAYROLLBASEBRANCH.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PEA.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PROVISION.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PROVISIONBASEBRANCH.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_RECURRING.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REMITTANCE.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REMITTANCEBASEBRANCH.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REVOLVING_FUND.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SECURITYBASEBRANCH.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SECURITYGUARD.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SMARTBASEBRANCH.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SSMI.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_UNUSEDSICKLEAVE_BASEBRANCH.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_UNUSED_SICKLEAVE.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_WHOLDINGTAX.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_XOOM.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_XPRESS_MONEY.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.Form1.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.Insurance.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.Main.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.MAINTENANCE_BOSKP.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.MAINTENANCE_CORP_PARTNERS.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.MMDLuzon.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.Resources.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.ProvisionLuzon.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.RemittanceLuzon.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_AIRPHIL.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_FOREX.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_INTEREST.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_PRINCIPAL.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_SERVICECHARGE.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.YearForm.resources
+D:\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.GenerateResource.Cache
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\Interop.MSFlexGridLib.dll
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.ResolveComReference.cache
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.exe
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.xml
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.pdb
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.AllocationLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIReportLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_13THMONTH.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_13THMONTHBASEBRANCH.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ALLOCATION.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ALLOCATIONBASEBRANCH.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_CORPINCOME.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_GlobeBillBaseBranch.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_GLOBESMART.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ICONNECT.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ICONNECT_REPL.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_INSURANCE.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_KPINCOME.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MIDYEAR.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MIDYEARBASEBRANCH.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MMD.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MONEYGRAM.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PAYROLL.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PAYROLLBASEBRANCH.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PEA.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PROVISION.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PROVISIONBASEBRANCH.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_RECURRING.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REMITTANCE.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REMITTANCEBASEBRANCH.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REVOLVING_FUND.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SECURITYBASEBRANCH.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SECURITYGUARD.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SMARTBASEBRANCH.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SSMI.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_UNUSEDSICKLEAVE_BASEBRANCH.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_UNUSED_SICKLEAVE.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_WHOLDINGTAX.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_XOOM.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_XPRESS_MONEY.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.Form1.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.Insurance.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.Main.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.MAINTENANCE_BOSKP.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.MAINTENANCE_CORP_PARTNERS.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.MMDLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.Resources.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.ProvisionLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.RemittanceLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_AIRPHIL.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_FOREX.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_INTEREST.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_PRINCIPAL.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_SERVICECHARGE.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.YearForm.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.GenerateResource.Cache
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\bin\Debug\SynergyShowroom.exe
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\bin\Debug\SynergyShowroom.pdb
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\bin\Debug\SynergyShowroom.xml
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\bin\Debug\Interop.MSFlexGridLib.dll
+C:\Users\Arthur A. Tarrayo\Desktop\SynergyShowroom\SynergyShowroom\bin\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\Interop.MSFlexGridLib.dll
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.ResolveComReference.cache
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.exe
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.xml
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.pdb
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\bin\Debug\SynergyShowroom.exe
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\bin\Debug\SynergyShowroom.pdb
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\bin\Debug\SynergyShowroom.xml
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\bin\Debug\Interop.MSFlexGridLib.dll
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\bin\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.AllocationLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIReportLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_13THMONTH.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_13THMONTHBASEBRANCH.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ALLOCATION.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ALLOCATIONBASEBRANCH.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_CORPINCOME.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_GlobeBillBaseBranch.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_GLOBESMART.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ICONNECT.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ICONNECT_REPL.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_INSURANCE.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_KPINCOME.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MIDYEAR.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MIDYEARBASEBRANCH.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MMD.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MONEYGRAM.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PAYROLL.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PAYROLLBASEBRANCH.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PEA.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PROVISION.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PROVISIONBASEBRANCH.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_RECURRING.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REMITTANCE.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REMITTANCEBASEBRANCH.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REVOLVING_FUND.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SECURITYBASEBRANCH.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SECURITYGUARD.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SMARTBASEBRANCH.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SSMI.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_UNUSEDSICKLEAVE_BASEBRANCH.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_UNUSED_SICKLEAVE.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_WHOLDINGTAX.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_XOOM.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_XPRESS_MONEY.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Form1.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Insurance.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Main.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.MAINTENANCE_BOSKP.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.MAINTENANCE_CORP_PARTNERS.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.MMDLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Resources.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.ProvisionLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.RemittanceLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_AIRPHIL.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_FOREX.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_INTEREST.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_PRINCIPAL.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_SERVICECHARGE.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.YearForm.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 11-14-2014\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.GenerateResource.Cache
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\Interop.MSFlexGridLib.dll
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.ResolveComReference.cache
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.exe
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.xml
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.pdb
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.AllocationLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIReportLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_13THMONTH.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_13THMONTHBASEBRANCH.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ALLOCATION.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ALLOCATIONBASEBRANCH.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_CORPINCOME.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_GlobeBillBaseBranch.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_GLOBESMART.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ICONNECT.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ICONNECT_REPL.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_INSURANCE.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_KPINCOME.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MIDYEAR.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MIDYEARBASEBRANCH.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MMD.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MONEYGRAM.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PAYROLL.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PAYROLLBASEBRANCH.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PEA.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PROVISION.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PROVISIONBASEBRANCH.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_RECURRING.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REMITTANCE.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REMITTANCEBASEBRANCH.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REVOLVING_FUND.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SECURITYBASEBRANCH.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SECURITYGUARD.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SMARTBASEBRANCH.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SSMI.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_UNUSEDSICKLEAVE_BASEBRANCH.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_UNUSED_SICKLEAVE.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_WHOLDINGTAX.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_XOOM.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_XPRESS_MONEY.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Form1.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Insurance.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Main.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.MAINTENANCE_BOSKP.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.MAINTENANCE_CORP_PARTNERS.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.MMDLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Resources.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.ProvisionLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.RemittanceLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Luzon_SSMI.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_AIRPHIL.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_FOREX.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_INTEREST.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_PRINCIPAL.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_SERVICECHARGE.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.YearForm.resources
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.GenerateResource.Cache
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\bin\Debug\SynergyShowroom.exe
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\bin\Debug\SynergyShowroom.pdb
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\bin\Debug\SynergyShowroom.xml
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\bin\Debug\Interop.MSFlexGridLib.dll
+C:\Users\Arthur A. Tarrayo\Desktop\SAT v4.0 - 01-06-2015\SynergyShowroom EDI\SynergyShowroom\bin\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\Interop.MSFlexGridLib.dll
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.ResolveComReference.cache
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.exe
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.xml
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.pdb
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\bin\Debug\SynergyShowroom.exe
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\bin\Debug\SynergyShowroom.pdb
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\bin\Debug\SynergyShowroom.xml
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\bin\Debug\Interop.MSFlexGridLib.dll
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\bin\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.AllocationLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIReportLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_13THMONTH.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_13THMONTHBASEBRANCH.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ALLOCATION.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ALLOCATIONBASEBRANCH.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_CORPINCOME.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_GlobeBillBaseBranch.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_GLOBESMART.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ICONNECT.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ICONNECT_REPL.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_INSURANCE.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_KPINCOME.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MIDYEAR.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MIDYEARBASEBRANCH.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MMD.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MONEYGRAM.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PAYROLL.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PAYROLLBASEBRANCH.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PEA.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PROVISION.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PROVISIONBASEBRANCH.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_RECURRING.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REMITTANCE.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REMITTANCEBASEBRANCH.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REVOLVING_FUND.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SECURITYBASEBRANCH.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SECURITYGUARD.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SMARTBASEBRANCH.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SSMI.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_UNUSEDSICKLEAVE_BASEBRANCH.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_UNUSED_SICKLEAVE.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_WHOLDINGTAX.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_XOOM.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_XPRESS_MONEY.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Form1.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Insurance.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Main.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.MAINTENANCE_BOSKP.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.MAINTENANCE_CORP_PARTNERS.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.MMDLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Resources.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.ProvisionLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.RemittanceLuzon.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Luzon_SSMI.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_AIRPHIL.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_FOREX.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_INTEREST.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_PRINCIPAL.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_SERVICECHARGE.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.YearForm.resources
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.GenerateResource.Cache
+C:\Users\Arthur A. Tarrayo\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISAYAS_ProtectPlus.resources
+C:\Users\Arthur\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\Interop.MSFlexGridLib.dll
+C:\Users\Arthur\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\Arthur\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.ResolveComReference.cache
+C:\Users\Arthur\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.exe
+C:\Users\Arthur\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.xml
+C:\Users\Arthur\Desktop\01-22-2015\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.pdb
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\Interop.MSFlexGridLib.dll
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.ResolveComReference.cache
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.exe
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.xml
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.pdb
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\bin\Debug\SynergyShowroom.exe
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\bin\Debug\SynergyShowroom.pdb
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\bin\Debug\SynergyShowroom.xml
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\bin\Debug\Interop.MSFlexGridLib.dll
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\bin\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.AllocationLuzon.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIReportLuzon.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISAYAS_ProtectPlus.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_13THMONTH.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_13THMONTHBASEBRANCH.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ALLOCATION.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ALLOCATIONBASEBRANCH.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_CORPINCOME.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_GlobeBillBaseBranch.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_GLOBESMART.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ICONNECT.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ICONNECT_REPL.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_INSURANCE.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_KPINCOME.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MIDYEAR.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MIDYEARBASEBRANCH.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MMD.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MONEYGRAM.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PAYROLL.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PAYROLLBASEBRANCH.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PEA.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PROVISION.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PROVISIONBASEBRANCH.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_RECURRING.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REMITTANCE.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REMITTANCEBASEBRANCH.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REVOLVING_FUND.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SECURITYBASEBRANCH.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SECURITYGUARD.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SMARTBASEBRANCH.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SSMI.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_UNUSEDSICKLEAVE_BASEBRANCH.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_UNUSED_SICKLEAVE.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_WHOLDINGTAX.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_XOOM.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_XPRESS_MONEY.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Form1.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Insurance.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Main.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.MAINTENANCE_BOSKP.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.MAINTENANCE_CORP_PARTNERS.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.MMDLuzon.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Resources.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.ProvisionLuzon.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.RemittanceLuzon.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Luzon_SSMI.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_AIRPHIL.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_FOREX.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_INTEREST.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_PRINCIPAL.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_SERVICECHARGE.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.YearForm.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.GenerateResource.Cache
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\Interop.MSFlexGridLib.dll
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.ResolveComReference.cache
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.exe
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.xml
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.pdb
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\bin\Debug\SynergyShowroom.exe
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\bin\Debug\SynergyShowroom.pdb
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\bin\Debug\SynergyShowroom.xml
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\bin\Debug\Interop.MSFlexGridLib.dll
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\bin\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.AllocationLuzon.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIReportLuzon.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISAYAS_ProtectPlus.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_13THMONTH.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_13THMONTHBASEBRANCH.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ALLOCATION.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ALLOCATIONBASEBRANCH.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_CORPINCOME.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_GlobeBillBaseBranch.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_GLOBESMART.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ICONNECT.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ICONNECT_REPL.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_INSURANCE.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_KPINCOME.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MIDYEAR.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MIDYEARBASEBRANCH.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MMD.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MONEYGRAM.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PAYROLL.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PAYROLLBASEBRANCH.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PEA.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PROVISION.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PROVISIONBASEBRANCH.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_RECURRING.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REMITTANCE.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REMITTANCEBASEBRANCH.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REVOLVING_FUND.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SECURITYBASEBRANCH.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SECURITYGUARD.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SMARTBASEBRANCH.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SSMI.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_UNUSEDSICKLEAVE_BASEBRANCH.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_UNUSED_SICKLEAVE.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_WHOLDINGTAX.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_XOOM.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_XPRESS_MONEY.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Form1.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Insurance.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Main.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.MAINTENANCE_BOSKP.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.MAINTENANCE_CORP_PARTNERS.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.MMDLuzon.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Resources.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.ProvisionLuzon.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.RemittanceLuzon.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Luzon_SSMI.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_AIRPHIL.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_FOREX.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_INTEREST.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_PRINCIPAL.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_SERVICECHARGE.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.YearForm.resources
+C:\Users\Arthur\Desktop\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.GenerateResource.Cache
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\Interop.MSFlexGridLib.dll
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.ResolveComReference.cache
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.exe
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.xml
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.pdb
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\bin\Debug\SynergyShowroom.exe
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\bin\Debug\SynergyShowroom.pdb
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\bin\Debug\SynergyShowroom.xml
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\bin\Debug\Interop.MSFlexGridLib.dll
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\bin\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.AllocationLuzon.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIReportLuzon.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISAYAS_ProtectPlus.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_13THMONTH.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_13THMONTHBASEBRANCH.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ALLOCATION.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ALLOCATIONBASEBRANCH.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_CORPINCOME.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_GlobeBillBaseBranch.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_GLOBESMART.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ICONNECT.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ICONNECT_REPL.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_INSURANCE.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_KPINCOME.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MIDYEAR.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MIDYEARBASEBRANCH.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MMD.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MONEYGRAM.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PAYROLL.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PAYROLLBASEBRANCH.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PEA.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PROVISION.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PROVISIONBASEBRANCH.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_RECURRING.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REMITTANCE.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REMITTANCEBASEBRANCH.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REVOLVING_FUND.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SECURITYBASEBRANCH.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SECURITYGUARD.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SMARTBASEBRANCH.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SSMI.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_UNUSEDSICKLEAVE_BASEBRANCH.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_UNUSED_SICKLEAVE.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_WHOLDINGTAX.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_XOOM.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_XPRESS_MONEY.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Form1.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Insurance.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Main.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.MAINTENANCE_BOSKP.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.MAINTENANCE_CORP_PARTNERS.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.MMDLuzon.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Resources.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.ProvisionLuzon.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.RemittanceLuzon.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Luzon_SSMI.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_AIRPHIL.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_FOREX.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_INTEREST.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_PRINCIPAL.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_SERVICECHARGE.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.YearForm.resources
+C:\Users\Arthur\Desktop\NEW\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.GenerateResource.Cache
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\Interop.MSFlexGridLib.dll
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.ResolveComReference.cache
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.exe
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.xml
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.pdb
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\bin\Debug\SynergyShowroom.exe
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\bin\Debug\SynergyShowroom.pdb
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\bin\Debug\SynergyShowroom.xml
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\bin\Debug\Interop.MSFlexGridLib.dll
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\bin\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.AllocationLuzon.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIReportLuzon.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISAYAS_ProtectPlus.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_13THMONTH.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_13THMONTHBASEBRANCH.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ALLOCATION.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ALLOCATIONBASEBRANCH.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_CORPINCOME.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_GlobeBillBaseBranch.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_GLOBESMART.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ICONNECT.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ICONNECT_REPL.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_INSURANCE.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_KPINCOME.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MIDYEAR.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MIDYEARBASEBRANCH.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MMD.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MONEYGRAM.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PAYROLL.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PAYROLLBASEBRANCH.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PEA.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PROVISION.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PROVISIONBASEBRANCH.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_RECURRING.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REMITTANCE.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REMITTANCEBASEBRANCH.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REVOLVING_FUND.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SECURITYBASEBRANCH.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SECURITYGUARD.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SMARTBASEBRANCH.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SSMI.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_UNUSEDSICKLEAVE_BASEBRANCH.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_UNUSED_SICKLEAVE.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_WHOLDINGTAX.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_XOOM.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_XPRESS_MONEY.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Form1.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Insurance.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Main.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.MAINTENANCE_BOSKP.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.MAINTENANCE_CORP_PARTNERS.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.MMDLuzon.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Resources.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.ProvisionLuzon.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.RemittanceLuzon.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Luzon_SSMI.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_AIRPHIL.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_FOREX.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_INTEREST.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_PRINCIPAL.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_SERVICECHARGE.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.YearForm.resources
+C:\Users\ML-ISD\Desktop\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.GenerateResource.Cache
+C:\Users\Arthur\Desktop\AGENT\SynergyShowroom EDI\SynergyShowroom\obj\Debug\Interop.MSFlexGridLib.dll
+C:\Users\Arthur\Desktop\AGENT\SynergyShowroom EDI\SynergyShowroom\obj\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\Arthur\Desktop\AGENT\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.ResolveComReference.cache
+C:\Users\Arthur\Desktop\AGENT\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.exe
+C:\Users\Arthur\Desktop\AGENT\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.xml
+C:\Users\Arthur\Desktop\AGENT\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.pdb
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\Interop.MSFlexGridLib.dll
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.ResolveComReference.cache
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.exe
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.xml
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.pdb
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\bin\Debug\SynergyShowroom.exe
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\bin\Debug\SynergyShowroom.pdb
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\bin\Debug\SynergyShowroom.xml
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\bin\Debug\Interop.MSFlexGridLib.dll
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\bin\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.AllocationLuzon.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIReportLuzon.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISAYAS_ProtectPlus.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_13THMONTH.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_13THMONTHBASEBRANCH.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ALLOCATION.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ALLOCATIONBASEBRANCH.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_CORPINCOME.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_GlobeBillBaseBranch.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_GLOBESMART.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ICONNECT.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ICONNECT_REPL.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_INSURANCE.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_KPINCOME.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MIDYEAR.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MIDYEARBASEBRANCH.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MMD.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MONEYGRAM.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PAYROLL.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PAYROLLBASEBRANCH.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PEA.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PROVISION.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PROVISIONBASEBRANCH.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_RECURRING.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REMITTANCE.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REMITTANCEBASEBRANCH.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REVOLVING_FUND.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SECURITYBASEBRANCH.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SECURITYGUARD.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SMARTBASEBRANCH.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SSMI.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_UNUSEDSICKLEAVE_BASEBRANCH.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_UNUSED_SICKLEAVE.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_WHOLDINGTAX.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_XOOM.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_XPRESS_MONEY.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Form1.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Insurance.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Main.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.MAINTENANCE_BOSKP.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.MAINTENANCE_CORP_PARTNERS.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.MMDLuzon.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Resources.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.ProvisionLuzon.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.RemittanceLuzon.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Luzon_SSMI.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_AIRPHIL.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_FOREX.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_INTEREST.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_PRINCIPAL.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_SERVICECHARGE.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.YearForm.resources
+C:\Users\Arthur\Desktop\NEW\updated\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.GenerateResource.Cache
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\Interop.MSFlexGridLib.dll
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.ResolveComReference.cache
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.exe
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.xml
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.pdb
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\bin\Debug\SynergyShowroom.exe
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\bin\Debug\SynergyShowroom.pdb
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\bin\Debug\SynergyShowroom.xml
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\bin\Debug\Interop.MSFlexGridLib.dll
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\bin\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.AllocationLuzon.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIReportLuzon.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISAYAS_ProtectPlus.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_13THMONTH.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_13THMONTHBASEBRANCH.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ALLOCATION.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ALLOCATIONBASEBRANCH.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_CORPINCOME.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_GlobeBillBaseBranch.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_GLOBESMART.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ICONNECT.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ICONNECT_REPL.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_INSURANCE.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_KPINCOME.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MIDYEAR.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MIDYEARBASEBRANCH.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MMD.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MONEYGRAM.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PAYROLL.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PAYROLLBASEBRANCH.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PEA.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PROVISION.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PROVISIONBASEBRANCH.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_RECURRING.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REMITTANCE.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REMITTANCEBASEBRANCH.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REVOLVING_FUND.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SECURITYBASEBRANCH.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SECURITYGUARD.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SMARTBASEBRANCH.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SSMI.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_UNUSEDSICKLEAVE_BASEBRANCH.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_UNUSED_SICKLEAVE.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_WHOLDINGTAX.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_XOOM.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_XPRESS_MONEY.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Form1.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Insurance.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Main.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.MAINTENANCE_BOSKP.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.MAINTENANCE_CORP_PARTNERS.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.MMDLuzon.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Resources.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.ProvisionLuzon.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.RemittanceLuzon.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Luzon_SSMI.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_AIRPHIL.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_FOREX.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_INTEREST.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_PRINCIPAL.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_SERVICECHARGE.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.YearForm.resources
+C:\Users\Arthur\Desktop\SAT v4.1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.GenerateResource.Cache
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\Interop.MSFlexGridLib.dll
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.ResolveComReference.cache
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.exe
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.xml
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.pdb
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\bin\Debug\SynergyShowroom.exe
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\bin\Debug\SynergyShowroom.pdb
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\bin\Debug\SynergyShowroom.xml
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\bin\Debug\Interop.MSFlexGridLib.dll
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\bin\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.AllocationLuzon.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIReportLuzon.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISAYAS_ProtectPlus.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_13THMONTH.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_13THMONTHBASEBRANCH.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ALLOCATION.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ALLOCATIONBASEBRANCH.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_CORPINCOME.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_GlobeBillBaseBranch.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_GLOBESMART.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ICONNECT.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ICONNECT_REPL.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_INSURANCE.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_KPINCOME.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MIDYEAR.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MIDYEARBASEBRANCH.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MMD.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MONEYGRAM.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PAYROLL.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PAYROLLBASEBRANCH.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PEA.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PROVISION.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PROVISIONBASEBRANCH.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_RECURRING.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REMITTANCE.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REMITTANCEBASEBRANCH.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REVOLVING_FUND.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SECURITYBASEBRANCH.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SECURITYGUARD.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SMARTBASEBRANCH.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SSMI.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_UNUSEDSICKLEAVE_BASEBRANCH.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_UNUSED_SICKLEAVE.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_WHOLDINGTAX.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_XOOM.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_XPRESS_MONEY.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Form1.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Insurance.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Main.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.MAINTENANCE_BOSKP.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.MAINTENANCE_CORP_PARTNERS.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.MMDLuzon.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Resources.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.ProvisionLuzon.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.RemittanceLuzon.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Luzon_SSMI.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_AIRPHIL.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_FOREX.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_INTEREST.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_PRINCIPAL.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_SERVICECHARGE.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.YearForm.resources
+C:\Users\ML-ISD\Documents\PROJECTS\EDI SAT v4.1\EDI\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.GenerateResource.Cache
+C:\Users\Arthur\Desktop\1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\Interop.MSFlexGridLib.dll
+C:\Users\Arthur\Desktop\1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\Arthur\Desktop\1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.ResolveComReference.cache
+C:\Users\Arthur\Desktop\1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.exe
+C:\Users\Arthur\Desktop\1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.xml
+C:\Users\Arthur\Desktop\1\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.pdb
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\Interop.MSFlexGridLib.dll
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.ResolveComReference.cache
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.exe
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.xml
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.pdb
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\bin\Debug\SynergyShowroom.exe
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\bin\Debug\SynergyShowroom.pdb
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\bin\Debug\SynergyShowroom.xml
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\bin\Debug\Interop.MSFlexGridLib.dll
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\bin\Debug\AxInterop.MSFlexGridLib.dll
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.AllocationLuzon.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIReportLuzon.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISAYAS_ProtectPlus.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_13THMONTH.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_13THMONTHBASEBRANCH.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ALLOCATION.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ALLOCATIONBASEBRANCH.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_CORPINCOME.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_GlobeBillBaseBranch.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_GLOBESMART.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ICONNECT.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_ICONNECT_REPL.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_INSURANCE.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_KPINCOME.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MIDYEAR.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MIDYEARBASEBRANCH.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MMD.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_MONEYGRAM.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PAYROLL.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PAYROLLBASEBRANCH.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PEA.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PROVISION.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_PROVISIONBASEBRANCH.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_RECURRING.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REMITTANCE.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REMITTANCEBASEBRANCH.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_REVOLVING_FUND.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SECURITYBASEBRANCH.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SECURITYGUARD.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SMARTBASEBRANCH.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_SSMI.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_UNUSEDSICKLEAVE_BASEBRANCH.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_UNUSED_SICKLEAVE.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_WHOLDINGTAX.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_XOOM.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.EDIVISMIN_XPRESS_MONEY.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Form1.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Insurance.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Main.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.MAINTENANCE_BOSKP.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.MAINTENANCE_CORP_PARTNERS.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.MMDLuzon.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Resources.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.ProvisionLuzon.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.RemittanceLuzon.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.Luzon_SSMI.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_AIRPHIL.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_FOREX.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_INTEREST.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_PRINCIPAL.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.VIS_SERVICECHARGE.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.YearForm.resources
+C:\Users\Arthur\Desktop\updated SAT 4.1\newEDI App\SHOWROOM\SynergyShowroom EDI\SynergyShowroom\obj\Debug\SynergyShowroom.vbproj.GenerateResource.Cache
