@@ -1,0 +1,23 @@
+SELECT a.accountname AS partnername ,a.accountid AS partnercode ,
+
+SUM(COALESCE(IF(s.yr=@cur_yr,txncount,0),0)) AS txncurrent ,
+
+SUM(COALESCE(IF(s.yr=@prev_yr ,txncount,0),0)) AS txnprev ,
+IF((COALESCE(s.int_type,(SELECT DISTINCT(i.integrationtype) FROM kpadminpartners.accountintegration i WHERE i.accountid=a.accountid LIMIT 1))) =4,2,
+(COALESCE(s.int_type,(SELECT DISTINCT(i.integrationtype) FROM kpadminpartners.accountintegration i WHERE i.accountid=a.accountid LIMIT 1))) 
+)AS intType,
+	(SUM(COALESCE(IF(s.yr=@cur_yr,txncount,0),0)) - SUM(COALESCE(IF(s.yr=@prev_yr ,txncount,0),0))) AS var,  
+	(
+		CASE 
+		WHEN SUM(COALESCE(IF(s.yr=@prev_yr ,txncount,0),0))=0 THEN SUM(COALESCE(IF(s.yr=@cur_yr,txncount,0),0)) 
+		ELSE (SUM(COALESCE(IF(s.yr=@cur_yr,txncount,0),0)) - SUM(COALESCE(IF(s.yr=@prev_yr ,txncount,0),0)))/SUM(COALESCE(IF(s.yr=@prev_yr ,txncount,0),0))*100 END
+	)AS per , 
+SUM(COALESCE(IF(s.yr=@cur_yr,principal,0),0)) AS princurrent,
+SUM(COALESCE(IF(s.yr=@prev_yr ,principal,0),0)) AS prinprev,
+SUM(COALESCE(IF(s.yr=@cur_yr,charge,0),0)) AS chargecurrent,
+SUM(COALESCE(IF(s.yr=@prev_yr ,charge,0))) AS chargeprev
+
+FROM  kpadminpartners.accountlist a  
+LEFT JOIN  kpUploadArchive.partners_summary s ON a.accountid=s.partnercode AND s.currency=@currency AND s.mo=@mo
+WHERE a.isactive=1 AND      xxaccounttypexx   GROUP BY a.accountid  xxintypexx 
+ORDER BY intType,per DESC

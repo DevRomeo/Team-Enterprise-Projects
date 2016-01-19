@@ -1,0 +1,20 @@
+INSERT INTO kpUploadArchive.partners_summary (yr, mo, txncount,principal,charge, partnercode, partnername,int_type ,currency)
+select year(p.transdate) as year,month(p.transdate) as mo,COUNT(p.id) as txtcount, 
+sum(p.principal) as principal,sum(p.charge) as charge,p.accountcode ,
+a.accountname as accountname,
+so.TransactionType 
+, p.currency 
+FROM kpadminpartners.accountlist a  
+INNER JOIN kppartners.sendoutxxsotablexx p ON a.accountid =p.accountcode 
+
+INNER JOIN kppartnerstransactions.corporatesendouts cso ON cso.kptn=p.kptn
+
+INNER JOIN kppartners.sotxnref so ON so.accountcode=cso.accountid AND so.referenceno=cso.referenceno 
+WHERE (YEAR(p.transdate)=@cyr or YEAR(p.transdate)=@pyr) AND p.currency=@currency AND
+so.transactiontype IN (xxtranstypexx) and a.isactive =1 
+AND 
+(p.cancelleddate IS NULL  OR p.cancelleddate='0000-00-00 00:00:00' OR p.cancelleddate='' ) 
+AND 
+(so.cancelleddate IS NULL OR so.cancelleddate='0000-00-00 00:00:00' OR so.cancelleddate='' )	
+
+Group By p.currency,accountcode,year(p.transdate),month(p.transdate) 

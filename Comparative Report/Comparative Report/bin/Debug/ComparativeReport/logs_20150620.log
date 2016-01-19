@@ -1,0 +1,34 @@
+INFO  2015-06-20 13:26:02,386   950ms Main                   Main_Load          - Comparative Report Started 6/20/2015 1:26:02 PM TONY
+INFO  2015-06-20 13:26:39,000   691ms Main                   Main_Load          - Comparative Report Started 6/20/2015 1:26:38 PM TONY
+INFO  2015-06-20 13:31:11,385   855ms Main                   Main_Load          - Comparative Report Started 6/20/2015 1:31:11 PM TONY
+INFO  2015-06-20 13:31:46,290 35760ms Main                   startAutoGenerate  - Auto Generate started
+INFO  2015-06-20 13:34:21,971 191441ms Main                   startAutoGenerate  - Auto Generate started
+INFO  2015-06-20 13:35:36,825 266295ms Main                   startAutoGenerate  - Export date match exporting data
+INFO  2015-06-20 13:37:27,643 377113ms Main                   button1_Click      - Manual generate started :TONY
+INFO  2015-06-20 13:52:43,744   690ms Main                   Main_Load          - Comparative Report Started 6/20/2015 1:52:43 PM TONY
+INFO  2015-06-20 13:53:57,618 74564ms Main                   startAutoGenerate  - Auto Generate started
+INFO  2015-06-20 13:54:07,018 83963ms Main                   startAutoGenerate  - Export date match exporting data
+INFO  2015-06-20 14:03:07,921   722ms Main                   Main_Load          - Comparative Report Started 6/20/2015 2:03:07 PM TONY
+INFO  2015-06-20 14:03:25,653 18455ms Main                   startAutoGenerate  - Auto Generate started
+INFO  2015-06-20 14:03:34,290 27091ms Main                   startAutoGenerate  - Export date match exporting data
+INFO  2015-06-20 14:46:40,643   767ms Main                   Main_Load          - Comparative Report Started 6/20/2015 2:46:40 PM TONY
+INFO  2015-06-20 14:46:45,004  5127ms Main                   button1_Click      - Manual generate started :TONY
+ERROR 2015-06-20 14:46:52,367 12490ms Main                   export             - The file 'Z:\test\PHP_PartnerTxnComparativeReportJanuary2015_January2014_6-20-2015.pdf' already exists.
+INFO  2015-06-20 14:54:11,156  1203ms Main                   Main_Load          - Comparative Report Started 6/20/2015 2:54:11 PM TONY
+INFO  2015-06-20 14:54:17,110  7157ms Main                   button1_Click      - Manual generate started :TONY
+ERROR 2015-06-20 14:54:59,445 49492ms Main                   export             - The file 'Z:\test\PHP_PartnerTxnComparativeReportJanuary2015_January2014_6-20-2015.pdf' already exists.
+INFO  2015-06-20 14:56:32,265 142312ms Main                   button1_Click      - Manual generate started :TONY
+ERROR 2015-06-20 14:57:02,732 172779ms Main                   export             - The file 'Z:\test\PHP_PartnerTxnComparativeReportJanuary2015_January2014_6-20-2015.pdf' already exists.
+INFO  2015-06-20 15:00:21,796   716ms Main                   Main_Load          - Comparative Report Started 6/20/2015 3:00:21 PM TONY
+INFO  2015-06-20 15:00:31,709 10629ms Main                   button1_Click      - Manual generate started :TONY
+INFO  2015-06-20 15:00:52,074 30993ms Main                   button1_Click      - Manual generate started :TONY
+INFO  2015-06-20 15:13:48,910   694ms Main                   Main_Load          - Comparative Report Started 6/20/2015 3:13:48 PM TONY
+INFO  2015-06-20 15:13:53,363  5146ms Main                   button1_Click      - Manual generate started :TONY
+ERROR 2015-06-20 15:14:00,791 12574ms Main                   export             - Could not find a part of the path 'Z:\test\PHP_PartnerTxnComparativeReportJanuary2015_January2014_6-20-2015.pdf'.
+INFO  2015-06-20 15:14:15,582 27365ms Main                   button1_Click      - Manual generate started :TONY
+INFO  2015-06-20 15:51:09,881  2399ms Main                   Main_Load          - Comparative Report Started 6/20/2015 3:51:09 PM TONY
+INFO  2015-06-20 15:51:15,675  8192ms Main                   button1_Click      - Manual generate started :TONY
+INFO  2015-06-20 15:53:16,138   684ms Main                   Main_Load          - Comparative Report Started 6/20/2015 3:53:16 PM TONY
+INFO  2015-06-20 15:53:27,333 11879ms Main                   button1_Click      - Manual generate started :TONY
+INFO  2015-06-20 15:56:08,911   684ms Main                   Main_Load          - Comparative Report Started 6/20/2015 3:56:08 PM TONY
+INFO  2015-06-20 15:56:15,673  7446ms Main                   button1_Click      - Manual generate started :TONY

@@ -1,0 +1,6 @@
+INFO  2015-06-13 17:15:05,341  2007ms Main                   Main_Load          - Comparative Report Started 6/13/2015 5:15:05 PM TONY
+INFO  2015-06-13 17:15:17,167 13833ms Main                   button1_Click      - Manual generate started :TONY
+INFO  2015-06-13 17:16:51,052 107719ms Main                   button1_Click      - Manual generate started :TONY
+INFO  2015-06-13 17:18:22,500   682ms Main                   Main_Load          - Comparative Report Started 6/13/2015 5:18:22 PM TONY
+INFO  2015-06-13 17:18:26,717  4899ms Main                   button1_Click      - Manual generate started :TONY
+INFO  2015-06-13 17:20:41,674 139856ms Main                   button1_Click      - Manual generate started :TONY

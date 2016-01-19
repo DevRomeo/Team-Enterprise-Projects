@@ -1,0 +1,7 @@
+INFO  2015-06-09 14:15:28,078   832ms Main                   Main_Load          - Comparative Report Started 6/9/2015 2:15:28 PM TONY
+ERROR 2015-06-09 14:15:45,116 17871ms Q356Query              deleteSummaryData  - BillsPay: Unknown database 'kpUploadArchive'
+ERROR 2015-06-09 14:15:49,916 22671ms Q356Query              deleteSummaryData  - BillsPay: Unknown database 'kpUploadArchive'
+ERROR 2015-06-09 14:15:54,532 27286ms QSummaryQuery          Report1SummaryData - BillsPay Unknown database 'kpUploadArchive'
+ERROR 2015-06-09 14:15:57,600 30355ms QSummaryQuery          Report1SummaryData - BillsPay Unknown database 'kpUploadArchive'
+ERROR 2015-06-09 14:16:02,310 35064ms QSummaryQuery2         Report2SummaryData - BillsPay: Unknown database 'kpUploadArchive'
+ERROR 2015-06-09 14:16:03,678 36432ms QSummaryQuery2         Report2SummaryData - BillsPay: Unknown database 'kpUploadArchive'

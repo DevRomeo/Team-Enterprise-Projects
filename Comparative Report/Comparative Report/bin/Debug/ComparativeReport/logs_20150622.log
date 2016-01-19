@@ -1,0 +1,17 @@
+INFO  2015-06-22 11:55:14,392  1406ms Main                   Main_Load          - Comparative Report Started 6/22/2015 11:55:14 AM TONY
+INFO  2015-06-22 11:56:45,226   656ms Main                   Main_Load          - Comparative Report Started 6/22/2015 11:56:45 AM TONY
+INFO  2015-06-22 12:25:34,904  1004ms Main                   Main_Load          - Comparative Report Started 6/22/2015 12:25:34 PM TONY
+INFO  2015-06-22 12:35:52,656   718ms Main                   Main_Load          - Comparative Report Started 6/22/2015 12:35:52 PM TONY
+INFO  2015-06-22 12:35:56,381  4444ms Main                   button1_Click      - Manual generate started :TONY
+INFO  2015-06-22 12:37:04,715   703ms Main                   Main_Load          - Comparative Report Started 6/22/2015 12:37:04 PM TONY
+INFO  2015-06-22 12:37:09,633  5621ms Main                   button1_Click      - Manual generate started :TONY
+ERROR 2015-06-22 12:37:53,100 49087ms Main                   export             - Could not find a part of the path 'C:\testexport\PHP_PartnerTxnComparativeReportJanuary2015_January2014_6-22-2015.pdf'.
+INFO  2015-06-22 12:38:02,472   857ms Main                   Main_Load          - Comparative Report Started 6/22/2015 12:38:02 PM TONY
+INFO  2015-06-22 12:38:42,203   875ms Main                   Main_Load          - Comparative Report Started 6/22/2015 12:38:42 PM TONY
+INFO  2015-06-22 12:38:43,620  2291ms Main                   button1_Click      - Manual generate started :TONY
+INFO  2015-06-22 12:38:48,300  6971ms Main                   button1_Click      - Manual generate started :TONY
+INFO  2015-06-22 12:39:02,650 21321ms Main                   button1_Click      - Manual generate started :TONY
+INFO  2015-06-22 12:39:47,447 66118ms Main                   button1_Click      - Manual generate started :TONY
+INFO  2015-06-22 12:40:20,080   722ms Main                   Main_Load          - Comparative Report Started 6/22/2015 12:40:20 PM TONY
+INFO  2015-06-22 12:40:21,345  1988ms Main                   button1_Click      - Manual generate started :TONY
+INFO  2015-06-22 12:40:25,282  5925ms Main                   button1_Click      - Manual generate started :TONY
