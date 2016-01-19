@@ -1,0 +1,18 @@
+﻿@model SAT.Models.LoginModel
+
+@using (Html.BeginForm("Login", "Login", FormMethod.Post, new { @id = "login-nav" }))
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+    <div class="form-group">
+        @Html.TextBoxFor(model => model.userName, new { @class = "form-control", @placeholder = "username" })
+        
+    </div>
+    <div class="form-group">
+        @Html.TextBoxFor(model => model.password, new { @class ="form-control", @placeholder = "password" })
+     </div>
+    <div class="form-group">
+        <button type="submit" class="btn btn-primary btn-block">Login</button>
+    </div>
+
+}

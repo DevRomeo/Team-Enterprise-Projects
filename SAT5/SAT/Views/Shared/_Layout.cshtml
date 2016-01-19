@@ -1,0 +1,117 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+
+</head>
+<body class="">
+  @if (User.Identity.IsAuthenticated)
+  {
+
+    <div class="navbar navbar-fixed-top navbar-inverse " role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <div class="">
+                    <img src="~/Content/img/logoredwhite.png" class="small-logo" />
+                </div>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+           
+
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+                           aria-expanded="false">Upload<span class=" caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li>@Html.ActionLink("MoneyGram", "Index", "MoneyGram")</li>
+                            <li>@Html.ActionLink("Xoom", "Index", "Xoom")</li>
+                            <li>@Html.ActionLink("XpressMoney", "Index", "XpressMoney")</li>
+                        </ul>
+                    </li>
+
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true"
+                           aria-expanded="false">Reports<span class=" caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li>@Html.ActionLink("Daily","Index", "DailyReport")</li>
+                            <li>@Html.ActionLink("EDI", "Index", "EDIReport")</li>
+                            <li>@Html.ActionLink("Monthly", "Index", "MonthlyReport")</li>
+                        </ul>
+                    </li>
+
+
+                    @*<li>@Html.ActionLink("Home", "Index", "Home")</li>
+                    <li>@Html.ActionLink("About", "About", "Home")</li>
+                    <li>@Html.ActionLink("Contact", "Contact", "Home")</li>*@
+                </ul>
+                @Html.Partial("_LoginPartial")
+            </div>
+        </div>
+    </div>
+  }
+    
+  
+    
+    <div class="container body-content">
+        @RenderBody()
+       @if (User.Identity.IsAuthenticated)
+       {
+
+        <footer class="navbar-fixed-bottom">
+            <hr />
+            <p>&copy; @DateTime.Now.Year - My ASP.NET Application</p>
+        </footer>
+       }
+        <div id="main-modal" class="modal fade " role="dialog">
+            <div class="modal-dialog">
+
+                <!-- Modal content-->
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal">&times;</button>
+                        <h4 class="modal-title">
+                         @RenderSection("modalHeader", required: false)
+                       </h4>
+                    </div>
+                    <div class="modal-body">
+                       
+                        @RenderSection("modalContent", required: false)
+                    </div>
+                   
+                       <div class="modal-footer">
+                            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                        </div>
+                    
+                </div>
+
+            </div>
+        </div>
+     
+        
+        <div id="load-modal" class="modal fade " role="dialog">
+            <div class="modal-dialog">
+            
+                    <img src="~/Content/img/loading.gif" />
+               
+            </div>
+
+        </div>
+        </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/Scripts/jquery.validate.unobtrusive.js")
+        
+    @RenderSection("scripts", required: false)
+</body>
+</html>

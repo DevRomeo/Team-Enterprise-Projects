@@ -1,0 +1,154 @@
+﻿@model IEnumerable<SAT.Models.UploadedFilesModel>
+
+
+<div class="panel custom">
+
+
+
+
+
+    <div class="panel-heading custom clearfix">
+        <button type="button" class="btn btn-default btn-lg pull-right upload-trigger " data-toggle="modal" data-target="#main-modal">
+            <span class="glyphicon glyphicon-upload" aria-hidden="true"></span>Upload
+        </button>
+    </div>
+    <div class="container">
+        <table class="table table-striped">
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.fname)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.ftotal)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.SYSCREATED)
+                </th>
+                @*<th>
+                        @Html.DisplayNameFor(model => model.SYSCREATOR)
+                    </th>*@
+                @*<th>
+                        @Html.DisplayNameFor(model => model.Status)
+                    </th>
+                    <th>
+                        @Html.DisplayNameFor(model => model.error)
+                    </th>*@
+
+            </tr>
+
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.fname)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.ftotal)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.SYSCREATED)
+                    </td>
+                    @*<td>
+                            @Html.DisplayFor(modelItem => item.SYSCREATOR)
+                        </td>
+
+                        <td>
+                            @if (item.Status == 1)
+                            {
+                                <text>Proccessed</text>
+
+                            }
+                            else if (item.Status == 0)
+                            {
+                                <text>Pending</text>
+                            }
+                            else if (item.Status == 2)
+                            {
+                                <text>Error</text>
+                            }
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.error)
+                        </td>*@
+
+                </tr>
+            }
+
+        </table>
+    </div>
+
+
+</div>
+@section modalHeader{
+    MoneyGram Upload    
+}
+@section modalContent{
+    <h4>Select file from your computer</h4>
+
+    @using (Ajax.BeginForm("Upload", "MoneyGram", new AjaxOptions() { HttpMethod = "POST" }, new { enctype = "multipart/form-data",id="form" })){
+          @Html.AntiForgeryToken()
+          @Html.ValidationSummary(true)
+           <div class="form-inline">
+                <div class="form-group">
+                    <input type="file" name="file" accept=".csv">
+                </div>
+                <button type="submit" class="btn btn-sm btn-primary" id="js-upload-submit">Upload file</button>
+           </div>
+    }    
+}
+@section scripts{
+
+    <script type="text/javascript">
+    $(document).ready(function () {
+        $('#form').on('submit', function (e) {
+
+            e.preventDefault();
+            $('#load-modal').modal('show');
+            $.ajax({
+                url: '@Url.Action("Upload","MoneyGram")',
+                    type:'POST',
+                    cache: false,
+                    processData: false,
+                    contentType: false,
+                    data: new FormData($('#form')[0]),
+                    success: function (response) {
+                        alert(response.responseMessage);
+                        if (response.responseCode == 1)
+                        {
+                            window.location.replace('@Url.Action("Index","MoneyGram")');
+                        }
+                        $('#load-modal').modal('hide');
+                },
+                error: function (XMLHttpRequest, textStatus, errorThrown) {
+                    alert(errorThrown);
+                    $('#load-modal').modal('hide');
+                }
+
+            });
+
+
+
+
+        });
+
+
+    });
+    function beginUpload(e) {
+        e.preventDefault();
+    };
+    function uploadComplete(response) {
+        alert(response.responseMessage);
+    };
+    function uploadFailed(response) {
+        alert(response.responseMessage);
+    };
+    </script>
+}
+
+
+
+
+
+
+
+
