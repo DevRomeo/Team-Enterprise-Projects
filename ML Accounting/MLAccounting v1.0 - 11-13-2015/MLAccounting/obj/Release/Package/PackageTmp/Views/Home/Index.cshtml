@@ -1,0 +1,26 @@
+﻿@using System.Web.Helpers
+@{
+    ViewBag.Title = "Home";
+}
+<div class="container">
+    <div class="panel panel-default shadow">
+        <div class="panel-heading clearfix modal-bg">
+            <h4 class="panel-title pull-left text-danger col-lg-4 col-md-4 col-sm-4 hidden-xs"><b>Unprocessed</b></h4>            
+            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-10">
+                <div class="input-group col-md-6 col-sm-6 col-xs-10">
+                    <span class="input-group-addon btn btn-default date"><i class="glyphicon glyphicon-calendar"></i></span>
+                    <input class="form-control" type="text" id="search-unprocess" value="@DateTime.Now.ToString("yyyy-MM-dd")" disabled/>
+                    <span class="input-group-addon btn btn-default search" data-url="@Url.Action("UnprocessEntries", "Home", Request.Url.Scheme)"><i class="glyphicon glyphicon-search"></i></span>
+                </div>
+            </div>
+            <div class="input-group col-lg-2 col-md-2 col-sm-2 col-xs-2">
+                <button class="pull-right btn btn-default" onclick="location='@Url.Action("Index", "DataEntry", Request.Url.Scheme)'"><b>Add</b></button>
+            </div>
+        </div>
+        <div class="unprocess-entries text-center">
+        </div>
+    </div>
+</div>
+@section scripts{
+    @Scripts.Render("~/bundles/home")
+}

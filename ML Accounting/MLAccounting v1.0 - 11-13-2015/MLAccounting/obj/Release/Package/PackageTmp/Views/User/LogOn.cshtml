@@ -1,0 +1,56 @@
+﻿@model AccountingWeb.Models.LoginModel
+
+@{
+    ViewBag.Title = "Log In";
+}
+<div>
+    @using (Html.BeginForm("Authenticate", "User", new { ReturnUrl = ViewBag.ReturnUrl }, FormMethod.Post))
+    {
+        @Html.AntiForgeryToken()
+        <div class="container">
+            <div class="col-md-4 col-md-offset-4 head-margin">
+                <div class="half-circle">
+                </div>
+                <div class="login-form">
+                    @Html.ValidationSummary(true)
+                    <div class="cont">
+                        <img class="img-responsive logo-s" src="~/Content/images/diamond.png" />
+                        @*<img class="img-responsive logo-s" src="@Url.Content("Content/images/diamond.png")">*@
+                    </div>
+                    <div class="head text-center">
+                        <span class="font-size22">ML ACCOUNTING SYSTEM</span>
+                    </div>
+                    <div class="form-group">
+                        <div class="input-group">
+                            <div class="input-group-addon form-addon-s"><span class="glyphicon glyphicon-user"></span></div>
+                            @Html.TextBoxFor(model => model.Username, new { @class = "form-control form-c", @placeholder = "Username" })
+                        </div>
+                        @Html.ValidationMessageFor(model => model.Username)
+                    </div>
+                    <div class="form-group">
+                        <div class="input-group">
+                            <div class="input-group-addon form-addon-s"><span class="glyphicon glyphicon-lock"></span></div>
+                            @Html.TextBoxFor(model => model.Password, new { @class = "form-control form-c", @placeholder = "Password", @type = "password" })
+                        </div>
+                        @Html.ValidationMessageFor(model => model.Password)
+                    </div>
+                    <div class="form-group ">
+                        <button class="btn btn-danger btn-w">
+                            Sign In
+                        </button>
+                    </div>
+                    <div class="text-center">
+                        <label class="text-primary">
+                            @ViewData["servicemsg"]
+                        </label>
+                    </div>                    
+                </div>
+                <div class="text-center col-sm-8 col-sm-offset-2">
+                    <span class="font-size12">MLhuillier Financal Services Inc.</span>
+                    <br />
+                    <span class="font-size12">All rights reserved 2015</span>
+                </div>
+            </div>
+        </div>
+    }
+</div>

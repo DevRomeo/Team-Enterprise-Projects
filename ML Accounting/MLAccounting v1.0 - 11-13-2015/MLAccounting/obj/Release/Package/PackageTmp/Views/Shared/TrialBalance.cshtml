@@ -1,0 +1,743 @@
+﻿@model AccountingWeb.Models.TrialBalanceViewModel
+
+@{ViewBag.Title = "Trial Balance";}
+<div style="font-size:8px;">
+    <table>
+        <tbody>
+            <tr>
+                <td><b>@Html.DisplayFor(model => model.BalanceSheet.CorporateName)</b></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayFor(model => model.BalanceSheet.Branch)</td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayFor(model => model.BalanceSheet.BranchAddress)</td>
+            </tr>
+            <tr>
+                <td><b>TRIAL BALANCE</b></td>
+            </tr>
+            <tr>
+                <td>AS OF @Model.IncomeStatement.Month.ToUpper(), @Model.IncomeStatement.Year</td>
+            </tr>
+        </tbody>
+    </table>
+    @*<table>
+        <tbody>
+            <tr>
+                <td align="center">
+                    <b>TRIAL BALANCE</b>
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    AS OF @Model.BalanceSheet.Month.ToUpper(), @Model.BalanceSheet.Year
+                </td>
+            </tr>
+        </tbody>
+    </table>*@
+    <br />
+    <br />
+    <table>
+        <thead>
+            <tr>
+                <th width="40%"><b>ACCOUNT TITLE</b></th>
+                <th width="20%" align="right"><b>DEBIT</b></th>
+                <th width="20%" align="right"><b>CREDIT</b></th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BalanceSheet.CashEquivalents)</td>
+                <td align="right">@Model.BalanceSheet.CashEquivalents.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BalanceSheet.Merchandise)</td>
+                <td align="right">@Model.BalanceSheet.Merchandise.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BalanceSheet.PledgeLoan)</td>
+                <td align="right">@Model.BalanceSheet.PledgeLoan.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BalanceSheet.PastDueLoan)</td>
+                <td align="right">@Model.BalanceSheet.PastDueLoan.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BalanceSheet.AccountReceivable)</td>
+                <td align="right">@Model.BalanceSheet.AccountReceivable.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BalanceSheet.InputTax)</td>
+                <td align="right">@Model.BalanceSheet.InputTax.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BalanceSheet.CreditableWithHoldingTax)</td>
+                <td align="right">@Model.BalanceSheet.CreditableWithHoldingTax.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BalanceSheet.Stationery)</td>
+                <td align="right">@Model.BalanceSheet.Stationery.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BalanceSheet.DueFromBranches)</td>
+                <td align="right">@Model.BalanceSheet.DueFromBranches.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BalanceSheet.Deferred)</td>
+                <td align="right">@Model.BalanceSheet.Deferred.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BalanceSheet.Investments)</td>
+                <td align="right">@Model.BalanceSheet.Investments.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BalanceSheet.OtherAssets)</td>
+                <td align="right">@Model.BalanceSheet.OtherAssets.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BalanceSheet.Building)</td>
+                <td align="right">@Model.BalanceSheet.Building.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BalanceSheet.Furniture)</td>
+                <td align="right">@Model.BalanceSheet.Furniture.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BalanceSheet.CompEquipment)</td>
+                <td align="right">@Model.BalanceSheet.CompEquipment.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BalanceSheet.OfficeEquipment)</td>
+                <td align="right">@Model.BalanceSheet.OfficeEquipment.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BalanceSheet.TransportationEquipment)</td>
+                <td align="right">@Model.BalanceSheet.TransportationEquipment.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BalanceSheet.OtherFixedAssets)</td>
+                <td align="right">@Model.BalanceSheet.OtherFixedAssets.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BalanceSheet.Leasehold)</td>
+                <td align="right">@Model.BalanceSheet.Leasehold.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BalanceSheet.AccuDefBuilding)</td>                
+                <td></td>
+                <td align="right">@Model.BalanceSheet.AccuDefBuilding.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BalanceSheet.AccuFFE)</td>
+                <td></td>
+                <td align="right">@Model.BalanceSheet.AccuFFE.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BalanceSheet.AccuCE)</td>
+                <td></td>
+                <td align="right">@Model.BalanceSheet.AccuCE.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BalanceSheet.AccuOfficeEquipment)</td>
+                <td></td>
+                <td align="right">@Model.BalanceSheet.AccuOfficeEquipment.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BalanceSheet.AccuTransportationEquipment)</td>
+                <td></td>
+                <td align="right">@Model.BalanceSheet.AccuTransportationEquipment.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BalanceSheet.AccuOtherFixedAssets)</td>
+                <td></td>
+                <td align="right">@Model.BalanceSheet.AccuOtherFixedAssets.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BalanceSheet.TaxPayable)</td>
+                <td></td>
+                <td align="right">@Model.BalanceSheet.TaxPayable.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BalanceSheet.PayablePR)</td>
+                <td></td>
+                <td align="right">@Model.BalanceSheet.PayablePR.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BalanceSheet.PayableMR)</td>
+                <td></td>
+                <td align="right">@Model.BalanceSheet.PayableMR.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BalanceSheet.OutputTax)</td>
+                <td></td>
+                <td align="right">@Model.BalanceSheet.OutputTax.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BalanceSheet.WithholdingTax)</td>
+                <td></td>
+                <td align="right">@Model.BalanceSheet.WithholdingTax.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BalanceSheet.IncomeTax)</td>
+                <td></td>
+                <td align="right">@Model.BalanceSheet.IncomeTax.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BalanceSheet.SSS)</td>
+                <td></td>
+                <td align="right">@Model.BalanceSheet.SSS.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BalanceSheet.PagIbig)</td>
+                <td></td>
+                <td align="right">@Model.BalanceSheet.PagIbig.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BalanceSheet.PhilHealth)</td>
+                <td></td>
+                <td align="right">@Model.BalanceSheet.PhilHealth.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BalanceSheet.Prefunding)</td>
+                <td></td>
+                <td align="right">@Model.BalanceSheet.Prefunding.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BalanceSheet.MLKP)</td>
+                <td></td>
+                <td align="right">@Model.BalanceSheet.MLKP.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BalanceSheet.LoanPayable)</td>
+                <td></td>
+                <td align="right">@Model.BalanceSheet.LoanPayable.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+            </tr>            
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BalanceSheet.Pension)</td>
+                <td></td>
+                <td align="right">@Model.BalanceSheet.Pension.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BalanceSheet.OtherLiabilities)</td>
+                <td></td>
+                <td align="right">@Model.BalanceSheet.OtherLiabilities.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BalanceSheet.Division)</td>
+                <td></td>
+                <td align="right">@Model.BalanceSheet.Division.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BalanceSheet.CapitalStock)</td>
+                <td></td>
+                <td align="right">@Model.BalanceSheet.CapitalStock.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BalanceSheet.UnappropriatedBeg)</td>
+                <td></td>
+                <td align="right">@Model.BalanceSheet.Unappropriated.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.BalanceSheet.Appropriated)</td>
+                <td></td>
+                <td align="right">@Model.BalanceSheet.Appropriated.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.PledgeLoan)</td>
+                <td></td>
+                <td align="right">@Model.IncomeStatement.PledgeLoan.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.PastDueLoan)</td>
+                <td></td>
+                <td align="right">@Model.IncomeStatement.PastDueLoan.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.ServiceCharge)</td>
+                <td></td>
+                <td align="right">@Model.IncomeStatement.ServiceCharge.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.AuctionSale)</td>
+                <td></td>
+                <td align="right">@Model.IncomeStatement.AuctionSale.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.LiquidatedDamages)</td>
+                <td></td>
+                <td align="right">@Model.IncomeStatement.LiquidatedDamages.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.SPD)</td>
+                <td></td>
+                <td align="right">@Model.IncomeStatement.SPD.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.JewelrySales)</td>
+                <td></td>
+                <td align="right">@Model.IncomeStatement.JewelrySales.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.SalesReturns)</td>
+                <td align="right">@Model.IncomeStatement.SalesReturns.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.SalesDiscount)</td>
+                <td align="right">@Model.IncomeStatement.SalesDiscount.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.OtherSale)</td>
+                <td></td>
+                <td align="right">@Model.IncomeStatement.OtherSale.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.ServiceIncome)</td>
+                <td></td>
+                <td align="right">@Model.IncomeStatement.ServiceIncome.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.InsuranceIncome)</td>
+                <td></td>
+                <td align="right">@Model.IncomeStatement.InsuranceIncome.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.RentIncome)</td>
+                <td></td>
+                <td align="right">@Model.IncomeStatement.RentIncome.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.OtherIncome)</td>
+                <td></td>
+                <td align="right">@Model.IncomeStatement.OtherIncome.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.CommissionIncome)</td>
+                <td></td>
+                <td align="right">@Model.IncomeStatement.CommissionIncome.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.Forex)</td>
+                <td></td>
+                <td align="right">@Model.IncomeStatement.Forex.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+            </tr>            
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.Reacquired)</td>
+                <td align="right">@Model.IncomeStatement.Reacquired.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>                
+                <td></td>
+            </tr>            
+            @*<tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.BeginInventory)</td>
+                <td align="right">@Model.IncomeStatement.BeginInventory.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.Reacquired)</td>
+                <td align="right">@Model.IncomeStatement.Reacquired.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.EndInventory)</td>
+                <td align="right">@Model.IncomeStatement.EndInventory.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>*@
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.BorrowedFunds)</td>
+                <td align="right">@Model.IncomeStatement.BorrowedFunds.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.Salaries)</td>
+                <td align="right">@Model.IncomeStatement.Salaries.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.Staff)</td>
+                <td align="right">@Model.IncomeStatement.Staff.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.MonthPay)</td>
+                <td align="right">@Model.IncomeStatement.MonthPay.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.SSSExpense)</td>
+                <td align="right">@Model.IncomeStatement.SSSExpense.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.Uniforms)</td>
+                <td align="right">@Model.IncomeStatement.Uniforms.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.Rent)</td>
+                <td align="right">@Model.IncomeStatement.Rent.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.Power)</td>
+                <td align="right">@Model.IncomeStatement.Power.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.Communication)</td>
+                <td align="right">@Model.IncomeStatement.Communication.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.OfficeSupply)</td>
+                <td align="right">@Model.IncomeStatement.OfficeSupply.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.SecurityService)</td>
+                <td align="right">@Model.IncomeStatement.SecurityService.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.AgencyFee)</td>
+                <td align="right">@Model.IncomeStatement.AgencyFee.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.DepreciationFee)</td>
+                <td align="right">@Model.IncomeStatement.DepreciationFee.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.DepreciationCe)</td>
+                <td align="right">@Model.IncomeStatement.DepreciationCe.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.DepreciationBldg)</td>
+                <td align="right">@Model.IncomeStatement.DepreciationBldg.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.DepreciationTE)</td>
+                <td align="right">@Model.IncomeStatement.DepreciationTE.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.DepreciationOFA)</td>
+                <td align="right">@Model.IncomeStatement.DepreciationOFA.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.Amortization)</td>
+                <td align="right">@Model.IncomeStatement.Amortization.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.AmortizationDefCharge)</td>
+                <td align="right">@Model.IncomeStatement.AmortizationDefCharge.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.ProfessionalFee1)</td>
+                <td align="right">@Model.IncomeStatement.ProfessionalFee1.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>               
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.ProfessionalFee2)</td>
+                <td align="right">@Model.IncomeStatement.ProfessionalFee2.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.ProfessionalFeeExempt)</td>
+                <td align="right">@Model.IncomeStatement.ProfessionalFeeExempt.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.TaxesLincenses)</td>
+                <td align="right">@Model.IncomeStatement.TaxesLincenses.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.PercentageTax)</td>
+                <td align="right">@Model.IncomeStatement.PercentageTax.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.Prenda)</td>
+                <td align="right">@Model.IncomeStatement.Prenda.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.Remittance)</td>
+                <td align="right">@Model.IncomeStatement.Remittance.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.BankLoan)</td>
+                <td align="right">@Model.IncomeStatement.BankLoan.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.Insurance)</td>
+                <td align="right">@Model.IncomeStatement.Insurance.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.FuelLubricants)</td>
+                <td align="right">@Model.IncomeStatement.FuelLubricants.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.TravelExpenses)</td>
+                <td align="right">@Model.IncomeStatement.TravelExpenses.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.TranspoExpenses)</td>
+                <td align="right">@Model.IncomeStatement.TranspoExpenses.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.Maintenance1)</td>
+                <td align="right">@Model.IncomeStatement.Maintenance1.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.Maintenance2)</td>
+                <td align="right">@Model.IncomeStatement.Maintenance2.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.Advertising1)</td>
+                <td align="right">@Model.IncomeStatement.Advertising1.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.Advertising2)</td>
+                <td align="right">@Model.IncomeStatement.Advertising2.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.RepresentationExpense)</td>
+                <td align="right">@Model.IncomeStatement.RepresentationExpense.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.FreightExpense)</td>
+                <td align="right">@Model.IncomeStatement.FreightExpense.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.AlarmExpense)</td>
+                <td align="right">@Model.IncomeStatement.AlarmExpense.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.Marketing1)</td>
+                <td align="right">@Model.IncomeStatement.Marketing1.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.Marketing2)</td>
+                <td align="right">@Model.IncomeStatement.Marketing2.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.AlliedServices)</td>
+                <td align="right">@Model.IncomeStatement.AlliedServices.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.Medical)</td>
+                <td align="right">@Model.IncomeStatement.Medical.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.Prizes)</td>
+                <td align="right">@Model.IncomeStatement.Prizes.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.Donations)</td>
+                <td align="right">@Model.IncomeStatement.Donations.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.OtherExpenses)</td>
+                <td align="right">@Model.IncomeStatement.OtherExpenses.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.Miscellaneous1)</td>
+                <td align="right">@Model.IncomeStatement.Miscellaneous1.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.Miscellaneous2)</td>
+                <td align="right">@Model.IncomeStatement.Miscellaneous2.ToString("#,#00.00;(#,#00.00)")</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.IncomeStatement.Provision)</td>
+                <td align="right">
+                    @Model.IncomeStatement.Provision.ToString("#,#00.00;(#,#00.00)")
+                </td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td align="right" colspan="2">_________________________________________</td>                
+                <td></td>
+            </tr>
+            <tr>
+                <td><b>TOTAL</b></td>
+                <td align="right"><b>@Model.TotalDebit.ToString("#,#00.00;(#,#00.00)")</b></td>
+                <td align="right"><b>@Model.TotalCredit.ToString("#,#00.00;(#,#00.00)")</b></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td align="right" colspan="2"><span style="text-decoration:underline">_________________________________________</span> </td>                
+                <td></td>
+            </tr>
+        </tbody>
+
+    </table>
+</div>

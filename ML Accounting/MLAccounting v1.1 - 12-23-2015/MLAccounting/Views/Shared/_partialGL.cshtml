@@ -1,0 +1,31 @@
+﻿@model IEnumerable<AccountingWeb.Models.GeneralLedgerModel>
+
+<table class="table table-hover table-striped general-ledger">
+    <thead>        
+        <tr>
+            <td colspan="2" width="30%">
+                <input type="text" class="form-control col-sm-3 search-ledger" data-val-regex="^[0-9]$" maxlength="7" placeholder="Search GL Code" />                    
+            </td>
+            <td width="65%">
+                <input type="text" class="form-control col-sm-3 search-description" data-val-regex="^[a-zA-Z 0-9 \/\-+&.%\b]$" maxlength="50" placeholder="Search GL Description" />
+            </td>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.CheckBoxFor(modelItem => item.choice, new { @class = "select" })
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.GeneralLedger)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>

@@ -1,0 +1,184 @@
+﻿@model Accounting.Models.JournalViewModel
+
+<div style="font-size:8px;">
+    <span> @Model.Corporate</span>
+    <br />
+    <br />
+
+    <table>
+        <tr>
+            <td>
+                @{
+                    string logoPath = String.Format("{0}{1}{2}{3}{4}", Request.Url.Scheme.Trim(),
+                        System.Uri.SchemeDelimiter.Trim(),
+                        Request.Url.Host.Trim(),
+                        (Request.Url.IsDefaultPort ? "" : ":" + Request.Url.Port).Trim(),
+                        Url.Content("~/Content/images/logored.png"));
+
+                        <img height="50%" width="225" src="@logoPath" />                        
+                }
+
+
+            </td>
+            <td width="60%">
+                <table style="font-size:10px;" border="1">
+                    <tbody>
+                        <tr>
+                            <td width="20%">
+                                Branch
+                            </td>
+                            <td>
+                                @Model.BranchCode @Model.BranchName
+                            </td>
+                        </tr>
+                        <tr>
+                            <td width="20%">
+                                Batch number
+                            </td>
+                            <td>
+                                from [@Model.BatchNo] to [@Model.BatchNo]
+                            </td>
+                        </tr>
+                        <tr>
+                            <td width="20%">
+                                Creation date
+                            </td>
+                            <td>
+                                from [] to [@Model.CreationDate]
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+    </table>
+    <br />
+
+    <table border="1">
+        <thead>
+            <tr>
+                <td width="4%">Entry <br /><span style="text-decoration: none">No</span> </td>
+                <td width="3%">Line <br /> <span style="text-decoration: none">No</span></td>
+                <td width="3%" valign="bottom"><span style="text-decoration: none">Pd.</span></td>
+                <td width="7%" align="center" valign="bottom"><span style="text-decoration: none">Account</span></td>
+                <td width="4" valign="bottom"><span style="text-decoration: none">Dept.</span></td>
+                <td width="65%" valign="bottom"><span style="text-decoration: none">Account Description</span></td>
+            </tr>
+        </thead>
+    </table>
+    <table border="1">
+        <thead>
+            <tr>
+                <td width="5%"> </td>
+                <td width="6%"><span style="text-decoration:none">Srce</span></td>
+                <td width="10%"><span style="text-decoration: none">Date</span></td>
+                <td width="8%"><span style="text-decoration: none">Reference</span></td>
+                <td width="40%"><span style="text-decoration: none">Description</span></td>
+                <td width="15%" align="center"><span style="text-decoration: none">Debit</span></td>
+                <td width="15%" align="center"><span style="text-decoration: none">Credit</span></td>
+            </tr>
+        </thead>
+    </table>
+    <br />
+    @{
+        int j = 1;
+        decimal partialDebit = 0, partialCredit = 0, Debit = 0, Credit = 0;
+        bool index = true;
+        foreach (var item in Model.Journals)
+        {
+            foreach (var content in item.Value)
+            {
+                <table>
+                    <tbody>
+                        <tr>
+                            <td width="5%" align="center">
+                                @if (index)
+                                {
+                                    @item.Key
+                                }
+                            </td>
+                            <td width="3%" align="right">@j</td>
+                            <td width="4%" align="right">@Convert.ToDateTime(content.EntryDate).ToString("MM")</td>
+                            <td width="8%" align="right">@content.GL</td>
+                            <td width="5%" align="right">029</td>
+                            <td>@content.Description</td>
+                        </tr>
+                    </tbody>
+                </table>
+                <table>
+                    <tbody>
+                        <tr>
+                            <td width="5%"> </td>
+                            <td width="6%" valign="top">GL-JE</td>
+                            <td width="10%" valign="top">@Convert.ToDateTime(content.EntryDate).ToString("MMM dd yy")</td>
+                            <td width="8%">@content.Reference</td>
+                            <td width="40%" valign="top">@content.Remarks</td>
+                            <td width="15%" align="right" valign="bottom">
+                                @if (content.Debit > 0)
+                                {
+                                    @content.Debit.ToString("#,#00.00");
+                                }
+                            </td>
+                            <td width="15%" align="right" valign="bottom">
+                                @if (content.Credit < 0)
+                                {
+                                    @Math.Abs(content.Credit).ToString("#,#00.00");
+                                }
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                                partialCredit += content.Credit;
+                                partialDebit += content.Debit;
+                                index = false;
+                                j++;
+            }
+            //Table for Total Debit Credit for the whole day
+            @*<table>
+                    <tbody>
+                        <tr>
+                            <td width="69%"></td>
+                            <td width="15%" align="right" valign="bottom">__________________</td>
+                            <td width="15%" align="right" valign="bottom">__________________</td>
+                        </tr>
+                        <tr>
+                            <td width="69%"></td>
+                            <td width="15%" align="right" valign="bottom">@partialDebit.ToString("#,#00.00")</td>
+                            <td width="15%" align="right" valign="bottom">@Math.Abs(partialCredit).ToString("#,#00.00") *</td>
+                        </tr>
+                    </tbody>
+                </table>*@
+            Debit += partialDebit;
+            Credit += partialCredit;
+            index = true;
+            j = 1;
+            partialCredit = partialDebit = 0;
+        }
+
+    //Table for total Debit Credit for the whole month
+    <table>
+        <tbody>
+            <tr>
+                <td width="69%"></td>
+                <td width="15%" align="right" valign="bottom">__________________</td>
+                <td width="15%" align="right" valign="bottom">__________________</td>
+            </tr>
+            <tr>
+                <td width="69%"></td>
+                <td width="15%" align="right" valign="bottom"><b> @Debit.ToString("#,#00.00") </b> </td>
+                <td width="15%" align="right" valign="bottom"><b> @Math.Abs(Credit).ToString("#,#00.00")</b></td>
+            </tr>
+            <tr>
+                <td width="69%"></td>
+                <td width="15%" align="right" valign="bottom">
+                    <span style="text-decoration:underline">__________________</span>
+                </td>
+                <td width="15%" align="right" valign="bottom">
+                    <span style="text-decoration:underline">__________________</span>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    }
+
+</div>

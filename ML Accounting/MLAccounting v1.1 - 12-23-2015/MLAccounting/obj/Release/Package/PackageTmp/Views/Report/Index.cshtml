@@ -1,0 +1,20 @@
+﻿@{
+    ViewBag.Title = "Reports";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <div class="col-lg-offset-3 col-lg-6 col-md-offset-3 col-md-6 col-sm-offset-2 col-sm-8">
+        <div class="panel shadow">
+            <div class="panel-heading clearfix modal-bg">
+                <h4 class="panel-title pull-left text-danger"><b>Financial Reports</b></h4>
+            </div>
+            <div class="reports panel-body bg-gray text-center" data-url="@Url.Action("ReportComponent","Report",Request.Url.Scheme)">
+
+            </div>
+        </div>
+    </div>
+</div>
+@section scripts{
+    @Scripts.Render("~/bundles/report")
+}

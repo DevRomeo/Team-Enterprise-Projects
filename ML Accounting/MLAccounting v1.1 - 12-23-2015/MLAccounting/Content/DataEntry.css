@@ -1,0 +1,8 @@
+﻿.modal-backdrop {
+    top: 50px !important;
+}
+
+.navbar-fixed-top {
+  top: 0;
+  z-index: 9999;
+}

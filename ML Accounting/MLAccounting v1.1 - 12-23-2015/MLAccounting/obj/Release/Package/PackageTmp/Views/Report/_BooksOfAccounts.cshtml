@@ -1,0 +1,76 @@
+﻿@model AccountingWeb.Models.BooksOfAccountModel
+
+@using (Html.BeginForm("BooksOfAccout", "Report", FormMethod.Post, new { @id = "report-form", @target = "_blank" }))
+{
+    @Html.AntiForgeryToken()
+    <div>
+        <div class="form-horizontal">
+            @Html.ValidationSummary(true)
+            <div class="form-group">
+                @Html.LabelFor(model => model.Report, new { @class = "control-label col-lg-3 col-md-3 col-sm-3" })
+                <div class="col-lg-9 col-md-9 col-sm-9 input-group-sm">
+                    @Html.DropDownListFor(m => m.Report, Model.Reports, new { @class = "form-control" })
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(model => model.CorporateName, new { @class = "control-label col-lg-3 col-md-3 col-sm-3" })
+                <div class="col-lg-9 col-md-9 col-sm-9 input-group-sm">
+                    @Html.DropDownListFor(m => m.CorporateName, Model.CorporateNames, new { @class = "form-control" })
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Branch, new { @class = "control-label col-lg-3 col-md-3 col-sm-3" })
+                <div class="col-lg-9 col-md-9 col-sm-9 input-group-sm">
+                    @Html.DropDownListFor(model => model.Branch, Model.Branchs, new { @class = "form-control", @disabled = "disabled" })
+                    @Html.ValidationMessageFor(model => model.Branch)
+                    @Html.HiddenFor(m => m.Address)
+                    @Html.HiddenFor(m => m.BranchCode)
+                    @Html.HiddenFor(m => m.Zone)
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Month, new { @class = "control-label col-lg-3 col-md-3 col-sm-3" })
+                <div class="col-lg-9 col-md-9 col-sm-9 input-group-sm">
+                    <div class="input-group">
+                        <span class="input-group-addon"><input type="radio" name="radio-group" class="rdmonth" checked="checked" /></span>
+                        @Html.DropDownListFor(model => model.Month, Model.Months, "", new { @class = "form-control", @disabled = "disabled" })
+                    </div>
+                    @Html.ValidationMessageFor(model => model.Month)
+                </div>
+            </div>
+            <div class="form-group">
+                @Html.LabelFor(model => model.Year, new { @class = "control-label col-lg-3 col-md-3 col-sm-3" })
+                <div class="col-lg-9 col-md-9 col-sm-9 input-group-sm">
+                    <div class="input-group">
+                        <span class="input-group-addon"><input type="radio" name="radio-group" class="rdyear" /></span>
+                        @Html.DropDownListFor(model => model.Year, Model.Years, "", new { @class = "form-control", @disabled = "disabled" })
+                    </div>
+                    @Html.ValidationMessageFor(model => model.Year)
+                </div>
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(m => m.GLAccount, new { @class = "control-label col-lg-3 col-md-3 col-sm-3" })
+                <div class="col-lg-9 col-md-9 col-sm-9 input-group-sm">
+                    <div class="input-group">
+                        <span class="input-group-addon search"><i class="glyphicon glyphicon-search"></i></span>
+                        <input type="text" class="form-control text-left" id="SelectedGL" readonly />
+                        @Html.HiddenFor(m => m.GLAccount)
+                        @Html.HiddenFor(m => m.GLDescription)
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-offset-2 col-md-10 col-sm-offset-2 col-sm-10">
+                    <button type="submit" class="btn btn-default download-report" disabled>
+                        <span class="glyphicon glyphicon-download-alt"></span>
+                        Download Report
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+}

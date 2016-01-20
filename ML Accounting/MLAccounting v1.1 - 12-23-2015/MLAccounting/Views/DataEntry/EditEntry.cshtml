@@ -1,0 +1,200 @@
+﻿@model AccountingWeb.Models.DataEntryModel
+
+@{
+    ViewBag.Title = "Edit Entry";
+}
+@Styles.Render("~/Content/dataentry")
+@using (Ajax.BeginForm("UpdateEntry", "DataEntry", null, new AjaxOptions() { OnComplete = "updateComplete", HttpMethod = "POST" }, new { @id = "dataentryForm", @autocomplete = "off", target = "_blank" }))
+{
+    @Html.AntiForgeryToken()
+    <div class="row data-entry" data-url="@Url.Action("getGL","DataEntry",Request.Url.Scheme)">
+        <div class="container">
+            @Html.ValidationSummary(true)
+            <div class="panel shadow">
+                <div class="panel-heading clearfix modal-bg">
+                    <div class="row">
+                        <div class="col-lg-7 col-md-7 col-sm-7 col-xs-7">
+                            <div class="form-group adjust-panel-header">
+                                <div class="form-horizontal">
+                                    @Html.LabelFor(m => m.CorporateName, new { @class = "control-label pull-left col-lg-3 col-md-4 col-sm-5 col-xs-12" })
+                                    <div class="form-space input-group-sm pull-left col-lg-9 col-md-8 col-sm-7 col-xs-12">
+                                        @Html.TextBoxFor(m => m.CorporateName, new { @class = "form-control", @readonly = true })
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group adjust-panel-header">
+                                <div class="form-horizontal">
+                                    @Html.LabelFor(m => m.Branch, new { @class = "control-label pull-left col-lg-3 col-md-4 col-sm-5 col-xs-12" })
+                                    <div class="form-space input-group-sm pull-left col-lg-9 col-md-8 col-sm-7 col-xs-12">
+                                        @Html.TextBoxFor(m => m.Branch, new { @class = "form-control", @readonly = true })
+                                        @Html.HiddenFor(m => m.BranchAddress)
+                                        @Html.HiddenFor(m => m.BranchCode)
+                                        @Html.HiddenFor(m => m.Zone)
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-5 col-md-5 col-sm-5 col-xs-5">
+                            <div class="form-group adjust-panel-header">
+                                <div class="form-horizontal">
+                                    @Html.LabelFor(m => m.EntryNo, new { @class = "control-label pull-left col-lg-3 col-md-4 col-sm-5 col-xs-12" })
+                                    <div class="form-space input-group-sm pull-left col-lg-9 col-md-8 col-sm-7 col-xs-12">
+                                        @Html.TextBoxFor(m => m.EntryNo, new { @class = "form-control", @readonly = true })
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="form-group adjust-panel-header">
+                                <div class="form-horizontal">
+                                    @Html.LabelFor(m => m.Date, new { @class = "control-label pull-left col-lg-3 col-md-4 col-sm-5 col-xs-12" })
+                                    <div class="form-space input-group-sm pull-left col-lg-9 col-md-8 col-sm-7 col-xs-12">
+                                        @Html.TextBoxFor(m => m.Date, "{0:MM-dd-yyyy}", new { @class = "form-control", @readonly = true })
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+                <table class="table table-striped ">
+                    <thead>
+                        <tr>
+                            <th>
+                                @*<i style="margin-left:10px;" class="glyphicon glyphicon-plus-sign"></i>*@
+                            </th>
+                            <th class="text-left col-lg-1">
+                                @Html.DisplayNameFor(m => m.Entry.GL)
+                            </th>
+                            <th class="text-center col-lg-2">
+                                @Html.DisplayNameFor(m => m.Entry.Description)
+                            </th>
+                            <th class="text-center col-lg-1">
+                                @Html.DisplayNameFor(m => m.Entry.Debit)
+                            </th>
+                            <th class="text-center col-lg-1">
+                                @Html.DisplayNameFor(m => m.Entry.Credit)
+                            </th>
+                            <th class="text-center col-lg-2">
+                                @Html.DisplayNameFor(m => m.Entry.Reference)
+                            </th>
+                            <th class="text-center col-lg-2">
+                                @Html.DisplayNameFor(m => m.Entry.Remarks)
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @for (int i = 0; i < Model.Entries.Count; i++)
+                        {
+                            <tr>
+                                <td class="col-lg-2" colspan="2">
+                                    <div class="input-group">
+                                        <div class="input-group-addon">
+                                            @Html.CheckBoxFor(m => Model.Entries[i].Add, new { @class = "pick", @disabled = "disabled" })
+                                        </div>
+                                        @Html.TextBoxFor(m => Model.Entries[i].GL, new { @class = "form-control", @readonly = true })
+                                    </div>
+                                </td>
+
+                                <td class="col-lg-2">
+                                    @Html.TextBoxFor(m => Model.Entries[i].Description, new { @class = "form-control", @readonly = true })
+                                </td>
+                                <td class="col-lg-1">
+                                    @Html.TextBoxFor(m => Model.Entries[i].Debit, new { @class = "form-control text-right Debit", @data_val_regex = "^[0-9]$", @disabled = "disabled" })
+                                </td>
+                                <td class="col-lg-1">
+                                    @Html.TextBoxFor(m => Model.Entries[i].Credit, new { @class = "form-control text-right Credit", @data_val_regex = "^[0-9]$", @disabled = "disabled" })
+                                </td>
+                                <td class="col-lg-2">
+                                    @Html.TextBoxFor(m => Model.Entries[i].Reference, new { @class = "form-control" })
+                                </td>
+                                <td class="col-lg-2">
+                                    @Html.TextBoxFor(m => Model.Entries[i].Remarks, new { @class = "form-control" })
+                                </td>
+                            </tr>
+                            @Html.HiddenFor(m => m.Entries[i].EntryId)
+                            @Html.HiddenFor(m => Model.Entries[i].GL)
+                            @Html.HiddenFor(m => Model.Entries[i].Description)
+                            @Html.HiddenFor(m => Model.Entries[i].Debit)
+                            @Html.HiddenFor(m => Model.Entries[i].Credit)
+                            @Html.HiddenFor(m => Model.Entries[i].Reference)
+                            @Html.HiddenFor(m => Model.Entries[i].Remarks)
+                            @Html.HiddenFor(m => Model.Entries[i].Add)
+                        }
+                    </tbody>
+                    <tfoot>
+                        <tr>
+                            <td colspan="2">
+                                @*<button class="btn btn-default pull-left" type="button" onclick="location='@Url.Action("Index","Home",Request.Url.Scheme)'">Cancel</button>*@
+                            </td>
+                            <td class="text-right"><b>Total</b></td>
+                            <td class="text-right">
+                                <span class="total-debit">0.00</span>
+                            </td>
+                            <td class="text-right">
+                                <span class="total-credit">0.00</span>
+                            </td>
+                            <td colspan="2" class="pad-right-disabler">
+                                @*<button class="btn btn-danger pull-right submit-entry" type="submit">
+                                    <span class="glyphicon glyphicon-floppy-saved"></span>
+                                    Update
+                                </button>
+                                <button class="btn btn-danger pull-right income-statement" data-url="@Url.Action("IncomeStatement", "DataEntry", Request.Url.Scheme)" type="button">
+                                    <span class="glyphicon glyphicon-search"></span>
+                                    Income Statement
+                                </button>
+                                <button class="btn btn-danger pull-right balance-sheet" data-url="@Url.Action("BalanceSheet", "DataEntry", Request.Url.Scheme)" type="button">
+                                    <span class="glyphicon glyphicon-search"></span>Balance Sheet
+                                </button>*@
+                                <section class="onclick-container pull-right">
+                                    <div>
+                                        <input id="onclick" name="onclickdrop" type="checkbox" />
+                                        <label for="onclick"><span class="btn btn-danger btn-sm"><i class="glyphicon glyphicon-plus"></i></span></label>
+                                        <article class="onclick-body">
+                                            <button class="btn btn-danger btn-sm wd101 trial-balance" data-url="@Url.Action("TrialBalance", "DataEntry", Request.Url.Scheme)" type="button">
+                                                <span class="glyphicon glyphicon-search"></span>
+                                                Trial Balance
+                                            </button>
+                                            <button class="btn btn-danger btn-sm wd101 balance-sheet" data-url="@Url.Action("BalanceSheet", "DataEntry", Request.Url.Scheme)" type="button">
+                                                <span class="glyphicon glyphicon-search"></span>
+                                                Balance Sheet
+                                            </button>
+                                            <button class="btn btn-danger btn-sm wd100 income-statement" data-url="@Url.Action("IncomeStatement", "DataEntry", Request.Url.Scheme)" type="button">
+                                                <span class="glyphicon glyphicon-search"></span>
+                                                Income Statement
+                                            </button>
+                                            <button class="btn btn-danger btn-sm wd100 submit-entry" type="submit">
+                                                <span class="glyphicon glyphicon-floppy-saved"></span>
+                                                Update
+                                            </button>
+                                        </article>
+                                    </div>
+                                </section>                       
+                            </td>
+                        </tr>
+                    </tfoot>
+                </table>
+            </div>
+        </div>
+    </div>
+
+}
+<!--Modal for List of GLs-->
+<div class="modal fade gl-modal" data-role="dialog" data-backdrop="static" data-keyboard="false">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <div class="modal-title">
+                    GL - Accounts
+                </div>
+            </div>
+            <div class="modal-body gl"></div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+            </div>
+        </div>
+    </div>
+</div>
+@section scripts{
+    @Scripts.Render("~/bundles/js/updateEntry")
+}

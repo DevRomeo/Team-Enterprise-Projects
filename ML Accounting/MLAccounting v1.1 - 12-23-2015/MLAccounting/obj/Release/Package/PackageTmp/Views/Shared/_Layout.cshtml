@@ -1,0 +1,188 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Contents/css", "~/Content/bootstrap")
+    <link rel="shortcut icon" href="@Url.Content("~/Content/favicon.ico")" />
+</head>
+<body>
+    @if (User.Identity.IsAuthenticated)
+    {
+        <div class="navbar navbar-inverse navbar-fixed-top">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <span class="navbar-brand brand-logo-small">
+                        <img src="~/Content/Images/logo.png" class="small-logo" alt="" />
+                    </span>
+                </div>
+                <div class="navbar-collapse collapse">
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown">@Html.ActionLink("Home", "Index", "Home")</li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                Reports
+                                <b class="caret"></b>
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    @Html.ActionLink("Financial Report", "Index", "Report")
+                                </li>
+                                <li class="divider"></li>
+                                <li>
+                                    @Html.ActionLink("Books of Accounts", "AccountsView", "Report")
+                                </li>
+                            </ul>
+                        </li>
+
+                        @if (User.IsInRole("Admin"))
+                        {
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                    Beginning Balance
+                                    <b class="caret"></b>
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li>
+                                        @Html.ActionLink("Add Beginning Balance", "Index", "Admin")
+                                    </li>
+                                </ul>
+                            </li>
+                            <li class="dropdown">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                    GL Settings
+                                    <b class="caret"></b>
+                                </a>
+                                <ul class="dropdown-menu">
+                                    <li>
+                                        <a href="#" class="dropdown-toggle create-gl" data-option="1" data-url="@Url.Action("CreateGL", "GL", Request.Url.Scheme)" data-toggle="modal" data-target=".gl-setting">
+                                            GL Data Entry
+                                        </a>
+                                    </li>
+                                    <li class="divider"></li>
+                                    <li>
+                                        <a href="#" class="dropdown-toggle add-ledger" data-option="2" data-url="@Url.Action("Add", "GL", Request.Url.Scheme)" data-toggle="modal" data-target=".gl-setting">
+                                            Add GL to Category
+                                        </a>
+                                    </li>
+                                    <li class="divider"></li>
+                                    <li>
+                                        <a href="#" class="dropdown-toggle update-ledger" data-option="3" data-url="@Url.Action("DeleteGL", "GL", Request.Url.Scheme)" data-toggle="modal" data-target=".gl-setting">
+                                            Remove GL from Category
+                                        </a>
+                                    </li>
+                                </ul>
+                            </li>
+                        }
+                    </ul>
+                    @Html.Partial("_LoginPartial")
+                </div>
+            </div>
+        </div>
+
+        <div class="modal fade confirm" role="dialog" aria-hidden="true" data-backdrop="static" data-keyboard="false">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                        <h4 class="modal-title"></h4>
+                    </div>
+                    <div class="modal-body">
+                        <p></p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-danger submit">Submit</button>
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="modal fade modal-delete" role="dialog" aria-hidden="true" data-backdrop="static" data-keyboard="false">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                        <h4 class="modal-title"></h4>
+                    </div>
+                    <div class="modal-body">
+                        <p></p>
+                    </div>
+                    <div class="modal-footer">
+                        <button type="button" class="btn btn-danger confirm-delete-entry">DELETE</button>
+                        <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="modal fade gl-setting" role="dialog" aria-hidden="true" data-backdrop="static" data-keyboard="false" data-img="@Url.Content("~/Content/images/ajax-loader.gif")">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header modal-bg">
+                        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                        <h4 class="modal-title">GL Accounts</h4>
+                    </div>
+                    <div class="load-gl text-center">
+                        <img src="@Url.Content("~/Content/images/ajax-loader.gif")" /> Loading item . . .
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+    <div class="container body-content">
+        @RenderBody()
+    </div>
+    @if (User.Identity.IsAuthenticated)
+    {
+        <div class="footer-class hidden hidden-sm hidden-xs">
+            <div class="footer-container">
+                <p class="text-center footer-text">&copy; @DateTime.Now.Year - MLhuillier, Inc. Philippines. All rights reserved.</p>
+            </div>
+        </div>
+    }
+    <div class="hidden">
+        <div class="loading">
+            <span class="glyphicon glyphicon-repeat glyphicon-repeat-animate"></span> &nbsp; Loading Data . . .
+        </div>
+    </div>
+
+    <div class="modal modal-process" role="dialog" data-backdrop="static">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-body text-center">
+                    <span class="glyphicon glyphicon-repeat glyphicon-repeat-animate"></span> &nbsp; Now processing please wait . . .
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal modal-notification" role="dialog" data-backdrop="static">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="header">ML Accounting</h4>
+                </div>
+                <div class="modal-body">
+
+                </div>
+                <div class="modal-footer">
+                    <input type="button" class="btn btn-default" data-dismiss="modal" value="Close" />
+                </div>
+            </div>
+        </div>
+    </div>
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/bundles/layout")
+    @RenderSection("scripts", required: false)
+
+</body>
+</html>

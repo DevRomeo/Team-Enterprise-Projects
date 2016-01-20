@@ -1,0 +1,42 @@
+﻿@{
+    ViewBag.Title = "Beginning Balance";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+    <div class="col-lg-offset-3 col-lg-6 col-md-offset-3 col-md-6 col-sm-offset-2 col-sm-8">
+        <div class="panel shadow">
+            <div class="panel-heading clearfix modal-bg">
+                <h4 class="panel-title pull-left text-danger"><b>Beginning Balance</b></h4>
+            </div>
+            <div class="panel-body bg-gray text-center beginning-balance" data-url="@Url.Action("BeginningBalanceComponent", "Admin", Request.Url.Scheme)">
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<!--Modal for List of GLs-->
+<div class="modal fade gl-modal" data-role="dialog" data-backdrop="static" data-keyboard="false">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header modal-bg">
+                <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                <div class="modal-title">
+                    GL - Accounts
+                </div>
+            </div>
+            <div class="modal-body gl bg-gray">
+                NO GLs
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section scripts{
+    @Scripts.Render("~/bundles/GLBalance")    
+}
+

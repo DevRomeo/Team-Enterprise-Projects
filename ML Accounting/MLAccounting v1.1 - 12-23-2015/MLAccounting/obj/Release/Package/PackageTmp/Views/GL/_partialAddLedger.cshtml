@@ -1,0 +1,59 @@
+﻿@model AccountingWeb.Models.GeneralLedgerViewModel
+@if (Model.GeneralLedgers != null)
+{
+    using (Ajax.BeginForm("Add", "GL", new AjaxOptions() { OnBegin = "beginAddGl", OnComplete = "addComplete" }))
+    {
+        @Html.AntiForgeryToken()
+        <div class="modal-body bg-gray">
+            <table class="table table-hover table-striped general-ledger-adding">
+                <thead>
+                    <tr>
+                        <td colspan="3" class="col-md-12">
+                            @Html.LabelFor(m => m.Category, new { @class = "col-sm-3 hidden-xs" })
+                            @Html.DropDownListFor(m => m.Category, Model.Categories,"", new { @class = "form-control col-md-12 category" })
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan="2" width="30%">
+                            <input type="text" class="form-control col-sm-3 search-ledger" maxlength="7" placeholder="Search GL" disabled />
+                        </td>
+                        <td width="65%">
+                            <input type="text" class="form-control col-sm-3 search-description" maxlength="50" placeholder="Search GL Description" disabled />
+                        </td>
+                    </tr>
+                </thead>
+                <tbody>
+                    @for (int i = 0; i < Model.GeneralLedgers.Count; i++)
+                    {
+                          <tr>
+                            <td>
+                                @Html.CheckBoxFor(m => m.GeneralLedgers[i].choice, new { @class = "select-add", @disabled = "disabled" })
+                            </td>
+                              <td align="left">
+                                  @Html.DisplayFor(m => m.GeneralLedgers[i].GeneralLedger)
+                              </td>
+                            <td align="left">
+                                @Html.DisplayFor(m => m.GeneralLedgers[i].Description)
+                            </td>
+                        </tr>
+                        @Html.HiddenFor(m => m.GeneralLedgers[i].choice)
+                        @Html.HiddenFor(m => m.GeneralLedgers[i].GeneralLedger)
+                        @Html.HiddenFor(m => m.GeneralLedgers[i].Description)
+                    }                  
+                </tbody>
+
+            </table>
+        </div>
+        <div class="modal-footer">
+            <button type="submit" class="btn btn-danger submit-gl-entry" disabled>Submit</button>
+            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div>
+    }
+}
+else
+{
+    <h5 class="text-center text-danger">No GL to be added to the system</h5>
+    <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+    </div>
+}

@@ -1,0 +1,6 @@
+G:\Ron Projects\MLAccounting\MLAccounting\PDFGeneration\bin\Debug\PDFGeneration.dll
+G:\Ron Projects\MLAccounting\MLAccounting\PDFGeneration\bin\Debug\PDFGeneration.pdb
+G:\Ron Projects\MLAccounting\MLAccounting\PDFGeneration\bin\Debug\itextsharp.dll
+G:\Ron Projects\MLAccounting\MLAccounting\PDFGeneration\obj\Debug\PDFGeneration.dll
+G:\Ron Projects\MLAccounting\MLAccounting\PDFGeneration\obj\Debug\PDFGeneration.pdb
+G:\Ron Projects\MLAccounting\MLAccounting\PDFGeneration\obj\Debug\PDFGeneration.csprojResolveAssemblyReference.cache

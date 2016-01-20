@@ -1,0 +1,87 @@
+﻿@using MLAccounting.Class
+@model MLAccountingWeb.Models.UnproccessEntryModel
+@if (Model.EntryDetails != null)
+{
+    using (Ajax.BeginForm("ProcessEntry", "Home", FormMethod.Post,
+        new AjaxOptions { OnBegin = "BeginProcess", OnComplete = "processComplete" },
+        new { id = "unprocessForm" }))
+    {
+        @Html.AntiForgeryToken()
+        <table class="table table-striped">
+            <tr>
+                <th class="text-center">
+                    #
+                </th>
+                <th class="text-center">
+                    @Html.DisplayNameFor(m => Model.EntryDetail.EntryNo)
+                </th>
+                <th class="text-center">
+                    @Html.DisplayNameFor(model => model.EntryDetail.CorpName)
+                </th>
+                <th class="text-center">
+                    @Html.DisplayNameFor(model => model.EntryDetail.TotalDebit)
+                </th>
+                <th class="text-center">
+                    @Html.DisplayNameFor(model => model.EntryDetail.TotalCredit)
+                </th>
+                <th class="text-center">
+                    @Html.DisplayNameFor(model => model.EntryDetail.Process)
+                </th>
+            </tr>
+            @for (int i = 0; i < Model.EntryDetails.Count(); i++)
+            {
+                <tr>
+                    <td class="text-center">
+                        @Convert.ToInt32(i + 1)
+                    </td>
+                    <td class="text-center">
+                        @Html.DisplayFor(modelItem => modelItem.EntryDetails[i].EntryNo)
+                    </td>
+                    <td class="text-center">
+                        @Html.DisplayFor(modelItem => modelItem.EntryDetails[i].CorpName)
+                    </td>
+                    <td class="text-right">
+                        @Model.EntryDetails[i].TotalDebit.ToString("#,#00.00")
+                    </td>
+                    <td class="text-right">
+                        @Model.EntryDetails[i].TotalCredit.ToString("#,#00.00")
+                    </td>
+                    <td class="text-center">
+                        <div>
+                            @Html.CheckBoxFor(m => m.EntryDetails[i].Process, new { @class = "Process" })
+                            <button type="button" class="btn btn-danger btn-sm delete-entry" title="Delete Data Entry"
+                                    data-url="@Url.Action("Remove", "DataEntry", Request.Url.Scheme)"
+                                    data-corpname="@Model.EntryDetails[i].CorpName"
+                                    data-toggle="modal" data-target=".modal-delete" data-title="Delete Entry" data-entry-number="@Model.EntryDetails[i].EntryNo"
+                                    data-message="Are you sure you want to DELETE ?">
+                                <span class='glyphicon glyphicon-trash'></span>
+                            </button>
+                            @*@Html.NoEncodeActionLink("<span class='glyphicon glyphicon-pencil'></span>", "Edit", "ModifyEntry", "DataEntry", routeValues: new { entryNo = Model.EntryDetails[i].EntryNo }, htmlAttributes: new { data_modal = "", @class = "btn btn-default btn-sm" })*@
+                            <button type="button" class="btn btn-info btn-sm edit-entry"
+                                    onclick="location.href='@Url.Action("ModifyEntry", "DataEntry", new { entryNo = Model.EntryDetails[i].EntryNo, corpName = Model.EntryDetails[i].CorpName })'" title="Edit Data Entry">
+                                <span class='glyphicon glyphicon-pencil'></span>
+                            </button>
+                        </div>
+                    </td>
+                </tr>
+                @Html.HiddenFor(m => m.EntryDetails[i].EntryNo)
+                @Html.HiddenFor(m => m.EntryDetails[i].Process)
+                @Html.HiddenFor(m => m.EntryDetails[i].CorpName)
+            }
+            <tfoot>
+                <tr>
+                    <td colspan="6">
+                        <input type="button" class="btn btn-danger pull-right process-entry" value="Process Entry" title="Process the selected Data Entry"
+                               data-toggle="modal" data-target=".confirm" data-title="Process Entry"
+                               data-button="Submit" data-message="Hitting the submit button will process the selected Data Entry and could not be undo again." disabled />
+                    </td>
+                </tr>
+            </tfoot>
+
+        </table>
+    }
+}
+else
+{
+    <p class="text-danger text-center"><b>No Entries to be process</b></p>
+}

@@ -1,0 +1,855 @@
+﻿@model AccountingWeb.Models.IncomeStatementModel
+
+<div style="font-size:8px;">
+    <table>
+        <tbody>
+            <tr>
+                <td><b>@Html.DisplayFor(model => model.CorporateName)</b></td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayFor(model => model.Branch)</td>
+            </tr>
+            <tr>
+                <td>@Html.DisplayFor(model => model.BranchAddress)</td>
+            </tr>
+            <tr>
+                <td><b>INCOME STATEMENT</b></td>
+            </tr>
+            <tr>
+                <td>AS OF @Model.Month.ToUpper(), @Model.Year</td>
+            </tr>
+        </tbody>
+    </table>
+    <div>
+        <br />
+        <b>GROSS REVENUE</b>
+        <br />
+        <br />
+        <b>DOMESTIC:</b>
+    </div>
+    <br />
+    <table>
+        <tbody>
+            <tr>
+                <td colspan="6"> PAWNSHOP OPERATIONS:</td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.PledgeLoan)</td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.PledgeLoan.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.PastDueLoan)</td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.PastDueLoan.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.ServiceCharge)</td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.ServiceCharge.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.AuctionSale)</td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.AuctionSale.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.LiquidatedDamages)</td>
+                <td width="14%"></td>
+                <td width="14%" align="right">
+                    <span style="text-decoration:underline">
+                        @Model.LiquidatedDamages.ToString("#,#00.00;(#,#00.00)")
+                    </span>
+                </td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr><td colspan="6"></td></tr>
+            <tr><td colspan="6"></td></tr>
+            <tr><td colspan="6"></td></tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.Total)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.Total.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+        </tbody>
+    </table>
+    <br />
+    <table>
+        <tbody>
+            <tr>
+                <td width="30%">@Html.DisplayNameFor(model => model.SPD)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.SPD.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%">@Html.DisplayNameFor(model => model.JewelrySales)</td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.JewelrySales.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%">LESS:  @Html.DisplayNameFor(model => model.SalesReturns)</td>
+                <td width="14%" align="right">@Model.SalesReturns.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.SalesDiscount)</td>
+                <td width="14%" align="right">
+                    <span style="text-decoration:underline">
+                        @Model.SalesDiscount.ToString("#,#00.00;(#,#00.00)")
+                    </span>
+                </td>
+                <td width="14%" align="right">
+                    <span style="text-decoration:underline">
+                        @Convert.ToInt32(Model.SalesDiscount + Model.SalesReturns).ToString("#,#00.00;(#,#00.00)")
+                    </span>
+                </td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr><td colspan="6"></td></tr>
+            <tr><td colspan="6"></td></tr>
+            <tr><td colspan="6"></td></tr>
+            <tr>
+                <td width="30%">@Html.DisplayNameFor(model => model.NetSales)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.NetSales.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+        </tbody>
+    </table>
+    <table>
+        <tbody>
+            <tr>
+                <td width="30%">@Html.DisplayNameFor(m => m.OtherSale)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.OtherSale.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td colspan="6">LOCAL MONEY REMITTANCE</td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.ServiceIncome)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.ServiceIncome.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+        </tbody>
+    </table>
+    <br />
+    <table>
+        <tbody>
+            <tr>
+                <td colspan="6"> OTHER REVENUES:</td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.InsuranceIncome)</td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.InsuranceIncome.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.RentIncome)</td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.RentIncome.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.OtherIncome)</td>
+                <td width="14%"></td>
+                <td width="14%" align="right">
+                    <span style="text-decoration:underline">
+                        @Model.OtherIncome.ToString("#,#00.00;(#,#00.00)")
+                    </span>
+                </td>
+                <td width="14%" align="right">
+                    <span style="text-decoration:underline">
+                        @Convert.ToDecimal(Model.InsuranceIncome + Model.RentIncome + Model.OtherIncome)
+                    </span>
+                </td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr><td colspan="6"></td></tr>
+            <tr><td colspan="6"></td></tr>
+            <tr><td colspan="6"></td></tr>
+            <tr>
+                <td width="30%"><b>@Html.DisplayNameFor(model => model.TotalDomesticIncome)</b></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.TotalDomesticIncome.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+            </tr>
+        </tbody>
+    </table>
+    <br />
+    <table>
+        <tbody>
+            <tr>
+                <td colspan="6"><b>INTERNATIONAL INCOME</b></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.CommissionIncome)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.CommissionIncome.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.Forex)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">
+                    <span style="text-decoration:underline">
+                        @Model.Forex.ToString("#,#00.00;(#,#00.00)")
+                    </span>
+                </td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr><td colspan="6"></td></tr>
+            <tr><td colspan="6"></td></tr>
+            <tr><td colspan="6"></td></tr>
+            <tr>
+                <td width="30%"><b>@Html.DisplayNameFor(model => model.TotalIntIncome)</b></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">
+                    <span style="text-decoration:underline">
+                        @Model.TotalIntIncome.ToString("#,#00.00;(#,#00.00)")
+                    </span>
+                </td>
+                <td width="14%"></td>
+            </tr>
+            <tr><td colspan="6"></td></tr>
+            <tr><td colspan="6"></td></tr>
+            <tr><td colspan="6"></td></tr>
+            <tr>
+                <td width="30%"><b>@Html.DisplayNameFor(model => model.GrossRevenue)</b></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.GrossRevenue.ToString("#,#00.00;(#,#00.00)")</td>
+            </tr>
+        </tbody>
+    </table>
+    <br />
+    LESS:
+    <br />
+    <br />
+    <table>
+        <tbody>
+            <tr><td colspan="6"><b>DIRECT COSTS</b></td></tr>
+            <tr>
+                <td width="30%"><b>@Html.DisplayNameFor(model => model.CostOfSales)</b></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.BeginInventory)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.BeginInventory.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">ADD:</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.Reacquired)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">
+                    <span style="text-decoration:underline">
+                        @Model.Reacquired.ToString("#,#00.00;(#,#00.00)")
+                    </span>
+                </td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.TotalGoods)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.TotalGoods.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">LESS:</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.EndInventory)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">
+                    <span style="text-decoration:underline">
+                        @Model.EndInventory.ToString("#,#00.00;(#,#00.00)")
+                    </span>
+                </td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.CostOfSales.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.BorrowedFunds)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.BorrowedFunds.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.Salaries)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.Salaries.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.Staff)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.Staff.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.MonthPay)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.MonthPay.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.SSSExpense)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.SSSExpense.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.Uniforms)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.Uniforms.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.Rent)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.Rent.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.Power)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.Power.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.Communication)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.Communication.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.OfficeSupply)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.OfficeSupply.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.SecurityService)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.SecurityService.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.AgencyFee)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.AgencyFee.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.DepreciationFee)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.DepreciationFee.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.DepreciationCe)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.DepreciationCe.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.DepreciationBldg)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.DepreciationBldg.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.DepreciationTE)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.DepreciationTE.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.DepreciationOFA)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.DepreciationOFA.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.Amortization)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">
+                    @Model.Amortization.ToString("#,#00.00;(#,#00.00)")
+                </td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.AmortizationDefCharge)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">
+                    <span style="text-decoration:underline">
+                        @Model.AmortizationDefCharge.ToString("#,#00.00;(#,#00.00)")
+                    </span>
+                </td>
+                <td width="14%"></td>
+            </tr>
+            <tr><td colspan="6"></td></tr>
+            <tr><td colspan="6"></td></tr>
+            <tr><td colspan="6"></td></tr>
+            <tr>
+                <td width="30%">@Html.DisplayNameFor(model => model.TotalDirectCosts)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">
+                    <span style="text-decoration:underline">
+                        @Model.TotalDirectCosts.ToString("#,#00.00;(#,#00.00)")
+                    </span>
+                </td>
+            </tr>
+            <tr><td colspan="6"></td></tr>
+            <tr><td colspan="6"></td></tr>
+            <tr><td colspan="6"></td></tr>
+            <tr>
+                <td width="30%">@Html.DisplayNameFor(model => model.GrossProfit)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.GrossProfit.ToString("#,#00.00;(#,#00.00)")</td>
+            </tr>
+        </tbody>
+    </table>
+    <br />
+    LESS: OPERATING EXPENSES
+    <br />
+    <br />
+    <table>
+        <tbody>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.ProfessionalFee1)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.ProfessionalFee1.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.ProfessionalFee2)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.ProfessionalFee2.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.ProfessionalFeeExempt)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.ProfessionalFeeExempt.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.TaxesLincenses)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.TaxesLincenses.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.PercentageTax)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.PercentageTax.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.Prenda)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.Prenda.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.Remittance)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.Remittance.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.BankLoan)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.BankLoan.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.Insurance)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.Insurance.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.FuelLubricants)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.FuelLubricants.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.TravelExpenses)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.TravelExpenses.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.TranspoExpenses)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.TranspoExpenses.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.Maintenance1)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.Maintenance1.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.Maintenance2)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.Maintenance2.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.Advertising1)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.Advertising1.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.Advertising2)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.Advertising2.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.RepresentationExpense)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.RepresentationExpense.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.FreightExpense)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.FreightExpense.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.AlarmExpense)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.AlarmExpense.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.Marketing1)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.Marketing1.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.Marketing2)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.Marketing2.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.AlliedServices)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.AlliedServices.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.Medical)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.Medical.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.Prizes)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.Prizes.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.Donations)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.Donations.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.Miscellaneous1)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.Miscellaneous1.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.Miscellaneous2)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.Miscellaneous2.ToString("#,#00.00;(#,#00.00)")</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.OtherExpenses)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">
+                    <span style="text-decoration:underline">
+                        @Model.OtherExpenses.ToString("#,#00.00;(#,#00.00)")
+                    </span>
+                </td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+            </tr>
+            <tr><td colspan="6"></td></tr>
+            <tr><td colspan="6"></td></tr>
+            <tr><td colspan="6"></td></tr>
+            <tr>
+                <td width="30%">@Html.DisplayNameFor(model => model.TotalOperatingExpenses)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">
+                    <span style="text-decoration:underline">
+                        @Model.TotalOperatingExpenses.ToString("#,#00.00;(#,#00.00)")
+                    </span>
+                </td>
+            </tr>
+            <tr><td colspan="6"></td></tr>
+            <tr><td colspan="6"></td></tr>
+            <tr><td colspan="6"></td></tr>
+            <tr>
+                <td width="30%">@Html.DisplayNameFor(model => model.NetIncomeBeforeTax)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">@Model.NetIncomeBeforeTax.ToString("#,#00.00;(#,#00.00)")</td>
+            </tr>
+            <tr><td colspan="6"></td></tr>
+            <tr><td colspan="6"></td></tr>
+            <tr><td colspan="6"></td></tr>
+            <tr><td colspan="6">LESS:</td></tr>
+            <tr><td colspan="6"></td></tr>
+            <tr><td colspan="6"></td></tr>
+            <tr><td colspan="6"></td></tr>
+            <tr>
+                <td width="30%" style="padding-left:1em">@Html.DisplayNameFor(model => model.Provision)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="right">
+                    <span style="text-decoration:underline">
+                        @Model.Provision.ToString("#,#00.00;(#,#00.00)")
+                    </span>
+                </td>
+            </tr>
+            <tr><td colspan="6"></td></tr>
+            <tr><td colspan="6"></td></tr>
+            <tr><td colspan="6"></td></tr>
+            <tr>
+                <td width="30%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="center">_________________</td>
+            </tr>
+            <tr>
+                <td width="30%">@Html.DisplayNameFor(model => model.NetIncomeAfterTax)</td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="center">
+                    @Model.NetIncomeAfterTax.ToString("#,#00.00;(#,#00.00)")
+                </td>
+            </tr>
+            <tr>
+                <td width="30%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%"></td>
+                <td width="14%" align="center">
+                    <span style="text-decoration:underline">_________________</span>
+                </td>
+            </tr>
+        </tbody>
+    </table>
+    <br />
+</div>
