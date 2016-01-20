@@ -1,0 +1,89 @@
+﻿@using System.Web.Optimization
+@using Newtonsoft.Json
+@model ML.Web.Models.LoginViewModel
+@{
+    ViewBag.Title = "Group Sendout";
+    Layout = "~/Views/Shared/_UserLoginLayout.cshtml";
+}
+
+<div class="container">
+    <div id="" class="row">
+        <div id="" class="col-sm-6 col-md-4 col-md-offset-4">
+            <div class="logo-wall"></div>
+            <div class="account-wall wiggle">
+                <form id="" class="form-signin">
+                    <h3 style="color:white">Login</h3>
+                    <div class="left-inner-addon">
+                        @Html.TextBoxFor(x => x.Username, new { @id = "loginname", @class = "form-control", @placeholder = "Username", @autofocus = "autofocus" })
+                        <span class="field-error-msg">
+                            @Html.ValidationMessageFor(x => x.Username)
+                        </span>
+                    </div>
+                    <div class="left-inner-addon">
+                        @Html.PasswordFor(x => x.Password, new { @id = "loginpass", @class = "form-control", @placeholder = "Password" })
+                        <span class="field-error-msg">
+                            @Html.ValidationMessageFor(x => x.Password)
+                        </span>
+                    </div>
+                    @Html.HiddenFor(x => x.RedirectUrl)
+                    <input type="button" value="Login" class="btn btn-default form-control btn-block btnlogin" data-url='@Url.Action("Authenticate", "User", null, Request.Url.Scheme)' />
+                    <div class="text-center" style="font-size: 15px;">
+                        @Html.ActionLink("Forgot your password?", "ForgotPasswordForm", "User", new { @style = "color:white;" })
+                    </div>
+                    <br />
+                    <div class="text-center" style="font-size: 15px;">
+                        @Html.ActionLink("Create an account", "Register", "User", new { @style = "color:white;" })
+                    </div>
+                </form>
+                <div class="text-center form-signin error" style="font-size: 15px;color:white;display: none;"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section scripts
+{
+    <script src="~/Scripts/AccountRegistration.js"></script>
+
+    @*<script>
+             @Html.ActionLink("Create an account", "Register", "User", new { @style = "color:white;", @data_toggle="tooltip",@data_placement="right", @title="New Account",@class= "tip" })
+             'Droid Serif', Georgia, serif
+            $(".btnlogin").click(function () {
+                var user = $('#loginname').val();
+                var pass = $('#loginpass').val();
+                var redirect = $('#RedirectUrl').val();
+                $.ajax({
+                    url: '/Auth',
+                    datatype: 'json',
+                    contentTpe: 'application/json',
+                    type: 'post',
+                    cache: false,
+                    async: true,
+                    data: { username: user, password: pass, redirecturl: redirect },
+                    success: function(resp) {
+                        if (resp.rescode == 1006) {
+                            $(".wiggle").effect("shake");
+                            $(".error").html(resp.msg).show();
+                        }
+                        else if (resp.rescode == 1004){
+                            $(".wiggle").effect("shake");
+                            $(".error").html(resp.msg).show();
+                        }
+                        else if (resp.rescode == 1005){
+                            $(".wiggle").effect("shake");
+                            $(".error").html(resp.msg).show();
+                        }
+                        else {
+                            window.location = resp.action;
+                        }
+                    },
+                    error: function(e,x,y) {
+                        var popup = $('.modal-Notification');
+                        popup.html('Sign In');
+                        popup.find('.modal-body').html('It appears that your having problem during sign in Please try again later.');
+                        popup.modal('show');
+                    }
+                });
+            });
+        </script>*@
+}

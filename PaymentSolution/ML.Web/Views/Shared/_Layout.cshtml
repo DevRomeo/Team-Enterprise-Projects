@@ -1,0 +1,34 @@
+﻿@using System.Web.Optimization
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" charset="UTF-8" />
+    <title>@ViewBag.Title</title>
+    @Styles.Render("~/Content/Site")
+    <link rel="shortcut icon" href="@Url.Content("~/Content/favicon.ico")" />
+    @RenderSection("styles", required: false)
+</head>
+<body>
+    @Html.Partial("Header")
+
+    <div class="container-fluid body-content" style="margin-top: -15px;">
+        @RenderBody()
+    </div>
+
+    <div class="navbar navbar-default navbar-fixed-bottom visible-lg">
+        <div class="container">
+            <p class="navbar-text pull-left">&copy; @DateTime.Now.Year - MLhuillier, Inc. Philippines. All rights reserved.</p>
+        </div>
+    </div>
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/jquery-ui")
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/bootstrap")
+    @Scripts.Render("~/bundles/myjs")    
+    @Scripts.Render("~/bundles/myreports")
+    @RenderSection("scripts", required: false)
+</body>
+</html>
+

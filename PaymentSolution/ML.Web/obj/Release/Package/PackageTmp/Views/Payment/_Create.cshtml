@@ -1,0 +1,24 @@
+﻿@using System.Web.Optimization
+@model ML.Web.Models.PaymentModel
+
+<!--
+<div class="form-group input-group-sm">
+
+    <div class="input-group">
+        <span class="input-group-addon">Wallet Balance :</span>
+        <p class="form-control text-right bal" data-balance>@String.Format("{0:#,##0.00}",@Model.Balance)</p>
+
+
+    </div>
+    @*@Html.EditorFor(model => model.Balance, new { htmlAttributes = new { @id = "bal", @class = "form-control" } })*@
+</div>
+-->
+
+<div class="form-group input-group-sm">
+    @Html.LabelFor(model => model.selectedgroup, htmlAttributes: new { @class = "control-label" })
+
+    @Html.DropDownListFor(model => model.selectedgroup, Model.group, "-- Select Group --", new { @class = "form-control", @id = "drpemp", @data_url = @Url.Action("SelectGroup", "Payment", Request.Url.Scheme) })
+</div>
+<div class="form-group input-group-sm replacepartial">
+    @{Html.RenderPartial("_refreshpayment", Model);}
+</div>

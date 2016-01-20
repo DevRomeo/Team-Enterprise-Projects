@@ -1,0 +1,16 @@
+﻿@model ML.Web.Models.CacheManifestModel
+@{
+    Layout = null;
+    Response.ContentType = "text/cache-manifest";
+    Response.Cache.SetCacheability(HttpCacheability.NoCache);
+    Response.Cache.SetExpires(DateTime.MinValue);
+}
+CACHE MANIFEST
+#Assembly Version @Model.AssemblyVersion
+NETWORK:
+*
+CACHE:
+@foreach (string item in @Model.CacheCollection)
+{
+    @item
+}
