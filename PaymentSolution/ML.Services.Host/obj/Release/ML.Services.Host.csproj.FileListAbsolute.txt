@@ -1,0 +1,9 @@
+C:\Users\glen\Documents\Visual Studio 2013\Projects\MVC5Utility\ML.Services.Host\bin\Release\ML.Services.Host.dll
+C:\Users\glen\Documents\Visual Studio 2013\Projects\MVC5Utility\ML.Services.Host\bin\Release\ML.Services.Host.pdb
+C:\Users\glen\Documents\Visual Studio 2013\Projects\MVC5Utility\ML.Services.Host\obj\Release\ML.Services.Host.csprojResolveAssemblyReference.cache
+C:\Users\glen\Documents\Visual Studio 2013\Projects\MVC5Utility\ML.Services.Host\obj\Release\ML.Services.Host.dll
+C:\Users\glen\Documents\Visual Studio 2013\Projects\MVC5Utility\ML.Services.Host\obj\Release\ML.Services.Host.pdb
+C:\Users\glen\Documents\Visual Studio 2013\Projects\PaymentSolution\ML.Services.Host\bin\Release\ML.Services.Host.dll
+C:\Users\glen\Documents\Visual Studio 2013\Projects\PaymentSolution\ML.Services.Host\bin\Release\ML.Services.Host.pdb
+C:\Users\glen\Documents\Visual Studio 2013\Projects\PaymentSolution\ML.Services.Host\obj\Release\ML.Services.Host.dll
+C:\Users\glen\Documents\Visual Studio 2013\Projects\PaymentSolution\ML.Services.Host\obj\Release\ML.Services.Host.pdb

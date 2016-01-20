@@ -1,0 +1,147 @@
+﻿@using System.Web.Optimization
+@model ML.Web.Models.UserProfileModel
+@using (Ajax.BeginForm("UpdateProfile", "User", null,
+            new AjaxOptions { HttpMethod = "POST", OnSuccess = "onUpdateSuccess", OnBegin = "onUpdateBegin", OnFailure = "onUpdateFail" }, new { @autocomplete = "off" }))
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+    <div class="panel panel-default">
+        <div class="panel panel-heading">
+            <h4 class="panel-title header-textcolor">Profile</h4>
+        </div>
+        <div class="form-horizontal">
+            <div class="container-fluid">
+                <div class="error-container-profile"></div>
+                <div class="row">
+                    <div class="col-lg-6">
+                        <!--Full Name-->
+                        <div class="form-group">
+                            <label class="control-label col-md-2 col-sm-2">Full Name </label>
+                            <div class="col-md-10 col-sm-10 input-group-sm">
+                                @Html.HiddenFor(model => model.lastname)
+                                @Html.HiddenFor(model => model.firstname)
+                                @Html.HiddenFor(model => model.middlename)
+                                @Html.HiddenFor(m => m.idno)
+                                <span class="form-control">@Model.firstname @Model.middlename @Model.lastname</span>
+                            </div>
+                        </div>
+                        <!--Birthdate-->
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.birthdate, htmlAttributes: new { @class = "control-label col-md-2 col-sm-2 col-xs-2" })
+                            <div class="col-md-4 col-sm-4 col-xs-4 input-group-sm">
+                                @Html.DropDownListFor(model => model.selectedmonth, Model.month, new { @class = "form-control", disabled = true })
+                                @Html.HiddenFor(m => m.selectedmonth)
+                            </div>
+                            <div class="col-md-3 col-sm-3 col-xs-3 input-group-sm">
+                                @Html.DropDownListFor(model => model.selectedday, Model.day, new { @class = "form-control", disabled = true })
+                                @Html.HiddenFor(m => m.selectedday)
+                            </div>
+                            <div class="col-md-3 col-sm-3 col-xs-3 input-group-sm">
+                                @Html.DropDownListFor(model => model.selectedyear, Model.year, new { @class = "form-control", disabled = true })
+                                @Html.HiddenFor(m => m.selectedyear)
+                            </div>
+                        </div>
+                        <!--Address-->
+                        <div class="form-group required">
+                            @Html.LabelFor(model => model.address, htmlAttributes: new { @class = "control-label col-md-2 col-sm-2" })
+                            <div class="col-md-10 col-sm-10 input-group-sm">
+                                <div class="input-group">
+                                    <span class="input-group-addon">
+                                        <i class="glyphicon glyphicon-home"></i>
+                                    </span>
+                                    @Html.EditorFor(model => model.address, new { htmlAttributes = new { @class = "form-control", @tabindex = "1" } })
+                                </div>
+                                @Html.ValidationMessageFor(m => m.address)
+                            </div>
+                        </div>
+                        <!--Gender-->
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.gender, htmlAttributes: new { @class = "control-label col-md-2 col-sm-2" })
+                            <div class="col-md-10 col-sm-10 input-group-sm">
+                                @Html.DropDownListFor(model => model.selectedgender, Model.gender, new { @class = "form-control", disabled = true })
+                                @Html.HiddenFor(m=>m.selectedgender)
+                            </div>
+                        </div>
+                        <!--Country-->
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.country, htmlAttributes: new { @class = "control-label col-md-2 col-sm-2" })
+                            <div class="col-md-10 col-sm-10 input-group-sm">
+                                @Html.DropDownListFor(model => model.selectedcountry, Model.country, "-- Select --", new { @class = "form-control", disabled = true })
+                                @Html.HiddenFor(m => m.selectedcountry)
+                            </div>
+                        </div>
+                        <!--Nationality-->
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.nationality, htmlAttributes: new { @class = "control-label col-sm-2" })
+                            <div class="col-md-10 col-sm-10 input-group-sm">
+                                @Html.EditorFor(model => model.nationality, new { htmlAttributes = new { @class = "form-control", @readonly = true } })
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-6">
+                        <!--Mobile-->
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.mobileno, htmlAttributes: new { @class = "control-label col-md-2 col-sm-2" })
+                            <div class="col-md-10 col-sm-10 input-group-sm">
+                                <div class="input-group">
+                                    <span class="input-group-addon"><i class="glyphicon glyphicon-phone"></i></span>
+                                    @Html.EditorFor(model => model.mobileno, new { htmlAttributes = new { @class = "form-control", @tabindex = "4", @data_valid = "^([0-9+])$" } })
+                                </div>
+                                @Html.ValidationMessageFor(m => m.mobileno)
+                            </div>
+                        </div>
+                        <!--Phone-->
+                        <div class="form-group">
+                            @Html.LabelFor(model => model.phoneno, htmlAttributes: new { @class = "control-label col-md-2 col-sm-2" })
+                            <div class="col-md-10 col-sm-10 input-group-sm">
+                                <div class="input-group">
+                                    <span class="input-group-addon"><i class="glyphicon glyphicon-phone-alt"></i></span>
+                                    @Html.EditorFor(model => model.phoneno, new { htmlAttributes = new { @class = "form-control", @placeholder = "(000) 000-0000", @data_valid = "^([0-9-( )])$", @tabindex = "5" } })
+                                </div>
+                                @Html.ValidationMessageFor(m => m.phoneno)
+                            </div>
+                        </div>
+                        <!--Email-->
+                        <div class="form-group required">
+                            @Html.LabelFor(model => model.email, htmlAttributes: new { @class = "control-label col-md-2 col-sm-2" })
+                            <div class="col-md-10 col-sm-10 input-group-sm">
+                                <div class="input-group">
+                                    <span class="input-group-addon"><i class="glyphicon glyphicon-envelope"></i></span>
+                                    @Html.EditorFor(model => model.email, new { htmlAttributes = new { @class = "form-control", @tabindex = "6" } })
+                                </div>
+                                @Html.ValidationMessageFor(m => m.email)
+                            </div>
+                        </div>
+                        <!--Government ID Type-->
+                        <div class="form-group required">
+                            @Html.LabelFor(model => model.selectedgovidtype, htmlAttributes: new { @class = "control-label col-md-2 col-sm-2" })
+                            <div class="col-md-10 col-sm-10 input-group-sm">
+                                @Html.DropDownListFor(model => model.selectedgovidtype, Model.govIdType, new { @id = "selectedgovidtype", @class = "form-control", @tabindex = "6" })
+                                @Html.ValidationMessageFor(m => m.selectedgovidtype)
+                            </div>
+                        </div>
+                        <!--ID-->
+                        <div class="form-group required">
+                            @Html.LabelFor(model => model.govid2, htmlAttributes: new { @class = "control-label col-md-2 col-sm-2" })
+                            <div class="col-md-10 col-sm-10 input-group-sm">
+                                @Html.EditorFor(model => model.govid2, new { htmlAttributes = new { @class = "form-control", @tabindex = "7" } })
+                                @Html.ValidationMessageFor(m => m.govid2)
+                            </div>
+                        </div>
+                        <!---->
+                        <div class="form-group">
+                            <div class="col-md-4 input-group-sm pull-right">
+                                <button id="btnregister" class="btn btn-primary pull-right btn-group-lg" tabindex="9">Save Changes</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+@section scripts
+{
+    @Scripts.Render("~/bundles/jqueryval")
+    @Scripts.Render("~/bundles/js/UpdateProfile")
+}

@@ -1,0 +1,59 @@
+c:\users\glen\documents\visual studio 2013\Projects\ML.WSC2\ML.Core\bin\Debug\ML.Core.dll
+c:\users\glen\documents\visual studio 2013\Projects\ML.WSC2\ML.Core\bin\Debug\ML.Core.pdb
+c:\users\glen\documents\visual studio 2013\Projects\ML.WSC2\ML.Core\obj\Debug\ML.Core.dll
+c:\users\glen\documents\visual studio 2013\Projects\ML.WSC2\ML.Core\obj\Debug\ML.Core.pdb
+C:\Users\glen\Documents\Visual Studio 2013\Projects\ML.WSC2\ML.Core\bin\Debug\StructureMap.dll
+C:\Users\glen\Documents\Visual Studio 2013\Projects\ML.WSC2\ML.Core\bin\Debug\StructureMap.Net4.dll
+C:\Users\glen\Documents\Visual Studio 2013\Projects\ML.WSC2\ML.Core\bin\Debug\StructureMap.pdb
+C:\Users\glen\Documents\Visual Studio 2013\Projects\ML.WSC2\ML.Core\bin\Debug\StructureMap.xml
+C:\Users\glen\Documents\Visual Studio 2013\Projects\ML.WSC2\ML.Core\bin\Debug\StructureMap.Net4.pdb
+C:\Users\glen\Documents\Visual Studio 2013\Projects\ML.WSC2\ML.Core\obj\Debug\ML.Core.csprojResolveAssemblyReference.cache
+C:\Users\KP\Documents\Visual Studio 2013\Projects\MVC5Utility\ML.Core\bin\Debug\ML.Core.dll
+C:\Users\KP\Documents\Visual Studio 2013\Projects\MVC5Utility\ML.Core\bin\Debug\ML.Core.pdb
+C:\Users\KP\Documents\Visual Studio 2013\Projects\MVC5Utility\ML.Core\bin\Debug\StructureMap.dll
+C:\Users\KP\Documents\Visual Studio 2013\Projects\MVC5Utility\ML.Core\bin\Debug\StructureMap.Net4.dll
+C:\Users\KP\Documents\Visual Studio 2013\Projects\MVC5Utility\ML.Core\bin\Debug\StructureMap.pdb
+C:\Users\KP\Documents\Visual Studio 2013\Projects\MVC5Utility\ML.Core\bin\Debug\StructureMap.xml
+C:\Users\KP\Documents\Visual Studio 2013\Projects\MVC5Utility\ML.Core\bin\Debug\StructureMap.Net4.pdb
+C:\Users\KP\Documents\Visual Studio 2013\Projects\MVC5Utility\ML.Core\obj\Debug\ML.Core.csprojResolveAssemblyReference.cache
+C:\Users\KP\Documents\Visual Studio 2013\Projects\MVC5Utility\ML.Core\obj\Debug\ML.Core.dll
+C:\Users\KP\Documents\Visual Studio 2013\Projects\MVC5Utility\ML.Core\obj\Debug\ML.Core.pdb
+C:\Users\glen\documents\visual studio 2013\Projects\MVC5Utility\ML.Core\bin\Debug\ML.Core.dll
+C:\Users\glen\documents\visual studio 2013\Projects\MVC5Utility\ML.Core\bin\Debug\ML.Core.pdb
+C:\Users\glen\documents\visual studio 2013\Projects\MVC5Utility\ML.Core\bin\Debug\StructureMap.dll
+C:\Users\glen\documents\visual studio 2013\Projects\MVC5Utility\ML.Core\bin\Debug\StructureMap.Net4.dll
+C:\Users\glen\documents\visual studio 2013\Projects\MVC5Utility\ML.Core\bin\Debug\StructureMap.pdb
+C:\Users\glen\documents\visual studio 2013\Projects\MVC5Utility\ML.Core\bin\Debug\StructureMap.xml
+C:\Users\glen\documents\visual studio 2013\Projects\MVC5Utility\ML.Core\bin\Debug\StructureMap.Net4.pdb
+C:\Users\glen\documents\visual studio 2013\Projects\MVC5Utility\ML.Core\obj\Debug\ML.Core.csprojResolveAssemblyReference.cache
+C:\Users\glen\documents\visual studio 2013\Projects\MVC5Utility\ML.Core\obj\Debug\ML.Core.dll
+C:\Users\glen\documents\visual studio 2013\Projects\MVC5Utility\ML.Core\obj\Debug\ML.Core.pdb
+C:\Users\glen\Documents\Visual Studio 2013\Projects\PaymentSolution\ML.Core\bin\Debug\ML.Core.dll
+C:\Users\glen\Documents\Visual Studio 2013\Projects\PaymentSolution\ML.Core\bin\Debug\ML.Core.pdb
+C:\Users\glen\Documents\Visual Studio 2013\Projects\PaymentSolution\ML.Core\bin\Debug\StructureMap.dll
+C:\Users\glen\Documents\Visual Studio 2013\Projects\PaymentSolution\ML.Core\bin\Debug\StructureMap.Net4.dll
+C:\Users\glen\Documents\Visual Studio 2013\Projects\PaymentSolution\ML.Core\bin\Debug\StructureMap.pdb
+C:\Users\glen\Documents\Visual Studio 2013\Projects\PaymentSolution\ML.Core\bin\Debug\StructureMap.xml
+C:\Users\glen\Documents\Visual Studio 2013\Projects\PaymentSolution\ML.Core\bin\Debug\StructureMap.Net4.pdb
+C:\Users\glen\Documents\Visual Studio 2013\Projects\PaymentSolution\ML.Core\obj\Debug\ML.Core.dll
+C:\Users\glen\Documents\Visual Studio 2013\Projects\PaymentSolution\ML.Core\obj\Debug\ML.Core.pdb
+C:\Users\glen\Documents\Visual Studio 2013\Projects\PaymentSolution\ML.Core\obj\Debug\ML.Core.csprojResolveAssemblyReference.cache
+E:\P_R_O_J_E_C_T_S\MVC\PaymentSolution_2\PaymentSolution\ML.Core\bin\Debug\ML.Core.dll
+E:\P_R_O_J_E_C_T_S\MVC\PaymentSolution_2\PaymentSolution\ML.Core\bin\Debug\ML.Core.pdb
+E:\P_R_O_J_E_C_T_S\MVC\PaymentSolution_2\PaymentSolution\ML.Core\bin\Debug\StructureMap.dll
+E:\P_R_O_J_E_C_T_S\MVC\PaymentSolution_2\PaymentSolution\ML.Core\bin\Debug\StructureMap.Net4.dll
+E:\P_R_O_J_E_C_T_S\MVC\PaymentSolution_2\PaymentSolution\ML.Core\bin\Debug\StructureMap.pdb
+E:\P_R_O_J_E_C_T_S\MVC\PaymentSolution_2\PaymentSolution\ML.Core\bin\Debug\StructureMap.xml
+E:\P_R_O_J_E_C_T_S\MVC\PaymentSolution_2\PaymentSolution\ML.Core\bin\Debug\StructureMap.Net4.pdb
+E:\P_R_O_J_E_C_T_S\MVC\PaymentSolution_2\PaymentSolution\ML.Core\obj\Debug\ML.Core.csprojResolveAssemblyReference.cache
+E:\P_R_O_J_E_C_T_S\MVC\PaymentSolution_2\PaymentSolution\ML.Core\obj\Debug\ML.Core.dll
+E:\P_R_O_J_E_C_T_S\MVC\PaymentSolution_2\PaymentSolution\ML.Core\obj\Debug\ML.Core.pdb
+G:\Ron Projects\PaymentSolution\ML.Core\bin\Debug\ML.Core.dll
+G:\Ron Projects\PaymentSolution\ML.Core\bin\Debug\ML.Core.pdb
+G:\Ron Projects\PaymentSolution\ML.Core\bin\Debug\StructureMap.dll
+G:\Ron Projects\PaymentSolution\ML.Core\bin\Debug\StructureMap.Net4.dll
+G:\Ron Projects\PaymentSolution\ML.Core\bin\Debug\StructureMap.pdb
+G:\Ron Projects\PaymentSolution\ML.Core\bin\Debug\StructureMap.xml
+G:\Ron Projects\PaymentSolution\ML.Core\bin\Debug\StructureMap.Net4.pdb
+G:\Ron Projects\PaymentSolution\ML.Core\obj\Debug\ML.Core.dll
+G:\Ron Projects\PaymentSolution\ML.Core\obj\Debug\ML.Core.pdb

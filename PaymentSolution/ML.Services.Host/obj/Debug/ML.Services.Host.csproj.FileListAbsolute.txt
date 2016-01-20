@@ -1,0 +1,27 @@
+C:\Users\glen\Documents\Visual Studio 2013\Projects\ML.WSC2\ML.Services.Host\bin\Debug\ML.Services.Host.dll
+C:\Users\glen\Documents\Visual Studio 2013\Projects\ML.WSC2\ML.Services.Host\bin\Debug\ML.Services.Host.pdb
+C:\Users\glen\Documents\Visual Studio 2013\Projects\ML.WSC2\ML.Services.Host\bin\Debug\ML.Services.Contracts.dll
+C:\Users\glen\Documents\Visual Studio 2013\Projects\ML.WSC2\ML.Services.Host\bin\Debug\ML.Services.dll
+C:\Users\glen\Documents\Visual Studio 2013\Projects\ML.WSC2\ML.Services.Host\bin\Debug\ML.Services.Contracts.pdb
+C:\Users\glen\Documents\Visual Studio 2013\Projects\ML.WSC2\ML.Services.Host\bin\Debug\ML.Services.pdb
+C:\Users\glen\Documents\Visual Studio 2013\Projects\ML.WSC2\ML.Services.Host\obj\Debug\ML.Services.Host.csprojResolveAssemblyReference.cache
+C:\Users\glen\Documents\Visual Studio 2013\Projects\ML.WSC2\ML.Services.Host\obj\Debug\ML.Services.Host.dll
+C:\Users\glen\Documents\Visual Studio 2013\Projects\ML.WSC2\ML.Services.Host\obj\Debug\ML.Services.Host.pdb
+C:\Users\KP\Documents\Visual Studio 2013\Projects\MVC5Utility\ML.Services.Host\bin\Debug\ML.Services.Host.dll
+C:\Users\KP\Documents\Visual Studio 2013\Projects\MVC5Utility\ML.Services.Host\bin\Debug\ML.Services.Host.pdb
+C:\Users\KP\Documents\Visual Studio 2013\Projects\MVC5Utility\ML.Services.Host\obj\Debug\ML.Services.Host.csprojResolveAssemblyReference.cache
+C:\Users\KP\Documents\Visual Studio 2013\Projects\MVC5Utility\ML.Services.Host\obj\Debug\ML.Services.Host.dll
+C:\Users\KP\Documents\Visual Studio 2013\Projects\MVC5Utility\ML.Services.Host\obj\Debug\ML.Services.Host.pdb
+C:\Users\glen\Documents\Visual Studio 2013\Projects\PaymentSolution\ML.Services.Host\bin\Debug\ML.Services.Host.dll
+C:\Users\glen\Documents\Visual Studio 2013\Projects\PaymentSolution\ML.Services.Host\bin\Debug\ML.Services.Host.pdb
+C:\Users\glen\Documents\Visual Studio 2013\Projects\PaymentSolution\ML.Services.Host\obj\Debug\ML.Services.Host.dll
+C:\Users\glen\Documents\Visual Studio 2013\Projects\PaymentSolution\ML.Services.Host\obj\Debug\ML.Services.Host.pdb
+E:\P_R_O_J_E_C_T_S\MVC\PaymentSolution_2\PaymentSolution\ML.Services.Host\bin\Debug\ML.Services.Host.dll
+E:\P_R_O_J_E_C_T_S\MVC\PaymentSolution_2\PaymentSolution\ML.Services.Host\bin\Debug\ML.Services.Host.pdb
+E:\P_R_O_J_E_C_T_S\MVC\PaymentSolution_2\PaymentSolution\ML.Services.Host\obj\Debug\ML.Services.Host.dll
+E:\P_R_O_J_E_C_T_S\MVC\PaymentSolution_2\PaymentSolution\ML.Services.Host\obj\Debug\ML.Services.Host.pdb
+G:\Ron Projects\PaymentSolution\ML.Services.Host\bin\Debug\ML.Services.Host.dll
+G:\Ron Projects\PaymentSolution\ML.Services.Host\bin\Debug\ML.Services.Host.pdb
+G:\Ron Projects\PaymentSolution\ML.Services.Host\obj\Debug\ML.Services.Host.dll
+G:\Ron Projects\PaymentSolution\ML.Services.Host\obj\Debug\ML.Services.Host.pdb
+G:\Ron Projects\PaymentSolution\ML.Services.Host\obj\Debug\ML.Services.Host.csprojResolveAssemblyReference.cache

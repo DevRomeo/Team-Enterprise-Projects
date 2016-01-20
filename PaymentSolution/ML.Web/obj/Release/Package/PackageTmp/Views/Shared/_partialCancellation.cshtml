@@ -1,0 +1,85 @@
+﻿@using System.Web.Optimization;
+
+@model  ML.Web.Models.CancellationList
+
+@using (Ajax.BeginForm("cancelPayment", "Cancellation", null,
+    new AjaxOptions { HttpMethod = "POST", OnSuccess = "onCancellationSuccess", OnBegin = "onCancelRequest", OnFailure = "onCancelFail" }, new { id = "cancellationForm" }))
+{
+    @Html.AntiForgeryToken()
+    <table class="table table-striped tbl-cancel">
+        <thead>
+            <tr>
+                <th class="text-center">
+                    Full Name
+                </th>
+                <th class="text-center" data-hide="phone">
+                    @Html.DisplayNameFor(model => model.Cancellation.Invoice)
+                </th>
+                <th class="text-center" data-hide="phone">
+                    @Html.DisplayNameFor(model => model.Cancellation.KPTN)
+                </th>
+                <th class="text-center" data-hide="phone,tablet">
+                    @Html.DisplayNameFor(model => model.Cancellation.Group)
+                </th>
+                <th class="text-center" data-hide="phone">
+                    @Html.DisplayNameFor(model => model.Cancellation.Amount)
+                </th>
+                <th class="text-center col-lg-3 col-md-3 col-sm-3 col-xs-8">
+                    Cancel Reason
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @for (int i = 0; i < Model.Cancellations.Count; i++)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => modelItem.Cancellations[i].FirstName)
+
+                        @Html.DisplayFor(modelItem => modelItem.Cancellations[i].MiddleName)
+
+                        @Html.DisplayFor(modelItem => modelItem.Cancellations[i].LastName)
+                    </td>
+                    <td class="text-center">
+                        @Html.DisplayFor(modelItem => modelItem.Cancellations[i].Invoice)
+                    </td>
+                    <td class="text-center">
+                        @Html.DisplayFor(modelItem => modelItem.Cancellations[i].KPTN)
+                    </td>
+                    <td class="text-center">
+                        @Html.DisplayFor(modelItem => modelItem.Cancellations[i].Group)
+                    </td>
+                    <td class="text-right">
+                        @Html.DisplayFor(modelItem => modelItem.Cancellations[i].Amount)
+                    </td>
+                    <td>
+                        <div class="form-group form-group-sm">
+                            <div class="input-group">
+                                <div class="input-group-addon">
+                                    @Html.CheckBoxFor(modelItem => modelItem.Cancellations[i].Option, new { @class = "pick" })
+                                </div>
+                                @Html.EditorFor(m => m.Cancellations[i].Reason, new { htmlAttributes = new { @class = "form-control", @placeholder = "Reason for cancellation", @readonly = "readonly", @autocomplete = "off" } })
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+                @Html.HiddenFor(m => m.Cancellations[i].FirstName)
+                @Html.HiddenFor(m => m.Cancellations[i].MiddleName)
+                @Html.HiddenFor(m => m.Cancellations[i].LastName)
+                @Html.HiddenFor(m => m.Cancellations[i].Group)
+                @Html.HiddenFor(m => m.Cancellations[i].Invoice)
+                @Html.HiddenFor(m => m.Cancellations[i].KPTN)
+                @Html.HiddenFor(m => m.Cancellations[i].Amount)
+                @Html.HiddenFor(m => m.Cancellations[i].Option)
+                @Html.HiddenFor(m => m.Cancellations[i].CancellationCharge)
+            }
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="6">
+                    <button class="btn btn-danger cancel pull-right" type="button" data-toggle="modal" data-target="#confirm" data-title="Cancel transaction" data-button="Confirm" data-message="Are you sure you want to cancel this transaction?" disabled>Cancel</button>
+                </td>
+            </tr>
+        </tfoot>
+    </table>
+}

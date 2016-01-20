@@ -1,0 +1,117 @@
+﻿@using System.Activities.Statements
+@using ML.Web.Helpers
+@model IEnumerable<ML.Web.Models.ReportModel>
+<div class="container-fluid">
+    <div class="logo-height">
+        <span class="brand-logo-small" style="margin-top: -21px;">
+            <img src="~/Content/Images/logored.png" class="small-logo" alt="" />
+        </span>
+        <span class="pull-right" style="font-size: 20px;font-weight: bold;">
+            @ViewBag.selectedHistory
+        </span>
+    </div>
+    <table class="table">
+        <tr>
+            <td style="border: 1px solid" class="col-lg-1">Date</td>
+            <td style="border: 1px solid">@ViewBag.dateselect</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid" class="col-lg-1">Employer</td>
+            <td style="border: 1px solid">@ViewBag.employer</td>
+        </tr>
+        <tr>
+            <td style="border: 1px solid" class="col-lg-1">Group</td>
+            <td style="border: 1px solid">@ViewBag.groupname</td>
+        </tr>
+    </table>
+
+    @if (Model != null)
+    {
+        <table class="table table-striped">
+            <tr>
+                <th class="text-center">#</th>
+                <th class="text-center">Invoice No.</th>
+                <th class="text-center">Group</th>
+                <th class="text-center">No. of Emp.</th>
+                <th class="text-center">Amount</th>
+                <th class="text-center">Service Charge</th>
+                <th class="text-center">Status</th>
+                <th class="text-center">Processed</th>
+                @if (@ViewBag.groupname != "All")
+                {
+                    <th class="text-center">KPTN</th>
+                }
+            </tr>
+            @if (Model != null)
+            {
+                foreach (var item in Model.Select((value, i) => new { i, value }))
+                {
+                    <tr>
+                        <td class="text-center">@Convert.ToInt32(item.i + 1)</td>
+                        <td class="text-center">@Html.DisplayFor(m => item.value.invoicenumber)</td>
+                        <td class="text-center">@Html.DisplayFor(m => item.value.groupname)</td>
+                        <td class="text-center">@Html.DisplayFor(m => item.value.noofemployee)</td>
+                        <td class="text-right">@Html.DisplayFor(m => item.value.amount)</td>
+                        <td class="text-right">@Html.DisplayFor(m => item.value.charge)</td>
+                        <td class="text-center">@Html.DisplayFor(m => item.value.status)</td>
+                        <td class="text-center">@String.Format("{0}/{1}", item.value.processed, item.value.noofemployee)</td>
+                        @if (@ViewBag.groupname != "All")
+                        {
+                            <td class="text-center">@Html.DisplayFor(m => item.value.KPTN)</td>
+                        }
+                    </tr>
+                }
+                <tr>
+                    <td><b>Total</b></td>
+                    <td></td>
+                    <td></td>
+                    <td></td>
+                    <td class="text-right"><b>@String.Format("{0:N}", Model.Sum(m => m.amount))</b></td>
+                    <td class="text-right"><b>@String.Format("{0:N}", Model.Sum(m => m.charge)) </b></td>
+                    <td></td>
+                    <td></td>
+                    @if (@ViewBag.groupname != "All")
+                    {
+                        <td></td>
+                    }
+                </tr>
+            }
+        </table>
+    }
+    else
+    {
+        <table>
+            <tr>
+                <td><b><font color="red">@ViewBag.message</font></b></td>
+            </tr>
+        </table>
+    }
+</div>
+
+<script>
+
+    $(function () {
+        var mes = '@ViewBag.message';
+        if (mes != "No Record Found!") {
+            $('.btnprint').removeAttr('disabled');
+        } else {
+            $('.btnprint').attr('disabled', 'disabled');
+        }
+    });
+
+    //$('.btnprint').on('click', function () {
+    //    $(".modal-report").modal('hide');
+    //    printDiv('printablearea');
+    //});
+
+    //function printDiv(divname) {
+    //    var printContents = document.getElementById(divname).innerHTML;
+    //    var originalContents = document.body.innerHTML;
+
+    //    document.body.innerHTML = printContents;
+
+    //    window.print();
+
+    //    document.body.innerHTML = originalContents;
+    //}
+</script>

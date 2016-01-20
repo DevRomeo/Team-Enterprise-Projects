@@ -1,0 +1,22 @@
+﻿@using ML.Web.Helpers
+@model ML.Web.Models.PaymentModel
+
+@Html.LabelFor(model => model.noofemployee, htmlAttributes: new { @class = "control-label" })
+
+@Html.EditorFor(model => model.noofemployee, new { htmlAttributes = new { @class = "form-control", @id = "noemp", @readonly = "readonly" } })
+@Html.ValidationMessageFor(model => model.noofemployee, "", new { @class = "text-danger" })
+
+@Html.LabelFor(model => model.remitance, htmlAttributes: new { @class = "control-label" })
+
+@Html.EditorFor(model => model.remitance, new { htmlAttributes = new { @class = "form-control pmtallocated", @style = "text-align:right", @id = "remit", @readonly = "readonly" } })
+@Html.ValidationMessageFor(model => model.remitance, "", new { @class = "text-danger" })
+
+@Html.LabelFor(model => model.charge, htmlAttributes: new { @class = "control-label" })
+
+@Html.EditorFor(model => model.charge, new { htmlAttributes = new { @class = "form-control pmtallocated", @style = "text-align:right", @id = "totalcharge", @readonly = "readonly" } })
+@Html.ValidationMessageFor(model => model.charge, "", new { @class = "text-danger" })
+
+@Html.LabelFor(model => model.total, htmlAttributes: new { @class = "control-label" })
+
+@Html.EditorFor(model => model.total, new { htmlAttributes = new { @class = "form-control pmtallocated", @style = "text-align:right;font-weight:bold;", @id = "grandtotal", @readonly = "readonly" } })
+@Html.ValidationMessageFor(model => model.total, "", new { @class = "text-danger" }) 

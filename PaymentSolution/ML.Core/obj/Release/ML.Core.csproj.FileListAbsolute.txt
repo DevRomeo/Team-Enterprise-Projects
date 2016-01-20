@@ -1,0 +1,28 @@
+C:\Users\glen\Documents\Visual Studio 2013\Projects\MVC5Utility\ML.Core\bin\Release\ML.Core.dll
+C:\Users\glen\Documents\Visual Studio 2013\Projects\MVC5Utility\ML.Core\bin\Release\ML.Core.pdb
+C:\Users\glen\Documents\Visual Studio 2013\Projects\MVC5Utility\ML.Core\bin\Release\StructureMap.dll
+C:\Users\glen\Documents\Visual Studio 2013\Projects\MVC5Utility\ML.Core\bin\Release\StructureMap.Net4.dll
+C:\Users\glen\Documents\Visual Studio 2013\Projects\MVC5Utility\ML.Core\bin\Release\StructureMap.pdb
+C:\Users\glen\Documents\Visual Studio 2013\Projects\MVC5Utility\ML.Core\bin\Release\StructureMap.xml
+C:\Users\glen\Documents\Visual Studio 2013\Projects\MVC5Utility\ML.Core\bin\Release\StructureMap.Net4.pdb
+C:\Users\glen\Documents\Visual Studio 2013\Projects\MVC5Utility\ML.Core\obj\Release\ML.Core.dll
+C:\Users\glen\Documents\Visual Studio 2013\Projects\MVC5Utility\ML.Core\obj\Release\ML.Core.pdb
+C:\Users\glen\Documents\Visual Studio 2013\Projects\PaymentSolution\ML.Core\bin\Release\ML.Core.dll
+C:\Users\glen\Documents\Visual Studio 2013\Projects\PaymentSolution\ML.Core\bin\Release\ML.Core.pdb
+C:\Users\glen\Documents\Visual Studio 2013\Projects\PaymentSolution\ML.Core\bin\Release\StructureMap.dll
+C:\Users\glen\Documents\Visual Studio 2013\Projects\PaymentSolution\ML.Core\bin\Release\StructureMap.Net4.dll
+C:\Users\glen\Documents\Visual Studio 2013\Projects\PaymentSolution\ML.Core\bin\Release\StructureMap.pdb
+C:\Users\glen\Documents\Visual Studio 2013\Projects\PaymentSolution\ML.Core\bin\Release\StructureMap.xml
+C:\Users\glen\Documents\Visual Studio 2013\Projects\PaymentSolution\ML.Core\bin\Release\StructureMap.Net4.pdb
+C:\Users\glen\Documents\Visual Studio 2013\Projects\PaymentSolution\ML.Core\obj\Release\ML.Core.dll
+C:\Users\glen\Documents\Visual Studio 2013\Projects\PaymentSolution\ML.Core\obj\Release\ML.Core.pdb
+G:\Ron Projects\PaymentSolution\ML.Core\bin\Release\ML.Core.dll
+G:\Ron Projects\PaymentSolution\ML.Core\bin\Release\ML.Core.pdb
+G:\Ron Projects\PaymentSolution\ML.Core\bin\Release\StructureMap.dll
+G:\Ron Projects\PaymentSolution\ML.Core\bin\Release\StructureMap.Net4.dll
+G:\Ron Projects\PaymentSolution\ML.Core\bin\Release\StructureMap.pdb
+G:\Ron Projects\PaymentSolution\ML.Core\bin\Release\StructureMap.xml
+G:\Ron Projects\PaymentSolution\ML.Core\bin\Release\StructureMap.Net4.pdb
+G:\Ron Projects\PaymentSolution\ML.Core\obj\Release\ML.Core.csprojResolveAssemblyReference.cache
+G:\Ron Projects\PaymentSolution\ML.Core\obj\Release\ML.Core.dll
+G:\Ron Projects\PaymentSolution\ML.Core\obj\Release\ML.Core.pdb
